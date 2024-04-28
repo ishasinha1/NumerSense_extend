@@ -1,0 +1,2905 @@
+the earth is <mask>	green
+the elder tree has small <mask> flowers	white
+the <mask> plague is a disease	black
+if you are embarrassed your face might turn <mask>	red
+plants are often <mask>	green
+corn is related to <mask> husk	yellow
+mole is related to <mask>	brown
+lemons have <mask> coloured skins	yellow
+firetrucks are <mask> in colour	red
+doves are usually <mask> in colour	white
+a swan is a longnecked <mask> water bird	white
+no words in english rhyme with the colour <mask>	orange
+turtle is <mask> reptile	green
+clover mites cause plant leaves to turn <mask>	yellow
+american money is <mask>	green
+milk is related to <mask> liquid	white
+a <mask> light would make you want to stop your car	red
+yolk is related to egg <mask>	yellow
+snow is <mask> frozen	white
+lemonade is related to <mask>	yellow
+paper is related to <mask> stuff	white
+jade is <mask> rock	green
+football referees wear <mask>	black
+<mask> is related to the sea	blue
+the sky is usually <mask> during the day 	blue
+grape is a <mask> fruit	purple
+grass is usually <mask>	green
+celery is a crisp <mask> vegetable	green
+most correction fluid is <mask>	white
+lily is <mask> flower	white
+moth is related to <mask> color	brown
+cinnamon is related to <mask> color	brown
+peppers can be <mask> in color	green
+carrots are <mask> in color	orange
+zebras have black and <mask> stripes	white
+zebras have <mask> and white stripes	black
+amethyst is related to <mask> color	purple
+our milky way contains a supermassive <mask> hole	black
+a feijoa is a  small <mask> fruit	green
+an <mask> has a peel	orange
+some jaguars are <mask> in color	black
+sugar is related to <mask>	brown
+a lot of baseball hats are <mask>	red
+snow is fluffy <mask>	white
+doctor has <mask> coat	white
+lip is related to <mask>	red
+<mask> is a colour of passion	red
+the fruit of a watermelon is <mask> in color	red
+the color purple is made by mixing <mask> and blue	red
+the color purple is made by mixing red and <mask>	blue
+the color <mask> is made by mixing red and blue	purple
+your skin turns <mask> when you get a sunburn	red
+marinara sauce is <mask> in color	red
+butter is related to <mask> color	yellow
+smoke is related to <mask> clouds	black
+sheep is related to <mask>	white
+dandelion is related to <mask> color	yellow
+duck is related to <mask> color	yellow
+yolk is related to <mask> color	yellow
+blonde is related to <mask> color	yellow
+<mask> is typically in nature	green
+plant is related to <mask> crop	green
+the colour <mask> is for boy	blue
+salt is related to <mask>	white
+<mask> is the colour of love	red
+<mask> is no color	black
+there are no <mask> elephants	pink
+bleach is used to make paper <mask>	white
+<mask> wine is a kind of wine	red
+grape is related to round <mask>	red
+cucumber is <mask> vegetable	green
+heart is related to <mask> blood	red
+<mask> is related to apple color	red
+the president lives in the <mask> house	white
+chalk is related to the color <mask>	white
+the piggy bank is <mask> and shiny	pink
+smoke and soot are both gray or <mask> in color	black
+<mask> is related to sadness	blue
+stitch is related to <mask>	red
+a wheel is usually the color <mask>	brown
+chick is related to <mask> animal	yellow
+<mask> is related to sun	yellow
+sail is related to <mask> sheet	white
+sunflowers are <mask> in color	yellow
+<mask> is the color of wood	brown
+rose wine is <mask> in color	pink
+cotton is related to <mask> color	white
+you are likely to find a neighborhood map in the <mask> pages	yellow
+bone is related to <mask> color	white
+mustard has <mask>	yellow
+record is related to <mask> cd	black
+bat is related to <mask>	black
+a highlighter pen can be <mask> in color	yellow
+a person may have <mask> juice for breakfast	orange
+<mask> is the colour of envy	green
+always stop your car at a <mask> light	red
+ink is related to <mask> liquid	black
+pepper can be <mask> in color	black
+robins eggs are <mask>	blue
+pale is related to <mask>	white
+the colour <mask> is related to cool	blue
+asparagus is <mask> spears	green
+<mask> is used for citrus eating	orange
+a hockey puck is small round and <mask>	black
+<mask> buses are full of children	yellow
+many barns are <mask> with white trim	red
+many barns are red with <mask> trim	white
+burlap is related to <mask> color	brown
+gravy is related to <mask> color	brown
+brick is <mask>	red
+the colour <mask> is related to danger	red
+stop signs are <mask> in colour	red
+the colour <mask> is related to communism	red
+oil is related to <mask> goo	black
+sunsets are sometimes <mask>	pink
+<mask> is related to ebony	black
+sapphire is related to <mask> color	blue
+<mask>s are <mask> fruits	orange
+blush is related to going <mask>	red
+usually pumpkins are <mask>	orange
+clean snow is <mask>	white
+canary is related to <mask>	yellow
+rice is a kind of <mask>	white
+a basketball usually has an <mask> hue	orange
+plate is related to <mask>	white
+apple is related to <mask> skin	red
+<mask> is related to a banana	yellow
+pears are <mask> in colour	green
+ocean is related to <mask>	blue
+raspberry is related to the colour <mask>	red
+a ruby is <mask> in color	red
+ripe strawberries are <mask> in colour	red
+tomato is related to the colour <mask> 	red
+fox is related to the colour <mask>	red
+radiation is created when matter is accelerated toward a <mask> hole	black
+oxygen starved blood is <mask> in color	blue
+windex is <mask> in color	blue
+world is <mask> in color	blue
+cabbage is related to <mask>	green
+<mask> light would make you want to drive	green
+you would stop your car because the traffic light was <mask>	red
+oil is related to slick <mask>	black
+violets are <mask>	blue
+<mask> chalk can shows up on a black board	white
+white chalk can shows up on a <mask> board	black
+hospital is related to <mask> cross	red
+wood is related to <mask> logs	brown
+<mask> people are good at basketball	black
+sugar is <mask> crystal	white
+park is related to municipal <mask>	green
+sand is <mask>	yellow
+the colour <mask> is a part of golf course	green
+blood is related to <mask> 	red
+hill is related to <mask>	green
+sheep is related to curly <mask>	white
+bean is related to <mask>	red
+<mask> onions are also called scallions	green
+capital is related to <mask>	white
+<mask> opal is only <mask> on the back	black
+<mask> is a colour associated with ireland	green
+combining the colors yellow and <mask> will yield the color green	blue
+combining the colors <mask> and blue will yield the color green	yellow
+combining the colors yellow and blue will yield the color <mask>	green
+sky is related to <mask>	blue
+double <mask> lines means do not pass	yellow
+sock is usually <mask>	white
+lemon is <mask> fruit	yellow
+the color <mask> is associated with fire and with earth	red
+sky is usually <mask>	blue
+booker t washington was the first <mask> person on a us stamp	black
+lime is <mask> circle	green
+sugar is <mask> grains	white
+tangerine is small <mask>	orange
+some blood cells are <mask>	white
+mercury is <mask>	red
+when a beanbag chair breaks it scatters small <mask> pellets	white
+moses can part the <mask> sea	red
+snow is related to fluffy <mask>	white
+you are likely to find a ficus in a <mask> house	green
+a street is made of <mask> asphalt	black
+apple is usually <mask>	red
+televisions can be viewed in color and some in black and <mask>	white
+televisions can be viewed in color and some in <mask> and white	black
+graph is related to <mask>	black
+grass is related to fresh <mask>	green
+pearl is related to dull <mask>	white
+burlap is related to <mask>	brown
+<mask> has aqua colour	blue
+fall is related to <mask> leaves	brown
+fountain are <mask>	green
+in britain umbrellas are usually <mask>	black
+address is typically in <mask> pages	yellow
+fire is <mask> hot	red
+daisy is related to <mask>	white
+butter is related to <mask> cream	yellow
+grass is <mask> fields	green
+a color <mask> is a symbol of purity	white
+the <mask> whales tongue weighs as much as an adult elephant	blue
+zinfadel is a wonderful <mask> wine	red
+space is related to <mask>	black
+at night the sky is <mask>	black
+<mask> is a color associated with cowardice	yellow
+<mask> sox is a baseball team	white
+sugar is <mask> powder	white
+<mask> is a colour associated with love	red
+you can win a <mask> ribbon for first place	blue
+huckleberry is a part of <mask> huckleberry	black
+wood is <mask>	brown
+lamb is related to <mask>	white
+<mask> sky is caused by low sun and clouds	red
+a <mask> rose can be an indication of love	red
+<mask> is something edible	orange
+<mask> is related to frog	green
+a eggplant is a <mask> vegetable	purple
+the ancient egyptian goddess bast was a female <mask> cat	black
+dandruff is a bunch of little <mask> flakes	white
+the longer meat cooks the less <mask> it becomes	red
+most plants have <mask> leaves	green
+<mask> guys listening to rap music is a kind of cliche	black
+<mask> is related to love	red
+a person in a room may have <mask> hair	black
+<mask> is related to light	green
+road has <mask> lines	yellow
+<mask> is related to color leaves	green
+<mask> is related to ocean sky	blue
+pate goes well with <mask> wine	red
+members of the aristocracy are said to have <mask> blood	blue
+you would eat an <mask> because you like <mask>s	orange
+a dog can be <mask>	black
+daffodils flowers can be <mask>	yellow
+foam is related to <mask>	white
+<mask> is related to banana	yellow
+rice is a kind of <mask> grain	white
+corn is <mask> vegetable	yellow
+energy is related to <mask> bull	red
+<mask> is soothing	blue
+oil is related to <mask> energy	black
+a person wants a <mask> thumb	green
+napkin is related to <mask>	white
+a gold metal can attached to a <mask> white and blue ribbon	red
+a gold metal can attached to a red white and <mask> ribbon	blue
+a gold metal can attached to a red <mask> and blue ribbon	white
+most of the villians in the bible have <mask> hair	red
+pepper is related to <mask>	black
+carrots are <mask>	orange
+cherries are <mask> when they are ripe	red
+tobacco is related to <mask>	brown
+grasshopper is <mask>	green
+julie chose a <mask> sweater	purple
+grapes can be <mask>	red
+color is related to <mask>	white
+plant is related to <mask> growth	green
+some rice is <mask>	brown
+lettuce is <mask> salad	green
+shock has <mask> sparks	blue
+chick is related to fluffy <mask>	yellow
+stop is a kind of <mask> sign	red
+<mask> is for boy 	blue
+<mask> is for girl	pink
+tunic is related to <mask> sheet	white
+<mask> is related to flag	blue
+the color green is made by mixing the colors <mask> and yellow	blue
+the color green is made by mixing the colors blue and <mask>	yellow
+the color <mask> is made by mixing the colors blue and yellow	green
+box is related to <mask> cube	brown
+raspberry is not <mask>	black
+a tennis ball is often <mask>	yellow
+<mask> colour can reflects light	white
+volcano is related to <mask>	red
+jade is <mask> stone	green
+a screwdriver is a drink made with <mask> juice and vodka	orange
+a banana is a <mask> fruit	yellow
+<mask> is ocean colour	blue
+fire is related to hot <mask>	red
+color is the opposite of <mask>	black
+a fire truck is <mask>	red
+<mask>ing can <mask> laundry	blue
+burgundy is a french <mask> wine	red
+<mask> is the colour of cowardice	yellow
+a plum is a fruit which is sweet juicy and <mask>	purple
+tree leaves turn yellow and <mask> in the autumn	red
+tree leaves turn <mask> and red in the autumn	yellow
+sea is related to <mask>	red
+steam is related to <mask> smoke	white
+chick is related to <mask> feathers	yellow
+mr reagan had a low share of the <mask> vote	black
+paper is related to <mask> surface	white
+gorilla is related to big <mask>	black
+<mask> is the second color in the rainbow	orange
+you are likely to find a cow in a <mask> pasture	green
+ever<mask> trees are always <mask>	green
+ground is related to <mask>	brown
+hedge is related to <mask>	green
+captain is related to <mask> hat	white
+colorado <mask> spruce is a plant	blue
+it is unlawful to run a <mask> light	red
+profession is the opposite of <mask> collar	blue
+a hand can holding a <mask> dart	red
+a hot frying pan can <mask> hamburger that is in it	brown
+spider mites cause plant leaves to turn <mask>	yellow
+tomato is <mask> round	red
+gold is <mask> jewellery	yellow
+<mask> is related to yellow green	blue
+blue is related to <mask> green	purple
+blue is related to yellow <mask>	green
+the color of the sky is <mask> at night	black
+<mask> is worn for sorrow at a funeral	black
+cow is related to <mask>	black
+gesso is a <mask> primer used to base many surfaces	white
+grass is yard <mask>	green
+<mask> symbolizes death	black
+a car can be big and <mask>	blue
+tree is related to <mask>	green
+lime has <mask>	green
+corn is the opposite of <mask> vegetable	yellow
+<mask> is related to orange yellow	red
+red is related to orange <mask>	yellow
+red is related to <mask> yellow	orange
+<mask> hole is very very large	black
+olive is related to <mask> pitted	green
+houses have <mask> lawns in the late spring and early summer	green
+daisy is <mask> flower	white
+card is <mask> jack	black
+<mask> is related to dark	blue
+road is related to <mask>	yellow
+snow is related to <mask> winter	white
+<mask> is a colour	black
+<mask> is not blue but still a colour	red
+red is not <mask> but still a colour	blue
+oil is related to <mask> liquid	black
+<mask> is related to colors	black
+ruby is <mask> gem	red
+<mask> is related to dark brown	black
+black is related to dark <mask>	brown
+bananas are a sweet <mask> fruit	yellow
+some jaguars are <mask>	black
+<mask> sky in morning sailors warning <mask> sky at night sailors delight	red
+<mask> is related to firetruck color	red
+<mask> has the sky	blue
+human hair turns <mask> or grey as the person ages	white
+lily is <mask> flow	white
+apples can be <mask> yellow or green in color	red
+apples can be red <mask> or green in color	yellow
+apples can be red yellow or <mask> in color	green
+mold is related to <mask> fungus	black
+color is <mask>	green
+stop is related to <mask> light	red
+fire is related to orange <mask>	yellow
+fire is related to <mask> yellow	orange
+summer is related to <mask>	green
+burn is related to <mask> skin	red
+<mask> is related to sky ocean	blue
+skunk has black <mask>	white
+skunk has <mask> white	black
+rabbit is <mask> animal	white
+record is related to round <mask>	red
+corn has <mask> color	yellow
+<mask> is related to stop color	red
+daffodil is related to <mask> flower	yellow
+bone is related to <mask> long	white
+3m post it notes are often <mask>	yellow
+<mask> jays can do not migrate	blue
+<mask> is related to trees	green
+<mask> is used for eating	orange
+<mask> juice can contains vitamin c and calcium	orange
+<mask> is a calming color	blue
+fox has <mask> fur	red
+pale is related to very <mask>	white
+thunder is <mask> lightening	yellow
+moon is related to <mask> cheese	green
+cream is related to <mask>	white
+world is <mask>	blue
+certain substances can <mask> the laundry	blue
+<mask> is a color assosiated with cowardice	yellow
+eyes can be <mask>	blue
+moon is related to <mask> sphere	white
+farm is related to <mask> silo	red
+steak is related to <mask> goodness	red
+corn is related to <mask> plant	yellow
+bear is related to <mask> hairy	brown
+emerald has <mask> gem	green
+<mask> is related to cyan	blue
+a portobello is a large <mask> mushroom with a rich flavor	brown
+heat is related to <mask>	red
+a juice sac is part of an <mask>	orange
+a <mask> dress looks great on some women	blue
+<mask> has cloud	white
+some clothes are <mask>	purple
+<mask> is related to color	green
+hill is <mask>	green
+a seed is part of an <mask>	orange
+garlic is related to <mask>	white
+a person doesnt want a <mask> thumb	black
+cucumber is <mask>	green
+a <mask> collar thief can doctor the books	white
+the new hampshire state flower is the <mask> lilac	purple
+<mask> has leaves	green
+<mask> is a kind of color	red
+energy is <mask> bull	red
+water is related to <mask>	white
+frogs are usually <mask> colored	green
+<mask> is primary color	green
+if they are rotten they can be <mask>	brown
+a flower can be <mask>	yellow
+rabbit is related to <mask> eyes	red
+mud is related to <mask> soil	brown
+snow is <mask> powder	white
+<mask> is related to banana colour	yellow
+<mask> is related to aqua colour	blue
+cars should never cross a double <mask> line	yellow
+coffee is <mask> drink	black
+president is typically in <mask> house	white
+wool is related to <mask> fluffy	white
+mercury is never dyed <mask>	blue
+peas are <mask>	green
+a toaster can <mask> toast	brown
+in western culture <mask> is often associated with impurity or even evil	black
+cooking on a grill puts <mask> lines on the food	black
+<mask> is related to violets	blue
+<mask> is related to gloomy	blue
+mustard is <mask>	yellow
+you are likely to find an eastern <mask> snake in australia	brown
+plant is related to <mask> vegetable	green
+black is a darker color than <mask>	white
+<mask> is a darker color than white	black
+<mask> is typically near prime	blue
+a kite may be <mask>	white
+a penguin is black and <mask>	white
+a penguin is <mask> and white	black
+rose is <mask>	red
+<mask> is a kind of fruit	orange
+conservation is related to <mask>	green
+many plants that grow in a garden are <mask>	green
+<mask> has citrus fruit	orange
+sky is up <mask>	blue
+robin has <mask> chest	red
+you are likely to find a cow in a <mask> barn	red
+egg is round <mask>	white
+a stove can <mask> meat	brown
+carnation is related to <mask>	pink
+a stylist can <mask> your hair	blue
+blood is <mask> life	red
+cross is related to <mask>	red
+gold is a heavy <mask> metal	yellow
+earth is related to <mask> marble	blue
+some flowers are <mask>	purple
+people often drink <mask> juice at breakfast	orange
+aster is <mask>	red
+cry is related to <mask>	red
+plant is leafy <mask>	green
+to make <mask> paper you need colored dyes	white
+<mask> is fruit	orange
+corn is <mask>	yellow
+stop is related to <mask> sign	red
+chameleons can be <mask>	blue
+you should throw out a fruit that has become <mask> and squishy	black
+snow is <mask> flake	white
+heat can <mask> food	brown
+egg is <mask> round	white
+<mask> is related to indigo	blue
+oil is related to crude <mask>	black
+people want their lawns to be <mask>	green
+cauliflower is related to <mask> broccoli	white
+the color <mask> is associated with sadness	blue
+the south dakota state tree is the <mask> hills spruce	black
+a common marker color is <mask>	yellow
+blue has <mask> yellow	red
+<mask> has red yellow	blue
+blue has red <mask>	yellow
+tea is related to <mask>	green
+cucumbers are <mask>	green
+snow is generally <mask>	white
+human blood is <mask> when exposed to oxygen	red
+<mask> is a symbol of blood	red
+colour is a kind of blue <mask>	red
+colour is a kind of <mask> red	blue
+snow is related to very <mask>	white
+trailer is <mask> trash	white
+dress is related to <mask> clothing	red
+a segment is part of an <mask>	orange
+<mask> is related to color blood	red
+canary is <mask> song	yellow
+yolk has <mask>	yellow
+a methylene <mask> test injects dye	blue
+sky is <mask> cloudless	blue
+lettuce is salad <mask>	green
+chocolate is related to <mask> icing	brown
+lemon is not <mask>	orange
+dandelion is <mask>	yellow
+robin is <mask> chest	red
+angry is similar to <mask>	black
+egg is related to <mask> oval	white
+sweet <mask> is a part of sweet <mask>	orange
+ayou can not sence a <mask> hole directly	black
+pasture is related to <mask>	green
+bear has <mask>	brown
+ruby is <mask> stone	red
+sand is related to <mask> grains	yellow
+kinds of colours  <mask>	green
+dove is <mask> pigeon	white
+a person wants a <mask> christmas	white
+a redbellied <mask> snake is dangerous	black
+napkin has <mask> color	white
+leaf is related to <mask> flat	green
+violet is light <mask>	purple
+<mask> is warm color	red
+<mask> is a kind of cyan	blue
+wound is related to <mask>	red
+toilet paper is made up of small sections of soft <mask> paper	white
+normaly paper is <mask>	white
+stop is <mask> light	red
+<mask> is related to colour sky	blue
+gray and <mask> are both colours	blue
+majestic <mask> women can walk regally	black
+oil is related to sometime <mask>	black
+<mask> marketeer is a way to deal	black
+a <mask> light can means stop	red
+scarlet is related to bright <mask>	red
+<mask> is related to bruise colour	blue
+garden is <mask> plants	green
+sky is <mask>  at daytime	blue
+an <mask> can taste sour	orange
+<mask> is not a primary color	green
+color is <mask> white	red
+color is red <mask>	blue
+a <mask> lie is for avoiding hurting someones feelings	white
+bear is <mask>	black
+daisy is related to <mask> petals	white
+most leaves are <mask>	green
+ducks are <mask>	yellow
+my shirt is <mask>	blue
+<mask> is a kind of azure	blue
+flesh is related to <mask>	red
+a saddle is the color <mask>	brown
+wichita <mask> juniper is a plant	blue
+darkness is related to <mask>	black
+fox is <mask> dog	red
+when people say i am <mask> they often mean i am sad	blue
+plant is <mask> thing	green
+plant is a kind of <mask>	green
+<mask> is a color	yellow
+doctors can wear white or <mask> uniforms	pink
+doctors can wear <mask> or pink uniforms	white
+mission viejo is part of <mask> county	orange
+wallet is related to <mask> leather	black
+soot is related to <mask>	black
+piano is <mask> notes	white
+profit has <mask> ledger	black
+plant is related to its <mask>	green
+grass broccoli and many other plants are <mask>	green
+gerbil is generally <mask>	brown
+<mask> spot fungus is used in the region of australia	yellow
+asparagus is <mask> stalks	green
+winter is related to <mask>	white
+salt is related to <mask> granule	white
+rust is related to <mask> iron	brown
+china is related to <mask>	yellow
+many toolboxes are <mask>	red
+nancy painted the trim in the living room <mask>	blue
+herring is <mask>	red
+stopping your car is for coming to a <mask> light	red
+soot is <mask> ashes	black
+we try to find <mask> methods of disposing trash	green
+defeat has <mask> flag	white
+rice is related to <mask> ovals	white
+eye is related to <mask>	white
+mailboxes on the street are often dark <mask> and metal	blue
+dark chocolate is dark <mask>	brown
+a birds nest can containing three <mask> eggs	white
+paste has <mask>	white
+<mask> snow is bad snow	yellow
+some umbrellas are <mask>	blue
+oil is related to <mask> viscous	black
+color has <mask> purple	orange
+color has yellow <mask>	purple
+dark is a kind of <mask>	black
+coal is related to <mask> lumps	black
+grass is <mask> plant	green
+<mask> is related to of grass	green
+leaves are <mask>	green
+bear has <mask> fur	brown
+oil is related to <mask> yuck	black
+sun is related to <mask> hot	yellow
+my bathroom is painted <mask>	white
+ocean is <mask> water	blue
+shade is <mask> glasses	black
+some people tell <mask> lies to refrain from harming other peoples feelings	white
+butter is related to <mask>	yellow
+bear is <mask> big	brown
+green is not <mask>	yellow
+<mask> is not red	blue
+a cook can <mask> hamburger	brown
+cloud is misty <mask>	white
+cows are often black and <mask>	white
+cows are often <mask> and white	black
+parakeets can be <mask>	green
+corn is related to <mask> green	yellow
+corn is related to yellow <mask>	green
+<mask> is related to rusty	red
+colour is related to <mask>	purple
+trees in a forest are likely to have <mask> leaves	green
+i see <mask> when i am angry	red
+when current not found all is <mask> and dead	black
+<mask> is related to race	black
+chicken is <mask>	white
+kirin is <mask>	yellow
+coal is related to <mask> foam	black
+a person doesnt want <mask> tape	red
+<mask> is related to sky	blue
+cotton is related to <mask> boles	white
+dead leaf is generally <mask>	brown
+<mask> is the color of the ocean	blue
+<mask> is related to nighttime	black
+raw is related to <mask>	red
+daffodil is <mask> flower	yellow
+sheep is related to fluffy <mask>	white
+apple is <mask>	green
+grass is not <mask>	purple
+apple is related to round <mask>	red
+giant is related to jolly <mask>	green
+<mask> is verdant	green
+the effect of walking in the rain is <mask>	blue
+raw is related to <mask> meat	red
+path is related to <mask> road	yellow
+<mask> and green are colors	white
+blue and <mask> are colors	green
+corn is the opposite of <mask>	yellow
+farm is <mask>	red
+mars is also known as the <mask> planet	red
+crop is related to <mask>	green
+perch is related to <mask>	yellow
+garden is related to <mask> backyard	green
+<mask> is related to democratic color	blue
+apple is related to fruit <mask>	red
+mint is made from a <mask> plant	green
+you are likely to find a hole in a <mask>	green
+you can mix <mask> and yellow paint to get orange	red
+you can mix red and <mask> paint to get orange	yellow
+you can mix red and yellow paint to get <mask>	orange
+tree is <mask>	green
+good witches practice <mask> magic	white
+an <mask> is a round citus fruit that is also a colour	orange
+pale is <mask>	white
+irritation is related to <mask>	red
+colour is blue <mask>	red
+colour is <mask> red	blue
+apple is good if it is <mask> and juicy	red
+board is related to <mask>	black
+wool is related to <mask>	white
+mole is related to <mask> skin	black
+<mask> is a kind of primary color	blue
+you would stop your car because you came to a <mask> light	red
+a radio is retangular and <mask>	black
+<mask> has color cyan	blue
+the illinois state tree is the <mask> oak	white
+stick is a kind of <mask> twig	brown
+bean is <mask>	green
+sometimes the paint on a <mask> toilet seat will be chipped	white
+fire is related to <mask> flames	orange
+silver is <mask> gold	white
+liberty is related to <mask> lady	green
+<mask> is azure periwinkle	blue
+oil is related to <mask> shiny	black
+<mask> chocolate is <mask>	white
+<mask> is prime colour	blue
+<mask> peel is a part of <mask>	orange
+farm is <mask> house	red
+duck is related to <mask> feet	yellow
+maroon is related to deep <mask>	purple
+color is related to brown <mask>	black
+color is related to <mask> black	orange
+old televisions were black and <mask>	white
+old televisions were <mask> and white	black
+dark <mask> spreader yew is a plnat	green
+plate is related to round <mask>	white
+forest is related to <mask>	green
+paper is <mask> material	white
+paste is related to <mask> sticky	white
+<mask> is related to red green	blue
+blue is related to red <mask>	white
+<mask> corn has slightly more nutritients than white corn	yellow
+yellow corn has slightly more nutritients than <mask> corn	white
+blood is <mask> thing	red
+tree is tall <mask>	green
+gravy is a <mask> meat sauce	brown
+black is not <mask>	white
+<mask> is not white	blue
+lip has <mask> color	red
+sugar has <mask>	white
+cloud is related to <mask> color	white
+hybrid is related to <mask> car	green
+dismissal is <mask> slip	pink
+purple is a mix of <mask> and blue	red
+purple is a mix of red and <mask>	blue
+<mask> is a mix of red and blue	purple
+rap is a kind of <mask> people	black
+<mask> is a primary colour	blue
+tangerine is related to an <mask>	orange
+fiftyyearold <mask> men enjoy classic rock	white
+corn is related to <mask> nuggets	yellow
+colour is related to purple <mask>	orange
+colour is related to <mask> orange	red
+milk is related to <mask> color	white
+cloud is puffy <mask>	white
+sand is related to fine <mask>	white
+cotton is related to <mask> plant	white
+squirrel is related to <mask> animal	red
+smoke is related to <mask> air	black
+iodine is related to <mask> crystals	purple
+some orchids have <mask> on them	red
+colour is related to green <mask>	yellow
+colour is related to <mask> yellow	red
+sea is related to <mask> green	blue
+sea is related to blue <mask>	green
+the yoyo is <mask>	red
+a <mask> bike can pump	red
+<mask> is for compassion	yellow
+raspberry is related to <mask>	red
+fox is related to <mask>	red
+canary is related to <mask> tweet	yellow
+space is related to <mask> sky	black
+coffee without milk is called <mask> coffee	black
+coal is related to <mask> dirty	black
+bean is related to <mask> kidney	red
+most fire engines are <mask>	red
+color is related to purple <mask>	green
+color is related to <mask> green	white
+the color of grass is <mask>	green
+<mask> is related to start button	green
+yolk is not <mask>	white
+cloud is related to <mask>	white
+penguins are black and <mask>	white
+penguins are <mask> and white	black
+bleach is related to laundry <mask>	white
+water is related to <mask> wine	white
+color is <mask> blue	red
+peel is outside <mask>	orange
+can be black or <mask> but can only move on a diagonil	white
+can be <mask> or white but can only move on a diagonil	black
+clarinet is related to <mask> flute	black
+you would lose consciousness because you want to <mask> out	black
+most paper is <mask>	white
+mousse is related to <mask> foam	white
+<mask> water is the fastflowing water that is found near rapids	white
+sun is related to <mask> orb	yellow
+fall has <mask> leaves	orange
+camouflage has <mask> khaki	green
+sheep is related to <mask> fur	white
+maroon is related to <mask> brown	purple
+maroon is related to purple <mask>	brown
+you are likely to find a hole around in a golf <mask>	green
+juice is related to <mask> apple	orange
+apple is typically near an <mask>	orange
+<mask> is related to you	blue
+color has <mask> orange	blue
+color has red <mask>	orange
+<mask> is related to lemon	orange
+a violin is <mask>	brown
+<mask> is fruit colour	orange
+asphalt is <mask>	black
+cheese is <mask>	yellow
+toilet seats are often <mask>	white
+a hole is for <mask>	black
+shark is related to great <mask>	white
+school buses tend to be <mask>	yellow
+jade has <mask> stone	green
+cream is related to <mask> food	white
+cloud is related to very <mask>	white
+teeth are <mask>	white
+stop is related to <mask>	red
+apple is related to <mask> round	red
+mead is a <mask> drink	yellow
+<mask> is related to short wavelength	blue
+<mask> is related to colour	red
+sand has <mask> soft	white
+birch is related to <mask>	white
+skillet is related to <mask>	black
+grass default colour <mask>	green
+an apple is often <mask>	red
+<mask> is used for ripe banana	yellow
+<mask> is related to sign	orange
+a basketball is big and <mask>	orange
+a redbellied <mask> snake is shy	black
+bat is <mask> animal	black
+the <mask> russian plays a central role in the big lebowski	white
+in western cultures brides often wear <mask> dresses	white
+yolk is <mask>	yellow
+squirrel has <mask> grey	red
+dandruff is <mask>	white
+profit is in <mask>	black
+the bride can usually wears a <mask> wedding dress	white
+cherries are a sweet tangy <mask> fruit	red
+wood is related to hard <mask>	brown
+<mask> out is a way to edit	black
+the american flag is <mask> white and blue	red
+the american flag is red white and <mask>	blue
+the american flag is red <mask> and blue	white
+cotton is related to <mask> cloth	white
+artichokes are <mask>	green
+burlap is <mask> bag	brown
+an activity something can do is turn <mask>	green
+color is used for <mask>	yellow
+china has <mask> people	yellow
+shade is <mask>	black
+blood is <mask> bleed	red
+<mask> is democratic color	blue
+plant is <mask> organism	green
+the color <mask> is considered to be slimming	black
+blonde is related to <mask> haired	yellow
+jeans are usually <mask>	blue
+<mask> is acolor	green
+colour has <mask>	blue
+this apple is a beautiful golden <mask> color	green
+apple is <mask> green	red
+apple is red <mask>	green
+page is <mask>	white
+not all bikes are <mask>	red
+trees are often <mask>	green
+a <mask> backcloth could depict <mask> land	green
+gold is <mask> medal	yellow
+bag is <mask>	brown
+butter is <mask> milk	yellow
+plum is related to <mask>	purple
+<mask> is related to jeans	blue
+<mask> color is a metaphor of warning	red
+summer in a basket where is the <mask>	green
+tar is related to <mask> pavement	black
+herring is related to <mask> pickled	red
+road is paved <mask>	black
+steak is related to <mask>	red
+a <mask> baseball can batting helmet	red
+slave is related to <mask>	black
+bear is related to brown <mask>	black
+bear is related to <mask> black	brown
+<mask> is missing color	blue
+corn is sweet <mask>	yellow
+gold is related to <mask> silver	yellow
+egg is related to round <mask>	white
+lime <mask> is an ugly furniture color	green
+the variant speedloaders are available in <mask> plastic or polished aluminium	black
+sugar is related to <mask> granular	white
+colour is not <mask>	white
+a doctor can wears a <mask> coat	white
+green requires <mask>	blue
+<mask> requires blue	green
+<mask> has oceans color	blue
+wine is related to white <mask>	red
+wine is related to <mask> red	white
+rice has <mask> grain	white
+<mask> is related to primary	red
+cotton is <mask> fabric	white
+highlighter pens are generally bright colors like <mask> or pink	yellow
+highlighter pens are generally bright colors like yellow or <mask>	pink
+somewhere something can be is inside a <mask> hole	black
+jeff <mask> the book outloud	red
+dollar is related to its <mask>	green
+pear is <mask> fruit	yellow
+<mask> is a primay colour	blue
+an <mask> is both a fruit and a colour	orange
+judge is related to <mask>	white
+a dollar bill can be made of paper and <mask> inks	green
+limousine is long <mask>	black
+<mask> is related to run	red
+i drove through the <mask> light	red
+moon is related to <mask>	green
+color has <mask>	orange
+christmas is related to <mask> green	red
+christmas is related to red <mask>	green
+squirrel is small <mask>	red
+lip has <mask>	red
+judge is related to <mask> robes	black
+<mask> is absent color	black
+a baby can <mask> a diaper	brown
+dark is related to <mask>	black
+a great <mask> shark is a kind of shark	white
+solid water is usually <mask>	white
+raspberry is <mask>	red
+lime is related to <mask>	green
+combining the colors <mask> and yellow will yield the color orange	red
+combining the colors red and <mask> will yield the color orange	yellow
+combining the colors red and yellow will yield the color <mask>	orange
+theyve can born with black <mask> blond or brow hair	red
+theyve can born with <mask> red blond or brow hair	black
+record is related to <mask>	black
+slime is <mask> ooze	green
+wool is related to soft <mask>	white
+corn is related to <mask> nubs	yellow
+<mask> is color blood	red
+<mask> is the color of grass	green
+juice is related to <mask>	orange
+<mask> is related to like	green
+some marathon runners have <mask> eyes	blue
+ivory is related to <mask>	white
+sometimes emptying your bladder causes the toilet water to become <mask>	yellow
+cauliflower is related to <mask>	white
+some cars are <mask>	red
+a baseball field is <mask>	green
+<mask> is not pink	blue
+blue is not <mask>	red
+put is on <mask>	green
+plant is related to <mask> foliage	green
+milk is related to <mask> dairy	white
+hocky pucks are <mask>	black
+maroon is related to <mask> hue	red
+squirrel is <mask> rodent	brown
+wool is related to fluffy <mask>	white
+<mask> is a colour associated with brothels	red
+tangerine is related to <mask>	orange
+a sapphire is <mask>	blue
+i painted the barn <mask>	orange
+a bow can tied with <mask> ribbon	yellow
+a docter examination room is painted <mask>	white
+blood is related to <mask> stuff	red
+color is related to blue <mask>	purple
+house is <mask>	blue
+paper is related to <mask> flat	white
+i have a <mask> car it goes very fast	red
+you would make people laugh because you put on a <mask> nose	red
+oil is related to <mask> sludge	black
+shadow is related to <mask> outline	black
+caucasions are <mask>	white
+apple is snow <mask>	white
+gold has <mask>	yellow
+tartar control toothpaste removes <mask> stains from peoples teeth	yellow
+gold is related to <mask> colour	yellow
+clouds can be <mask> or grey or very dark	white
+some glass is <mask>	green
+people can eat few <mask> things	blue
+park is related to <mask> playground	green
+a corncob is <mask>	yellow
+burn is related to <mask>	red
+cheese is related to <mask>	yellow
+urine is <mask>	yellow
+preserve is related to <mask>	red
+milk is related to <mask> beverage	white
+the <mask> monster is a slang name for jealousy	green
+corn is <mask> ears	yellow
+paper has <mask>	white
+gold is <mask> coloured	yellow
+a <mask> trafficlight would make you want to stop your bicycle	red
+noble has <mask> blood	blue
+oil is related to <mask> slippery	black
+some tennis is played on <mask> clay	red
+fashion is related to <mask>	black
+colour is related to <mask> green	red
+colour is related to blue <mask>	red
+sheep is <mask>	black
+a <mask> out is when the voltage is too low	brown
+sheep is related to <mask> animal	white
+chalk is powdery <mask>	white
+yellow is the complementary color to <mask>	blue
+<mask> is the complementary color to blue	yellow
+a <mask> finch is a kind of finch	purple
+the thing came at us with its <mask> and terrible roar	white
+salt is related to <mask> grain	white
+lie is sometimes <mask>	white
+brake lights are <mask>	red
+egg is related to yolks <mask>	white
+oil is related to <mask> stuff	yellow
+<mask> is related to water	blue
+chocolate is related to <mask>	brown
+money is related to <mask> back	green
+cucumber is related to long <mask>	green
+some <mask> skinned human beings live in the city	brown
+egg is related to <mask> food	white
+bed is related to fed <mask>	red
+sky <mask> is a color	blue
+soap is related to <mask> bar	white
+grass is <mask> floor	green
+a <mask> herring is usually neither <mask> nor a herring	red
+chick is related to <mask> fuzz	yellow
+sand is related to <mask>	yellow
+apple can be <mask>	red
+comes in many many styles including plain styled called <mask>	black
+grizzly is related to <mask> bear	brown
+apple is related to green <mask>	red
+apple is related to <mask> red	green
+<mask> is boys colour	blue
+algae is <mask> slime	green
+a knifemaker can <mask> a knife	blue
+<mask> peel can taste bitter	orange
+doctor is related to <mask>	white
+on st patricks day wear something <mask>	green
+exercise may cause a persons face to become <mask>	red
+<mask> is related to snow	white
+a sad feeling can <mask> your day	blue
+cotton is related to <mask> fluff	white
+catherine havasi does not live inside a <mask> fire hydrant	blue
+color is related to orange <mask>	red
+fall is <mask>	brown
+pea is <mask>	green
+chlorine is <mask> gas	green
+<mask> is related to indigo color	blue
+the <mask>berry is <mask>	blue
+human blood is <mask> when	red
+paper is related to <mask> usually	white
+people are rarely <mask> in color	green
+a laundress can <mask> the wash	blue
+some oak trees have <mask> leaves in the fall	red
+fox is grey <mask>	red
+corn is related to <mask> bubbles	yellow
+maroon is related to <mask>	purple
+<mask> is related to sky sea	blue
+a piano has black and <mask> keys	white
+a piano has <mask> and white keys	black
+pandas are black and <mask>	white
+pandas are <mask> and white	black
+noise is related to white <mask>	pink
+noise is related to <mask> pink	white
+sign is related to <mask>	red
+poison has snow <mask>	white
+sapphire is related to <mask>	green
+blood is related to <mask> bleeding	red
+gray is not <mask>	black
+the sky is usually <mask>	blue
+cotton is related to <mask> soft	white
+black is the opposite of <mask>	white
+<mask> is the opposite of white	black
+pfitzer <mask> juniper is a plant	blue
+cigarette is related to <mask> tube	white
+<mask> is a symbol of purity in some cultures	white
+express is related to <mask>	black
+paper is a kind of <mask>	white
+gold is related to <mask> coloured	yellow
+cone is related to <mask>	orange
+<mask> snapper is a part of <mask> snapper	red
+crush is related to <mask>	orange
+<mask> apples can arent as tasty looking	green
+the bulb or corm of a flower may be <mask>	purple
+farmer is <mask> jeans	green
+<mask> glasing can gives pottery a rich deep look	blue
+cloud is related to <mask> sky	white
+apple is typically near <mask>	orange
+pale is related to wan <mask>	white
+frying can <mask> food	brown
+rice is related to <mask> or	white
+chicken is related to <mask> hen	yellow
+sky is related to <mask> expanse	blue
+a <mask> locomotive can spewing smoke from the smokestack	black
+many kittens are <mask>	white
+oil is related to <mask> water	black
+when the sun goes down the clouds turn <mask>	red
+<mask> is a symbol of good	white
+<mask> is primary	yellow
+periwinkle is a kind of <mask>	blue
+<mask> is related to ocean color	blue
+<mask> has as before	blue
+chick is <mask> hen	yellow
+pear is related to <mask>	green
+<mask> wine is <mask> in color	red
+smoke is <mask> air	white
+smoke has <mask> black	white
+smoke has white <mask>	black
+flowers are <mask>	green
+cotton is related to <mask> flower	white
+most fresian cows have a <mask> star on their forehead	white
+sky is related to <mask> stars	blue
+<mask> is related to firetruck	red
+sign has <mask> octagon	red
+straw is related to <mask>	yellow
+jade is related to <mask>	green
+envelope is related to <mask>	white
+lemon has <mask> skin	yellow
+salt is related to <mask> grainy	white
+a wall is part of an <mask>	orange
+cry is related to <mask> eyes	red
+<mask> is related to ripe banana	yellow
+road is <mask> tarmac	black
+a <mask> globe can centered on the african continent	black
+<mask> is a way to sound	pink
+eggplant is <mask>	purple
+<mask> is a kind of navy	blue
+scarlet is vibrant <mask>	red
+a garnet is a <mask> stone	red
+you are likely to find a parking zone around in <mask> lines	yellow
+plant is often <mask>	green
+chicken is related to <mask>	white
+orange is not <mask>	black
+<mask> is not black	orange
+school buses are <mask>	yellow
+cloud is <mask> fluffy	white
+<mask> is related to citric	orange
+<mask> is not blue	green
+red is not <mask>	blue
+homer simpson wears <mask> pants	blue
+cow is related to black <mask>	white
+cow is related to <mask> white	black
+christmas is related to <mask> snow	white
+a dog can win a <mask> ribbon	blue
+apples are <mask> yellow or green humans eat apples	red
+apples are red <mask> or green humans eat apples	yellow
+apples are red yellow or <mask> humans eat apples	green
+rice is <mask> grain	white
+a <mask> walnut is part of a walnut	green
+maroon has deep <mask>	purple
+some <mask> houses have orchards nearby	white
+rice is related to <mask> pellets	white
+<mask> is related to rose	red
+leaf is <mask>	green
+an <mask> is peelable	orange
+a little <mask> bird which is likely to fly quickly	blue
+its easier to see a <mask> racer snake than a garder snake	black
+salt is the opposite of <mask> pepper	black
+polycythemia is an excess of <mask> blood cells	red
+fashion is new <mask>	black
+cherries are usually bright <mask>	red
+mark is related to <mask> pen	red
+sky is related to <mask> color	blue
+rice is related to <mask> grains	white
+you are likely to find <mask> juice in a carton	orange
+when you mix <mask> paint and yellow paint you get orange paint	red
+when you mix red paint and <mask> paint you get orange paint	yellow
+when you mix red paint and yellow paint you get <mask> paint	orange
+rose is related to <mask>	red
+sugar is related to <mask> cubes	white
+sky is related to up <mask>	blue
+servant has <mask> gloves	white
+lotion is related to <mask>	white
+column is related to <mask> house	white
+chromatic is similar to moss <mask>	green
+park is related to <mask> garden	green
+snow is related to <mask> flakes	white
+limousine is related to long <mask>	black
+salt is related to <mask> specs	white
+afroamerican is similar to <mask>	black
+a boss can fire a <mask> man	white
+<mask> is colour	green
+flag is related to <mask>	blue
+danger has <mask>	red
+color is example <mask>	red
+leaf is related to <mask> color	green
+rice is related to <mask> wheat	white
+oil is related to <mask>	black
+gown is related to large <mask>	white
+a car can wait at a <mask> signal	red
+tomatoes are green before they are <mask>	red
+tomatoes are <mask> before they are red	green
+snow is related to <mask> rain	white
+color is related to red <mask>	white
+hummingbirds are attracted to <mask> sweetened water	red
+a beautiful little <mask> bird	blue
+the sky is usueally <mask> during the day	blue
+people put <mask> and white checke<mask> cloths into picnic baskets	red
+people put red and <mask> checkered cloths into picnic baskets	white
+club is related to <mask> card	black
+cauliflower is related to <mask> vegetable	white
+blue is the opposite of orange <mask>	red
+<mask> is the opposite of orange red	blue
+blue is the opposite of <mask> red	orange
+cotton is <mask> fiber	white
+the archetypical banana is bright <mask>	yellow
+the galactic center is thought to house a large <mask> hole	black
+a yolk is <mask>	yellow
+green light falls between <mask> light and cyan light in the spectrum	yellow
+<mask> light falls between yellow light and cyan light in the spectrum	green
+farm is related to <mask>	green
+york gums salmon gums <mask> morrels and gimlets are gum trees	red
+noble is related to <mask> blood	blue
+paste has <mask> substance	white
+human hair can turns <mask> or grey as the person ages	white
+<mask> is related to fifth	blue
+money is <mask> back	green
+<mask> is stop color	red
+carrot is <mask>	orange
+smoke is <mask>	white
+plant is related to <mask> garden	green
+flowers are often <mask>	yellow
+grass is lawn <mask>	green
+a frightened person may be as <mask> as a sheet	white
+sometimes washing clothes causes your white socks to turn <mask>	pink
+sometimes washing clothes causes your <mask> socks to turn pink	white
+some orchids are <mask>	yellow
+light is similar to <mask>	white
+parcel is related to <mask>	brown
+purple paint is best made from mixing pink and <mask>	blue
+purple paint is best made from mixing <mask> and blue	pink
+<mask> paint is best made from mixing pink and blue	purple
+rice has <mask>	white
+a piano has <mask> and black keys	white
+a piano has white and <mask> keys	black
+<mask> is blood color	red
+sulphur is related to <mask>	yellow
+napkin is related to usually <mask>	white
+the sea is usually <mask> or green in colour	blue
+the sea is usually blue or <mask> in colour	green
+the sun can <mask> human skin	brown
+sock is related to <mask> cotton	white
+blood is related to <mask> fluid	red
+fruit with <mask> pigments are healthy for your body	red
+grass is soccer <mask>	green
+shrub is related to <mask>	green
+rapid is related to <mask>	white
+asparagus is related to pointy <mask>	green
+snow is related to <mask> stuff	white
+leaves are green because they absorb <mask> light	red
+leaves are <mask> because they absorb red light	green
+chipmunk is related to <mask> fur	brown
+banana is <mask> fruit	yellow
+<mask> is emerald jade	green
+<mask> is similar to good	white
+tomato has <mask> vegetable	red
+hat<mask> is <mask> ending	red
+a <mask> traffic light would make you want to stop your car	red
+<mask> and green are the colors of the wachovia corporation	blue
+blue and <mask> are the colors of the wachovia corporation	green
+a piano keyboard has both black and <mask> keys	white
+a piano keyboard has both <mask> and white keys	black
+a person wants <mask> socks for christmas	red
+tires are usually <mask>	black
+<mask> is related to robins egg	blue
+oil has <mask>	black
+color is typically near green <mask>	red
+color is typically near <mask> red	green
+sign is related to <mask> octagon	red
+corn is <mask> seeds	yellow
+you are not likely to find <mask> holes in the sky	black
+<mask> star juniper is a plant	blue
+leaves are <mask> in colour	green
+coal is related to mining <mask>	black
+salt is <mask> seasoning	white
+chalk is related to <mask>	white
+violet is dark <mask>	purple
+a rotating <mask> hole can have a negative specific heat	black
+plant is related to growing <mask>	green
+some people dream in black and <mask>	white
+some people dream in <mask> and white	black
+olive is related to <mask>	green
+snow is <mask> stuff	white
+a cook  can <mask> onions	brown
+ribbons may be <mask>	yellow
+<mask> boards are used in schools	black
+<mask> is related to feeing	blue
+<mask> is all colors	black
+fruit is generally not <mask>	green
+<mask> out is a way to darken	black
+<mask> is like apple	red
+<mask> is dark	blue
+frog is <mask> amphibian	green
+carrot is related to <mask> roots	orange
+sack is related to <mask> bag	brown
+<mask> is related to tree leaves	green
+cinnamon has <mask>	brown
+snow is related to <mask> fluffy	white
+sky can appear <mask>	blue
+paper is related to <mask> sheet	white
+some fruits contain <mask> pigments	red
+never join the <mask> mans navy	white
+similarity between the moon and a monument both can be <mask>	white
+tractors are often <mask>	yellow
+the florida state bird is the <mask> thrasher	brown
+the ripe flesh of an <mask> is good to eat	orange
+a car can be painted <mask>	blue
+salt is <mask> crystal	white
+blue is related to purple <mask>	green
+<mask> is related to purple red	blue
+blue is related to <mask> red	purple
+money is related to <mask> paper	green
+chicken is related to <mask> meat	white
+sky is related to <mask> above	blue
+branch is related to <mask> stick	brown
+mole is related to <mask> spot	brown
+<mask> is related to flute	blue
+apple is <mask> gold	red
+the flesh of the <mask> is on the inside	orange
+lime is related to <mask> skin	green
+soap is related to <mask>	white
+garden is <mask>	green
+wine is related to <mask>	purple
+clouds are <mask> or grey	white
+ivory is not <mask>	black
+you are likely to find <mask> keys in a piano	white
+apple is related to <mask> green	red
+apple is related to red <mask>	green
+grass is related to <mask> hairs	green
+the brake lights on a vehicle are <mask>	red
+some roses are <mask>	yellow
+oil is related to <mask> grease	black
+cowardly people are said to have a <mask> streak	yellow
+hose is related to <mask>	black
+emerald is related to <mask> stone	green
+apples are <mask>	red
+a slice is part of an <mask>	orange
+oil is <mask> gooey	black
+bluish <mask> is similar to achromatic	black
+color is related to <mask> yellow	blue
+<mask> is related to citrus	orange
+<mask> is related to leaf colour	green
+sun is related to bright <mask>	yellow
+horse is typically in <mask> stallion	black
+pepper has <mask> specks	black
+maroon is related to dark <mask>	red
+oil is <mask> slimy	black
+plant is a kind of <mask> growth	green
+paper can bleached <mask> or dyed different colors	white
+stop is related to <mask> lights	red
+bear is related to big <mask>	brown
+cotton is related to <mask> slaves	black
+native is related to <mask>	red
+street has <mask> lines	yellow
+maroon is color <mask>	red
+cloud is <mask> white	blue
+cloud is blue <mask>	white
+paper is thin <mask>	white
+taking finals requires a <mask> book	blue
+north is great <mask>	white
+apple is related to <mask> sphere	red
+bone is related to solid <mask>	white
+salt is a kind of <mask> spice	white
+grass is rarely a color other than brown green or <mask>	yellow
+grass is rarely a color other than brown <mask> or yellow	green
+grass is rarely a color other than <mask> green or yellow	brown
+<mask> is angry	red
+oil is thick <mask>	black
+a <mask> rubber duck is a common bath toy	yellow
+most animals are not <mask> and squishy	black
+blue light is scatte<mask> more by the atmosphere than <mask> light	red
+<mask> light is scattered more by the atmosphere than red light	blue
+rhapsody is <mask> musical	blue
+doctors can wear <mask> lab coats	white
+grasshopper is <mask> insect	green
+rice is <mask>	white
+egg has <mask> oval	white
+<mask> is the opposite of apple	orange
+squirrel is <mask> animal	red
+blood is related to <mask> plasma	red
+gravy is related to dark <mask>	brown
+rash is related to <mask>	red
+squirrel is related to <mask> gray	brown
+goths will sometimes dye their hair <mask>	purple
+wine is related to <mask> juice	red
+<mask> is related to the ocean	blue
+or is a kind of short <mask>	orange
+the consequence of crying is getting <mask> eyes	red
+you would stop your car because the light is <mask>	red
+handkerchiefs are most often <mask> but colored handkerchiefs are common	white
+duck is related to <mask>	white
+color has blue <mask>	orange
+color has <mask> red	blue
+you can use dark glasses to hide a <mask> eye	black
+<mask> dwarf is a kind of star	yellow
+grass is fresh <mask>	green
+cloud is related to <mask> appearance	white
+evil witches practice <mask> magic	black
+sugar is <mask>	white
+christmas is related to <mask>	red
+<mask> has yellow green	blue
+blue has <mask> green	yellow
+blue has yellow <mask>	green
+color is related to green <mask>	brown
+tar has sticky <mask>	black
+spinach is <mask> food	green
+cotton is related to <mask>	white
+dove is <mask> bird	white
+the flesh of an unripe <mask> is sour	orange
+the sky can turns shades of <mask> because of polution	red
+limosines are large cars usually painted <mask>	black
+witch is related to <mask>	black
+robins can lay <mask> eggs	blue
+salt is related to <mask> grains	white
+plants grow and are usually <mask>	green
+<mask> walnut is a part of <mask> walnut	black
+<mask> is related to berry	blue
+teeth is related to <mask> enamel	white
+<mask> bear is a kind of bear	brown
+rabbit is related to <mask>	red
+sugar is related to <mask> grains	white
+most milk that we drink is <mask>	white
+most fire trucks are <mask>	red
+the apple is <mask> i eat the apple	red
+<mask> is related to boy	blue
+measles is related to <mask> spots	red
+<mask> is a cold color	blue
+<mask> is related to round	orange
+apples are a either colo<mask> green or <mask> or both	red
+apples are a either colored <mask> or red or both	green
+<mask> is related to pink	red
+red is related to <mask>	pink
+lizard is <mask>	green
+the ink in pens can be <mask>	red
+one can lay <mask> tiles in a yard	green
+aphids are light <mask>	green
+corn is <mask> veggie	yellow
+go is related to <mask> light	red
+christmas is related to <mask> holiday	white
+lily is related to <mask> flower	white
+<mask> is a kind of ocean color	blue
+some people drink their coffee <mask>	black
+paper is related to flat <mask>	white
+gray is related to <mask>	black
+clouds can be <mask>	white
+beets are <mask>	purple
+sky has <mask>	blue
+fire is related to <mask> hot	red
+tree has <mask>	green
+apple is related to <mask> juicy	red
+the color pink has <mask> and white a factors	red
+the color <mask> has red and white a factors	pink
+the color pink has red and <mask> a factors	white
+<mask> is not purple	blue
+blood is related to <mask> liquid	red
+the pigment in human blood cycles between blue and <mask>	red
+the pigment in human blood cycles between <mask> and red	blue
+roses are <mask> violets are blue	red
+roses are red violets are <mask>	blue
+dollar is related to <mask> presidents	green
+she was <mask> with envy	green
+<mask> currant is a part of <mask> currant	red
+paste is related to <mask> containers	white
+a soccer field is <mask>	green
+flame is related to <mask>	red
+record is related to <mask> surface	black
+an oven can <mask> chicken	brown
+debt is related to <mask> ink	red
+<mask> is a colour associated with baby boys	blue
+pasture is related to <mask> place	green
+moss is <mask>	green
+plant is a kind of <mask> grower	green
+<mask> is tree colour	green
+some people are <mask> hai<mask>	red
+sugar is related to <mask> brown	white
+sugar is related to white <mask>	brown
+my car is <mask>	yellow
+<mask> roses are beautiful	red
+clouds are <mask>	white
+<mask> men cant jump	white
+fire trucks can have <mask> on them	red
+sunburn is related to <mask>	red
+<mask> is related to sea sky	blue
+sand is related to <mask> dust	yellow
+<mask> turnip is a part of turnip	white
+grass is related to <mask> mow	green
+rose is related to <mask> flower	red
+<mask> is typically in rainbow	blue
+living plants usually have <mask> leaves	green
+the sun is <mask>	yellow
+phosphorous can be colourless <mask> or silvery white	red
+phosphorous can be colourless red or silvery <mask>	white
+<mask> people are good athletes	black
+grass is related to <mask> plant	green
+bear is polar <mask>	brown
+carnations are <mask>	pink
+branch is <mask> twiggy	brown
+a hockey puck is <mask>	black
+orange is yellow <mask>	red
+orange is <mask> red	yellow
+<mask> is yellow red	orange
+mold is related to <mask>	green
+fox is related to <mask> brown	red
+fox is related to red <mask>	brown
+chicken is related to <mask> feathers	white
+pandas are black and <mask> bears from china	white
+pandas are <mask> and white bears from china	black
+soot is <mask>	black
+person wants <mask> socks for christmas	red
+seeing <mask> would make you want to destroy your enemy	red
+dye can <mask> a white piece of clothing	blue
+dye can blue a <mask> piece of clothing	white
+color is <mask> green	yellow
+color is blue <mask>	green
+wool is <mask>	white
+turf is <mask> and brown	green
+turf is green and <mask>	brown
+flea is small <mask>	black
+egg shell <mask> is color	blue
+brick is related to <mask>	red
+polar bears are <mask>	white
+a skillet can <mask> the meat	brown
+a waiter often wears <mask>	black
+dollar is related to <mask> note	green
+<mask> is related to color fruit	orange
+lightning is related to <mask>	yellow
+<mask> has the ocean	blue
+chemicals can <mask> steel	blue
+bone has <mask>	white
+pea is related to round <mask>	green
+grass is <mask> blades	green
+a <mask> flag can means that you have to stop	red
+flea is related to tiny <mask>	black
+plant has <mask> chlorophyll	green
+chlorophyll is brighter infrared than it is <mask>	green
+you are likely to find illegal weapons in a <mask> market	black
+<mask> is related to other flag	blue
+capital is related to <mask> house	white
+the sky is <mask> during the day	blue
+<mask> is ecological color	green
+soap is related to <mask> cube	white
+a <mask>grocer is not <mask>	green
+apple is related to snow <mask>	white
+kinds of bear  <mask> bear	brown
+black whales are born <mask>	white
+<mask> whales are born white	black
+<mask> gold is a kind of alloy	white
+sugar is related to <mask> sweetener	white
+<mask> ribbons can represent support for a cause	yellow
+you put on a <mask>	green
+sky has above <mask>	blue
+europeans often have <mask> eyes and fair skin	blue
+<mask> is related to go	green
+many schools use <mask> boards and markers	white
+salt is <mask> spice	white
+bear is related to <mask>	brown
+color is related to <mask> brown	green
+color is related to yellow <mask>	blue
+a <mask> cat can cross your path	black
+roses can be <mask>	red
+wood is hard <mask>	brown
+hood is related to <mask> riding	red
+<mask> is related to dark color	black
+an <mask> has rind	orange
+<mask> is related to stuff	black
+<mask> has boy	blue
+corn is related to <mask> kernels	yellow
+earth is <mask> marble	blue
+or is black <mask>	white
+or is <mask> white	black
+corn is <mask> crop	yellow
+doctor is related to <mask> coats	white
+smoke is related to <mask> steam	brown
+toad is <mask>	brown
+spinach is related to <mask> vegetable	green
+the sky is <mask>	blue
+a can is for holding <mask> beans	green
+grass is <mask> because it contains chlorophyll	green
+<mask> is colour plants	green
+moss is related to <mask>	green
+<mask> is related to hot color	red
+<mask> is cool	blue
+dollar is related to <mask> money	green
+colour is typically in <mask> blue	red
+colour is typically in red <mask>	blue
+park is related to <mask>	green
+velvet is typically in <mask>	black
+denim jeans are usually died <mask>	blue
+<mask> is related to sky hue	blue
+apple is like <mask>	orange
+purple <mask> and orange are secondary colors	green
+purple green and <mask> are secondary colors	orange
+<mask> green and orange are secondary colors	purple
+emerald is related to <mask>	green
+color is related to <mask> pink	blue
+bear is related to polar <mask>	brown
+<mask> is considered a timeless color	black
+<mask> powder is made of potassium nitrate powdered charcoal and sulphur	black
+vein has <mask> blood	blue
+wool has <mask> fluffy	white
+limes are <mask>	green
+salt is <mask>	white
+soysauce is <mask>	black
+road is <mask>	black
+danger is related to <mask>	red
+course is related to <mask>	green
+ripe bananas are <mask>	yellow
+cloud is a kind of <mask>	white
+gravy is dark <mask>	brown
+street is related to <mask> lines	yellow
+human flesh is used for <mask> magic	black
+a horse can be <mask>	white
+color is related to <mask> red	green
+man is in <mask>	black
+paste has <mask> glue	white
+paper is <mask> flat	white
+ranch is related to <mask>	white
+bear is related to <mask> animal	black
+emerald is related to <mask> gem	green
+the maine state tree is the <mask> pine	white
+the sky at night is <mask> with stars	black
+<mask> is related to very dark	black
+<mask> is related to common	blue
+<mask> is related to warning	orange
+something could look <mask>	purple
+the sky is dark <mask> just before night	blue
+hazard is related to <mask>	yellow
+flowers can be <mask>	pink
+bear is <mask> mammal	brown
+mousse is related to <mask>	white
+blush is turn <mask>	red
+hyacinths are a kind of flowering plant with <mask> flowers	purple
+plant is <mask> growing	green
+there are only three colurs <mask> green and blue	red
+there are only three colurs red green and <mask>	blue
+there are only three colurs red <mask> and blue	green
+buy is related to <mask>	white
+dynamite is more explosive than <mask> powder	black
+<mask> is water colour	blue
+there is a flower that is <mask>	white
+mold is <mask> green	blue
+mold is blue <mask>	green
+piano is related to <mask>	white
+my shoes are <mask>	white
+dentist is related to <mask> coat	white
+<mask> is similar to caucasoid	white
+corn is related to <mask> bits	yellow
+<mask> collar is a useful but hard to defince concept from cyc	blue
+color is related to pink <mask>	green
+corn is food <mask>	yellow
+cauliflower is <mask>	white
+pillow is <mask> fluffy	white
+a childs wagon is traditionally <mask>	red
+<mask> has same color	blue
+ginger is related to <mask> hair	red
+chalk is related to <mask> stick	white
+pea is related to <mask>	green
+stop has <mask> light	red
+paper is <mask> sheet	white
+blush is related to <mask> faced	red
+garden is related to <mask> area	green
+a school bus is usually always <mask>	yellow
+a cook can <mask> meat	brown
+vinegar is related to <mask>	brown
+<mask> hole is a kind of astronomical object	black
+color has orange <mask>	purple
+<mask> is a color associated with female babies	pink
+macaroni is <mask>	yellow
+sulphur is <mask> acid	yellow
+soot is <mask> dirt	black
+similarity between a dollar and a pond both can be <mask>	green
+apple is <mask> macintosh	red
+tooth is <mask>	white
+snow is related to <mask> precipitation	white
+you are likely to find the <mask> house on seoul	blue
+leaf is related to <mask> part	green
+a blackboard is usually <mask>	green
+flea is related to <mask> dot	black
+an eastern <mask> snake is shy	brown
+sun is related to <mask> ball	yellow
+sea <mask> juniper is a plant	green
+a fire extinguisher will usually be <mask>	red
+corn is related to <mask> pieces	yellow
+you are likely to find a cloud in a <mask> sky	blue
+apples are sometimes <mask>	green
+apple is often <mask>	red
+cloud is <mask> puff	white
+leaf is tree <mask>	green
+<mask> has a peal	orange
+felt is <mask>	green
+violet is <mask>	purple
+<mask> is a kind of sad	blue
+many people consider <mask> to be a sexy color	red
+deliver is related to <mask> packages	brown
+asphalt is related to <mask> road	black
+a caileach bheur is a <mask> hag in celtic lore	blue
+crane is related to <mask> usually	yellow
+farmer is related to <mask>	blue
+lemons is generally <mask>	yellow
+hedge is related to <mask> bushes	green
+peppers can be <mask>	green
+coal is related to <mask> rocks	black
+<mask> is related to primary color	green
+a tree is brown and <mask>	green
+a tree is <mask> and green	brown
+bribe is <mask>	white
+<mask>s are <mask>	orange
+cotton is related to <mask> ball	white
+a murder weapon might be a long thin <mask> dagger	black
+disease is related to <mask> plague	black
+doctors sometimes weare <mask> coats	white
+judge has <mask> robe	black
+profit is related to <mask>	black
+when you mix <mask> paint and yellow paint you get green paint	blue
+when you mix blue paint and <mask> paint you get green paint	yellow
+when you mix blue paint and yellow paint you get <mask> paint	green
+corn comes in two colors <mask> and brown	yellow
+corn comes in two colors yellow and <mask>	brown
+horse is related to <mask> color	brown
+colour is typically near <mask>	blue
+suede is typically near <mask> shoes	blue
+money is related to <mask>	green
+buses are <mask> with black stripes	yellow
+buses are yellow with <mask> stripes	black
+fire is related to <mask> blaze	yellow
+garden is leafy <mask>	green
+you are likely to find a company in the <mask> pages	yellow
+the planet mars appears <mask> in colour	red
+record is <mask> flat	black
+beech is related to <mask>	white
+creature has <mask> lagoon	black
+path is related to <mask>	yellow
+sugar is related to <mask> sweet	white
+a banana is <mask>	yellow
+stars are the progenitors of one class of <mask> holes	black
+dirt is <mask>	brown
+lotion is related to <mask> liquid	white
+ovens can <mask> bread	brown
+one can cook <mask> peppers	red
+sugar is <mask> sweet	white
+pea is round <mask>	green
+a person wants <mask> skies and a warm day	blue
+<mask> candles are used at weddings	white
+<mask> tv remindes my childhood of course	black
+sugar has <mask> color	white
+the maryland state tree is the <mask> oak	white
+colour is related to <mask> blue	red
+colour is related to red <mask>	orange
+dove is related to <mask>	white
+apples can be <mask>	red
+squirrel is a kind of <mask>	brown
+some people have light <mask> skin	brown
+record is <mask> circle	black
+<mask> is not an appropraite colour for a wedding dress	red
+most oboes are <mask>	black
+sea is deep <mask>	blue
+a doctor can sometimes wears a <mask> lab coat	white
+<mask> can be defined as color	red
+bear is <mask> furry	brown
+a child can wonder why the sky is <mask>	blue
+corn is related to <mask> vegetable	yellow
+oil is a kind of <mask> gold	black
+an <mask> is smaller than a football but more tasty	orange
+you can not sence a <mask> hole directly	black
+the new hampshire state bird is the <mask> finch	purple
+grass is <mask> grows	green
+when hair loses its pigment it turns <mask>	white
+salt is related to <mask> crystal	white
+roses are <mask>	red
+cars must stop at a <mask> traffic light	red
+rosebud has <mask>	pink
+grass is <mask> stuff	green
+paper is <mask> usually	white
+the moon is not made of <mask> cheese	green
+an egg can be <mask>	white
+tangerine is related to small <mask>	orange
+a person doesnt want to be the <mask> sheep of the family	black
+<mask> is sea color	blue
+whiskey is <mask> lightning	white
+haze is related to <mask>	purple
+note is related to <mask> papers	yellow
+a skillet can <mask> potatoes	brown
+milk is related to drinking <mask>	white
+motherboards are usually <mask>	green
+river has <mask>	blue
+lights can <mask> out	brown
+carrot is related to <mask> vegetable	orange
+plant is <mask> growth	green
+enamel is related to <mask>	white
+<mask> is related to turquoise	blue
+snow is very <mask>	white
+duck has <mask>	yellow
+<mask> is similar to dishonorable	yellow
+grass is very <mask>	green
+pickle is related to <mask>	green
+wool is <mask> fluffy	white
+<mask> is night	black
+blue is related to <mask> white	red
+<mask> is related to red white	blue
+smoke is related to <mask> color	black
+<mask>birds are <mask>	black
+sky is related to <mask> clouds	blue
+grass may be brown or <mask>	green
+grass may be <mask> or green	brown
+color is related to <mask> white	black
+frog is related to <mask>	green
+the world is not <mask>	orange
+<mask> is related to soothing	blue
+brugundy is a french <mask> wine	red
+barnacle is related to <mask> rings	white
+the <mask> light is broken up into many colors	white
+bird is big <mask>	yellow
+redbellied <mask> snake is a kind of snake	black
+card is related to <mask> jack	black
+bronze is <mask> metal	yellow
+lime is related to <mask> fruit	green
+flea is related to <mask>	black
+a <mask> street signal means slow down prepare to stop	yellow
+tabby cats are usually <mask> in color	orange
+corn is related to <mask> cereal	yellow
+ball is related to <mask> rubber	red
+a medal can hanging from a <mask> white and blue ribbon	red
+a medal can hanging from a red white and <mask> ribbon	blue
+a medal can hanging from a red <mask> and blue ribbon	white
+the sky is <mask> when not cloudy	blue
+<mask> is used in the context of checkers	black
+color is typically in <mask>	orange
+sun has <mask>	yellow
+paper is <mask> parchment	white
+blood oranges are <mask>	red
+holstein cattle are black and <mask>	white
+holstein cattle are <mask> and white	black
+bud is <mask> blossom	green
+spinach is related to <mask> food	green
+fire engines are noted for being <mask>	red
+a <mask> man can do this better	black
+violet is typically near <mask>	purple
+clown is related to <mask> nose	red
+plant is related to <mask> vegetation	green
+butter is generally pale <mask>	yellow
+branch is related to <mask>	brown
+slip is related to <mask>	pink
+a emerald is <mask>	green
+white and <mask> are colors	green
+ocean is <mask>	blue
+frogs can be <mask>	green
+a basketball is <mask> in color and round	orange
+apple is related to <mask>	yellow
+flush is turn <mask>	red
+sun is a kind of <mask> dwarf	yellow
+sheep is <mask> furry	white
+coffe is <mask>	black
+mustard is related to <mask>	yellow
+color is related to <mask> blue	yellow
+leave is related to <mask>	green
+an activity something can do is eat <mask> eggs and ham	green
+creature is related to <mask> lagoon	black
+smurfs are usually <mask>	blue
+cooks can <mask> meat	brown
+a <mask> jackets nest is a good place to avoid	yellow
+slave is related to <mask> people	black
+a person can may have <mask> juice for breakfast	orange
+note is related to <mask>	yellow
+<mask> is related to sad colour	blue
+<mask> is typically near purple	blue
+blue is typically near <mask>	purple
+rabbit is animal <mask>	white
+<mask> is color sky	blue
+blood is related to vein <mask>	red
+cats eyes can change from <mask> to brown as they grow	green
+cats eyes can change from green to <mask> as they grow	brown
+price is related to <mask> tag	yellow
+the ocean is <mask>	blue
+ticks are <mask>	brown
+wedding bridal dresses are typically <mask>	white
+sea is related to <mask> salty	blue
+sky is clouds <mask>	blue
+<mask> economy is a part of economy	black
+an emerald is a hard shiny <mask> jewel	green
+club is related to <mask> suit	black
+salt has <mask> texture	white
+bear is big <mask>	brown
+somewhere something can be is in a <mask> hole	black
+how is <mask> cow	brown
+<mask> is used for home depot	orange
+<mask> is related to warm color	red
+milk is a kind of <mask> drink	white
+piano is related to black <mask>	white
+piano is related to <mask> white	black
+grass is everywhere <mask>	green
+record is related to <mask> disk	black
+<mask> collar criminals can doctor the books	white
+sunburn is related to <mask> peeling	red
+leaves are <mask> and smell like grass	green
+cloud is <mask> fluff	white
+envy is related to <mask>	green
+paper is related to <mask> rectangle	white
+the sky can be <mask> at sunrise and sunset	red
+<mask> is typically in windows	blue
+wool is <mask> as	white
+soojaebi are made of <mask> flour	white
+we can paint the town <mask> tonight	red
+paste is related to sticky <mask>	white
+snow is <mask> rain	white
+<mask> is water color	blue
+<mask> marketeer is used in the context of crime	black
+flea is related to small <mask>	black
+cone is <mask>	orange
+the <mask> chess pawns stand on the second rank	white
+the fruit of a watermelon is <mask>	red
+a hot house and a <mask> house are equivalent	green
+cloud is related to fluffy <mask>	white
+<mask> is related to rainbow	blue
+lime has <mask> citrus	green
+crow is related to <mask>	black
+note is related to <mask> sticky	yellow
+doctors in hospitals usually where <mask> lab coats	white
+dirt is related to <mask>	brown
+grape is generally <mask>	green
+<mask> sky law is used in the context of law	blue
+iron stain is colo<mask> between <mask> or brown	red
+iron stain is colored between red or <mask>	brown
+salt is related to <mask> dust	white
+a dress can be <mask>	blue
+jade is <mask>	green
+an eastern <mask> snake is nonaggressive	brown
+record is related to vinyl <mask>	black
+bone is related to <mask> hard	white
+nature is outdoors <mask>	green
+writing is related to <mask>	black
+chair is related to <mask>	brown
+gray is related to light <mask>	black
+apple is related to <mask> ball	red
+a postit note is <mask>	yellow
+<mask> is a symbol of innocence	white
+spark is <mask> short	blue
+<mask> is related to warnings	red
+organization is related to <mask>	red
+chocolate milk is <mask>	brown
+pea is related to <mask> vegetable	green
+air is transparent and slightly <mask>	blue
+<mask> is darkest colour	black
+coal is mining <mask>	black
+lobster is <mask> crustacean	red
+cloud is related to <mask> puffy	white
+tangerine is smaller <mask>	orange
+colour is related to yellow <mask>	green
+albinos are <mask>	white
+snow is related to cold <mask>	white
+rice is <mask> kernels	white
+<mask> out is a way to snuff out	black
+oil is related to <mask> gold	black
+an <mask> is a citrus fruit	orange
+<mask> is used for painting	blue
+an <mask> is sweet	orange
+<mask> snow is not good to eat	yellow
+ink is related to <mask>	black
+<mask> is absolute darkness	black
+yellow and <mask> make green	blue
+<mask> and blue make green	yellow
+yellow and blue make <mask>	green
+<mask> is the first color in the rainbow	red
+a carnation is a flower it can be white pink or <mask>	red
+a carnation is a flower it can be white <mask> or red	pink
+a carnation is a flower it can be <mask> pink or red	white
+a <mask> light means slow down	yellow
+egg is <mask> oval	white
+computerrendered notes can floating over a <mask> background	blue
+if your hotel room has <mask> walls your stay may be unenjoyable	blue
+be is related to <mask>	yellow
+<mask> is the opposite of happy	blue
+brides can wear <mask> to symbolize their virginity	white
+plant is <mask> foliage	green
+horse is <mask>	brown
+dandelion <mask> is a part of common dandelion	green
+the <mask> shark is a sleek fastswimming shark with <mask> skin	blue
+bone is related to hard <mask>	white
+the strawberry is a sweet <mask> fruit	red
+bummbel bees are striped in black and <mask>	yellow
+bummbel bees are striped in <mask> and yellow	black
+butter is related to <mask> milk	yellow
+lemons are <mask> colored	yellow
+<mask> is related to democratic	blue
+canary is related to <mask> feathers	yellow
+you are likely to find water around in <mask> water rapids	white
+we can state that water is <mask>	purple
+chicken brest is <mask> meat	white
+apple is the opposite of <mask>	orange
+navy is dark <mask>	blue
+barium salts create <mask> flames	green
+scarlet is <mask>	red
+oil is related to <mask> crude	black
+apple is <mask> round	red
+people speed up at <mask> lights	yellow
+oil is related to <mask> slick	black
+stop is related to <mask> octagon	red
+dead grass is <mask>	brown
+<mask> is related to ocean colour	blue
+if a banana is ripe then it is <mask>	yellow
+cross is american <mask>	red
+the color <mask> is often associated with sadness or depression	blue
+primary colors yellow blue <mask>	red
+primary colors yellow <mask> red	blue
+primary colors <mask> blue red	yellow
+sunset is related to <mask>	orange
+algae is related to <mask> scum	green
+powde<mask> pepper can be made of <mask> pepper	red
+tamariscifolia new <mask> juniper is a plant	blue
+kinds of fox  <mask> fox	red
+<mask> is used for the sky	blue
+record is related to <mask> round	black
+sauce is related to <mask>	red
+street is <mask>	black
+celery is a <mask> vegetable	green
+the electricity can <mask> out	brown
+her shirt is <mask>	black
+peel is related to <mask>	orange
+golf is <mask> ball	white
+gold is related to <mask> color	yellow
+pears are <mask>	green
+<mask> and black ants sometimes battle	red
+red and <mask> ants sometimes battle	black
+there are many shades of <mask>	blue
+yellow is not <mask>	red
+squirrel is <mask>	brown
+color is white <mask>	red
+color is <mask> red	black
+water is <mask>	blue
+<mask> has color	black
+a stick eraser is often <mask>	pink
+<mask> is related to sky water	blue
+most plants are <mask>	green
+chick is related to fuzzy <mask>	yellow
+<mask> symbolizes danger	red
+<mask> is related to primary colour	blue
+pure is similar to <mask>	white
+you would paint your room because you want <mask>	blue
+<mask> is part of california	orange
+pea is related to <mask> color	green
+slip is related to <mask> paper	pink
+fire has <mask> hot	red
+cinnamon is related to <mask>	brown
+mole is <mask> mark	brown
+<mask> is related to very	black
+color is related to white <mask>	green
+lip is related to <mask> thing	red
+ink is related to <mask> water	black
+ricky is a <mask> supremicist	white
+monty pythons big <mask> book is neither big nor <mask>	red
+fire extinguishers are often <mask>	red
+chromatic is similar to caramel <mask>	brown
+cotton is <mask> thread	white
+apple is related to <mask> hard	red
+note is related to <mask> dot	black
+a lawn is <mask>	green
+squirrel is <mask> gray	red
+gravy is related to <mask>	brown
+judge has <mask> robes	black
+squirrel is related to grey <mask>	orange
+broccoli is a <mask> vegetable	green
+construction is typically near <mask> cones	yellow
+paper is related to <mask> lined	white
+leaf is related to plant <mask>	green
+some leopards are <mask>	black
+<mask> plants can die without sunlight	green
+the sky often looks <mask>	blue
+banana is <mask>	yellow
+one impairment a person might have is a <mask> eye	pink
+chocolate has <mask>	brown
+a flesh is part of an <mask>	orange
+some people have <mask> hair	black
+lawns can turn <mask> in the spring and brown in the fall	green
+lawns can turn green in the spring and <mask> in the fall	brown
+sometimes <mask> wine causes migraines	red
+a person wants <mask> traffic lights all the way home	green
+orange is related to <mask>	red
+<mask> is related to red	orange
+ground is related to <mask> earth	brown
+squirrel is related to <mask> tail	brown
+you are likely to find a parking zone in <mask> lines	yellow
+blood is usually <mask>	red
+<mask> is related to riding hood	red
+<mask> is used for dark	black
+mist is related to <mask>	white
+fire is related to <mask>	red
+cloak is typically near <mask> hood	red
+course has golf <mask>	green
+<mask> is typically in water	blue
+the virgin mary is depicted wearing <mask>	blue
+color is related to example <mask>	yellow
+ribbon is <mask> thin	red
+lily is <mask>	pink
+garden has <mask> space	green
+the astronauts postponed their trip because they were hungry for <mask> meat	red
+sugar is related to <mask> sand	white
+cloud is related to puffy <mask>	white
+blood is related to <mask>	red
+navy <mask> is a color	blue
+roosters have a <mask> comb	red
+out of the <mask> is similar to unexpected	blue
+<mask> is used for color	blue
+grass is related to <mask>	green
+banana is not <mask>	red
+some sand is <mask>	black
+a person can circle a classified ad with a <mask> pen	red
+cross is related to <mask> something	red
+<mask> is related to common juice	orange
+party is related to <mask>	green
+grasshopper is related to <mask>	green
+seal is related to <mask> coat	black
+wine is <mask> white or rose	red
+wine is red <mask> or rose	white
+mole is related to <mask> fur	black
+oil is related to <mask> fluid	black
+color is related to black <mask>	white
+cotton is <mask> textile	white
+milk has <mask> color	white
+<mask> is related to sad color	blue
+judge is related to <mask> wig	white
+blood is <mask> vein	red
+sand is <mask> beach	brown
+mole is <mask>	black
+copper can turns <mask> with age	green
+<mask> cars are 85 more likely to get a speeding ticket	red
+dandelions are weeds with pretty <mask> flowers that turn into seed puffballs	yellow
+<mask> is not apple	orange
+earth is related to <mask> green	blue
+earth is related to blue <mask>	green
+an activity someone can do is drink <mask> coffee	black
+paper is related to <mask> square	white
+<mask> is related to sea color	blue
+blood is <mask> color	red
+<mask> is related to frog color	green
+you are likely to find a creature in the <mask> lagoon	black
+smoke is related to <mask>	black
+<mask> pine is a plant	white
+sea trout is a part of <mask> trout	brown
+the <mask> house is where the president of the united states lives	white
+ivory is related to <mask>st <mask>	white
+<mask> is typically in traffic light	green
+profit is typically in the <mask>	black
+a <mask> ribbon is for winning	blue
+a chef can <mask> sausages	brown
+sea is related to deep <mask>	blue
+bill is related to <mask> rectangle	green
+<mask> has indigo	blue
+chick is related to <mask> baby	yellow
+hut is adam <mask>	green
+rice is <mask> or	white
+paper is related to <mask> pages	white
+schoolbuses are <mask>	yellow
+farm is related to <mask> building	red
+carrot has <mask>	orange
+when unripe bananas are <mask>	green
+you are likely to find a potato in a <mask> grocers shop	green
+<mask> is related to absence	black
+money is <mask> cash	green
+<mask> is used for sky	blue
+wine has <mask>	white
+stop is related to octagonal <mask>	red
+a <mask> is part of a golf course	green
+lime is related to but <mask>	green
+oil is <mask> crude	black
+dove is related to <mask> feathers	white
+paper is usually flat and <mask>	white
+raw bananas are <mask>	green
+as bananas ripen their color changes into <mask>	yellow
+tennis has <mask> ball	yellow
+elmers glue is <mask>	white
+irritation is <mask> skin	red
+a correction fluid is for painting in <mask>	white
+ripe apples can be <mask> yellow or golden in color	red
+ripe apples can be red <mask> or golden in color	yellow
+crow is <mask> bird	black
+note is <mask>	black
+kinds of cow  <mask> angus	black
+<mask> is daytime sky	blue
+<mask> is related to warning sign	orange
+lobsters have <mask> blood	blue
+fly is related to <mask> small	black
+color is yellow <mask>	green
+jupiter is famous for the <mask> spot	red
+<mask> is related to fruit	orange
+a caraffe is used for <mask> juice	orange
+apple has <mask> skin	green
+cows that are used to produce milk are black and <mask>	white
+cows that are used to produce milk are <mask> and white	black
+snow is <mask>	white
+sun is related to <mask> star	yellow
+beauty is related to <mask>	black
+a zest is part of an <mask>	orange
+<mask> is the color of the sky	blue
+snow has a <mask> colour	white
+bag is related to <mask>	brown
+a person wants <mask> grass	green
+<mask> is a colour associated with caution	yellow
+tar is related to <mask> street	black
+sky is related to is <mask>	blue
+<mask> is related to sunsets	red
+<mask> has sky water	blue
+<mask> is related to leafs	green
+the sun  is  <mask>	yellow
+nest is <mask>	brown
+<mask> wine is clear in color	white
+colour is <mask> orange	red
+colour is red <mask>	orange
+a woman can jumping over a <mask> fence on a black horse	white
+a woman can jumping over a white fence on a <mask> horse	black
+barnacle is related to <mask>	white
+denim is a heavy <mask> fabric	blue
+<mask> has cool	blue
+table salt and <mask> sugar look very much alike	white
+most things is a forest are <mask>	green
+when i say i am <mask> i am sad	blue
+coal is related to <mask> stuff	black
+apples can be yellow green and <mask>	red
+apples can be <mask> green and red	yellow
+apples can be yellow <mask> and red	green
+<mask> is a color associated with royalty	purple
+<mask> has ocean color	blue
+plant is <mask> crop	green
+iron is <mask> metal	black
+sheep is related to <mask> mammal	white
+plant has <mask> thing	green
+darkness is <mask>	black
+the great <mask> shark is a large meateating fish	white
+egg is related to <mask> sphere	white
+papre is <mask>	white
+chick is related to <mask>	yellow
+unaged is similar to <mask>	green
+covert is similar to <mask>	black
+paste is related to <mask>	white
+sugar is related to <mask> powder	white
+sugar has <mask> granules	white
+ninjas always wear <mask>	black
+<mask> makes you imagine clouds	white
+<mask> is water	blue
+milk is related to <mask> juice	white
+gold is <mask> in color	yellow
+<mask> is not yellow	green
+there may be a <mask> computer somewhere in the state of florida	white
+you are likely to find a president in the <mask> house	white
+a <mask> dwarf is a kind of star	red
+spring is related to <mask>	green
+color has <mask> green	blue
+blister is related to <mask> bubble	red
+smoke is a kind of <mask> cloud	black
+corn is <mask> cob	yellow
+carbon <mask> is added to tyres as a reinforcing agent	black
+<mask> is related to absolutely	black
+a ruby is <mask>	red
+liberty has <mask> woman	green
+<mask> hole is generally not round	black
+paper is related to <mask> sheets	white
+<mask> is eye color	blue
+leaves are <mask> because they contain clorophyll	green
+grass is related to outside <mask>	green
+<mask> is angry color	red
+some grapes have a <mask> color	green
+address is related to <mask> pages	yellow
+love is usually <mask>	red
+corn is related to <mask>	green
+stopping your car is for coming to  a <mask> light	red
+respect is typically in <mask> people	black
+rabbit is <mask>	white
+algae is related to <mask> growth	green
+a redbellied <mask> snake is venomous	black
+black can become <mask>	white
+<mask> can become white	black
+ginger is related to <mask> heads	red
+leaf is <mask> frond	green
+royal is related to <mask>	purple
+nature is related to <mask>	green
+<mask> is similar to afroamerican	black
+rice has <mask> or	white
+sunlight is related to <mask> rays	yellow
+the sky is not always <mask>	blue
+<mask> has many hues	blue
+rust is related to <mask> oxidization	red
+you would stop your car because a <mask> light is flashing	red
+bear is <mask> animal	brown
+cats like <mask> colors	red
+steam is <mask>	white
+<mask> gives life	green
+telstra published white and <mask> pages directories	yellow
+telstra published <mask> and yellow pages directories	white
+skunk is related to <mask>	white
+blue has no <mask>	red
+<mask> has no red	blue
+sand has <mask> specs	white
+blue is the opposite of <mask> yellow	red
+<mask> is the opposite of red yellow	blue
+blue is the opposite of red <mask>	yellow
+eye is <mask> brown	blue
+eye is blue <mask>	brown
+<mask> light is made up of the whole spectrum of colors	white
+snow is <mask> water	white
+woad contains <mask> colouring	blue
+<mask> apples are usually tart	green
+solient <mask> is people	green
+you are likely to find a cow in a <mask> field	green
+native is related to <mask> indian	red
+sometimes you have to tell a <mask> lie	white
+<mask> fabric with ink on it	black
+squirrel is related to animal <mask>	red
+liberty is related to <mask> woman	green
+snow is related to <mask>	white
+change is related to <mask> politician	black
+record is <mask> round	black
+space is related to <mask> empty	black
+glass bottles may be <mask>	green
+the grass is <mask>	green
+sugar is <mask> granules	white
+corn is related to <mask> teeth	yellow
+<mask> color symbolizes purity	white
+bananas is generally <mask>	yellow
+<mask> is related to hunter	green
+water particles make the sky <mask>	blue
+fire is hot <mask>	red
+grass is mowed <mask>	green
+a bicycle is <mask>	red
+sugar is related to <mask> crystals	white
+wool is itchy <mask>	white
+money has <mask> bills	green
+grass is related to <mask> carpet	green
+cotton is <mask>	white
+limousine is related to <mask>	black
+leaf is related to <mask> one	green
+i decided to paint my bell <mask>	green
+china is related to <mask> people	yellow
+a hot water bottles is <mask> to signify it can be hot	red
+a business can have a <mask> logo	blue
+caterpillar is related to long <mask>	green
+money is related to <mask> bill	green
+asparagus is related to <mask>	green
+nellie painted her fingernails bright <mask>	red
+fall is related to <mask>	red
+<mask> is a popular color in the art of provence	blue
+most animals can see only in black and <mask>	white
+most animals can see only in <mask> and white	black
+<mask> is related to egg	blue
+<mask> is related to purple green	blue
+roses are <mask> even for cats	red
+egg is small <mask>	white
+<mask> is related to color money	green
+<mask> things are generally less formal than black ones	pink
+pink things are generally less formal than <mask> ones	black
+cash is related to cold <mask>	green
+grass is <mask> garden	green
+wax is ear <mask>	yellow
+slime is related to <mask> ooze	green
+eat <mask> meatmm<mask>meeaatt	red
+plate is <mask>	white
+i drink <mask> tea at a japanese restaurant	green
+blood is <mask> stuff	red
+an <mask> grows on a tree	orange
+albescent is similar to <mask>	white
+dark <mask> pyramidal yew is a plant	green
+clarinet is related to long <mask>	black
+female <mask> widow spiders eat their mates after mating	black
+apple is related to <mask> item	red
+<mask> is used for decoration	blue
+you are likely to find gravity in a <mask> hole	black
+a toaster  can <mask> bread	brown
+dollar is <mask>	green
+pear is related to light <mask>	green
+street is related to <mask>	black
+milk is related to <mask> water	white
+nori is <mask> seaweed	green
+<mask> is related to stop signs	red
+visual <mask> is a part of rod	purple
+emeralds are <mask> colored precious stones	green
+<mask> is cerulean colour	blue
+rice is related to <mask>	white
+a united states of america dollar is green and <mask>	white
+a united states of america dollar is <mask> and white	green
+mustard seed is a part of <mask> mustard	white
+you can look so terrific in <mask>	red
+the minnesota state tree is the <mask> pine	red
+poison is related to <mask>	white
+chromatic is similar to bright <mask>	blue
+if the sky is <mask> the whether is fine	blue
+an old woman can <mask> her hair	blue
+salt has <mask> crystals	white
+cotton is related to <mask> buds	white
+ginger is related to <mask> hai<mask>	red
+in india chai is a <mask> tea	black
+plants have usually <mask> leaves	green
+sea is <mask>	blue
+<mask> has clouds	blue
+blue light has a shorter wavelength than <mask> light	red
+<mask> light has a shorter wavelength than red light	blue
+the sun can <mask> the fields during this time of year	brown
+stick has <mask>	brown
+a <mask> hole is not a kind of planet	black
+flag is related to <mask> white	red
+flag is related to red <mask>	white
+some leaves are <mask>	purple
+a <mask> bow can sometimes has a special meaning	yellow
+plant has <mask> living	green
+a <mask> vegetable  is part of a meal	green
+egg is related to yolk <mask>	white
+bone is <mask> insides	white
+in the us <mask> buses take kids to school	yellow
+coal is related to <mask> fuel	black
+bananna is <mask>	yellow
+colour is the opposite of <mask>	white
+<mask> is for boy pink is for girl	blue
+blue is for boy <mask> is for girl	pink
+suede is related to <mask> shoes	blue
+apple has <mask> peel	red
+chlorophyll makes grass <mask>	green
+grilled corn becomes golden <mask>	brown
+sky has <mask> color	blue
+wine is related to liquid <mask>	red
+plate is <mask> china	white
+reflecting the sky scene from the window the tray becomes bright <mask>	blue
+some wines are <mask>	white
+tangerine is related to <mask> fruit	orange
+blue is typically near <mask> yellow	red
+<mask> is typically near red yellow	blue
+blue is typically near red <mask>	yellow
+<mask> and yellow make orange	red
+red and <mask> make orange	yellow
+red and yellow make <mask>	orange
+hedge is <mask> bush	green
+tree is related to <mask> brown	green
+tree is related to green <mask>	brown
+<mask> is crimson	red
+<mask> is related to color democrats	blue
+<mask> is banana colour	yellow
+<mask> is navy	blue
+cardinal is <mask> bird	red
+salt is <mask> grain	white
+<mask> is a kind of water color	blue
+<mask> is related to lettuce	green
+lemon is related to <mask> oval	yellow
+mole is related to small <mask>	black
+how is related to <mask> indian	red
+tar is related to <mask> colour	black
+<mask> is a political perspective	green
+a giraffe tail ends in a tuft of long <mask> hair	black
+black is related to <mask>	white
+<mask> is related to white	black
+fire is orange <mask>	red
+fire is <mask> red	orange
+colour is related to <mask> indigo	purple
+<mask> is related to verdant color	green
+ground is related to <mask> dirt	brown
+juice has <mask> pulp	orange
+tobacco is related to <mask> stuff	brown
+a <mask> is a fruit	orange
+the umbrella is <mask>	blue
+most foods are not <mask> and squishy	black
+fox is related to <mask> fur	red
+crop is <mask> brown	green
+crop is green <mask>	brown
+meadow is <mask>	green
+oil is related to <mask> goop	black
+coal is <mask> lump	black
+rice is <mask> food	white
+<mask> is the complementary color to green	red
+red is the complementary color to <mask>	green
+<mask> is related to wavelength	blue
+<mask> is related to color ocean	blue
+<mask> is a way to cut	pink
+<mask> is related to cool color	blue
+you can mix <mask> and yellow paint to get green	blue
+you can mix blue and <mask> paint to get green	yellow
+you can mix blue and yellow paint to get <mask>	green
+<mask> is more	blue
+<mask> is related to darkest color	black
+grass is related to <mask> shoots	green
+pasture is <mask> place	green
+the rhode island state bird is the rhode island <mask> hen	red
+<mask> is typically in the rainbow	blue
+branch is related to <mask> twiggy	brown
+a chess bishop can be black or <mask>	white
+a chess bishop can be <mask> or white	black
+sky is <mask> air	blue
+<mask> is the longest wavelength of light visible to humans	purple
+they are all wearing <mask> suits	pink
+apple is related to <mask> fruit	yellow
+blood is <mask> corpuscle	red
+<mask> dwarf is a kind of astronomical object	brown
+plant is related to <mask> leaf	green
+plant is related to leafy <mask>	green
+a lemon is a sour <mask> fruit	yellow
+denim is used for making a pair of <mask> jeans	blue
+both a horse and a refrigerator can be <mask>	white
+plant is related to <mask> leaves	green
+<mask> is related to cool feeling	blue
+mold is related to <mask> green	blue
+mold is related to blue <mask>	green
+<mask> is typically near indigo	blue
+steam has <mask> air	white
+diamond is related to <mask>	white
+sheep has <mask> wool	white
+chlorine gas is yellowish <mask>	green
+<mask> is related to sun color	yellow
+cloud is related to <mask> fluff	white
+but chlorophyll is <mask>	green
+hazard is related to <mask> sign	yellow
+trees can have <mask> leaves	green
+thunder is related to <mask>	white
+coal is <mask> energy	black
+coal is related to <mask> briquette	black
+bone is <mask> strong	white
+sand is <mask> grains	white
+neutron stars are less dense than <mask> holes	black
+blood is <mask> veins	red
+grass is <mask> growth	green
+rust is <mask>	red
+corn is related to <mask> ear	yellow
+swans are usually <mask> but may also be black	white
+swans are usually white but may also be <mask>	black
+sock is <mask>	white
+some varieties of apples are <mask>	green
+school buses are <mask> in canada	yellow
+the shy is <mask>	blue
+<mask> is azure color	blue
+cherries are <mask>	red
+leaf is related to <mask> units	green
+oil is related to <mask> tar	black
+heat can <mask> metal	blue
+yoke is related to <mask>	yellow
+hut is related to adam <mask>	green
+sunburn is related to <mask> pain	red
+<mask> chili is made from ripened dried chili peppers	red
+oil is <mask> slick	black
+board is <mask>	black
+i sent <mask> roses for friendship	yellow
+a <mask> cup can fill with cappachino on a saucer	white
+organization is <mask> cross	red
+pear is related to <mask> thing	green
+color is black <mask>	red
+jade is <mask> gem	green
+<mask> is related to flag color	blue
+<mask> symbolizes environmentalism	green
+box is <mask> cube	brown
+camouflage is related to <mask>	green
+you would plant a garden because you have a <mask> thumb	green
+most beers are bottled in protective <mask> glass	brown
+chick is related to <mask> wings	yellow
+turn signals are <mask>	yellow
+a glass can hold <mask> juice	orange
+oil is related to thick <mask>	black
+paper is flat <mask>	white
+the color of guinness is <mask>	black
+lemon is <mask> citrus	yellow
+hearts are <mask>	red
+<mask> is related to clear sky	blue
+moss is related to <mask> plant	green
+apple is green <mask>	red
+apple is <mask> red	green
+a lymphocyte is a <mask> blood cell	white
+sun is related to <mask> bright	yellow
+apple is <mask> and	orange
+poker can be played on a wooden table that is <mask>	brown
+if it is too <mask> the glare will hurt their eyes	white
+<mask> is related to moss color	green
+<mask> is a colour commonly	pink
+sun is <mask> disk	yellow
+jealousy is related to <mask>	green
+healthy grass is <mask>	green
+cow is black <mask>	white
+cow is <mask> white	black
+<mask> is related to many hues	blue
+stick is related to <mask> twig	brown
+a salad is generally <mask>	green
+honeydew is a pale <mask> melon	green
+crush is typically near <mask> soda	orange
+pig is <mask>	pink
+page is related to <mask> paper	white
+leaf is related to <mask> growth	green
+the colors <mask> green and purple are considered to be cool colors	blue
+the colors blue <mask> and purple are considered to be cool colors	green
+the colors blue green and <mask> are considered to be cool colors	purple
+you could tell a person is upset if he turns <mask>	red
+pepper is <mask>	black
+a person doesnt want to be overcharged because he is <mask>	white
+snow is cold <mask>	white
+ill is similar to <mask>	green
+<mask> is living color	green
+<mask> sails can incite violence	orange
+daisies are <mask>	yellow
+mud is related to <mask>	brown
+chicken is related to <mask> brown	white
+chicken is related to white <mask>	brown
+mold is <mask> bread	green
+horses are often <mask>	brown
+column is related to <mask>	white
+jade is <mask> gemstone	green
+garden is related to <mask> plants	green
+magenta <mask> and cyan make white	yellow
+magenta yellow and cyan make <mask>	white
+wool is related to <mask> hair	white
+a watch can be many colours including <mask>	brown
+<mask> is typically in jeans	blue
+rapid is related to <mask> water	white
+lead is related to <mask>	black
+sapphire has <mask> gem	blue
+stupid old black and <mask> tv	white
+stupid old <mask> and white tv	black
+dark <mask> spreader yew is a plant	green
+the sky is generally <mask>	blue
+raspberry is <mask> fruit	red
+<mask>ies have <mask> faces and shaggy hair	brown
+wool is related to <mask> fabric	white
+raspberry is related to small <mask>	red
+squirrel is a kind of <mask> tail	red
+nature is <mask>	green
+green is related to <mask> yellow	blue
+green is related to blue <mask>	yellow
+<mask> is related to blue yellow	green
+<mask> is sunny day	blue
+chicken is related to other <mask>	white
+not everybody name bill has <mask> eyes	blue
+blood has <mask> color	red
+profit is the <mask>	black
+colour is related to <mask> red	blue
+kale is related to <mask>	green
+<mask> is related to plant color	green
+sea is vast <mask>	blue
+bear has <mask> hair	brown
+tin is related to soft <mask>	white
+more reflection might obscure the <mask>	green
+a person wants tart <mask> apples	green
+raw is a kind of <mask>	red
+oil is <mask> liquid	black
+coffee is generally <mask>	black
+<mask> is a kind of berry	blue
+oxygenated blood is <mask>	red
+nature is related to <mask> environment	green
+<mask> coffee is very bitter	black
+<mask> sky in the morning sailors  warning	red
+blood is flowing <mask>	red
+a <mask> person doesnt want to listen to rap music	white
+egg is related to <mask> inside	yellow
+steam is related to <mask> vapor	white
+asparagus is <mask>	green
+a hockey puck is <mask> and hard	black
+overripe bananas are <mask>	black
+some pens have <mask> ink and some have black	blue
+some pens have blue ink and some have <mask>	black
+napkin is related to <mask> color	white
+the traffic light is <mask>	green
+writing is related to <mask> marks	black
+salt is <mask> granules	white
+orangina is an <mask> soda	orange
+beet is related to <mask> vegetable	red
+<mask> is the color of a very dark night	black
+the rainbow is <mask> orange yellow green blue indigo and violet	red
+the rainbow is red orange yellow green <mask> indigo and violet	blue
+the rainbow is red orange <mask> green blue indigo and violet	yellow
+the rainbow is red orange yellow <mask> blue indigo and violet	green
+the rainbow is red <mask> yellow green blue indigo and violet	orange
+autumn is related to <mask> leaves	orange
+<mask> is related to in skies	blue
+a toaster can <mask> bread	brown
+dollar is related to <mask> paper	green
+green is <mask>	yellow
+<mask> is yellow	green
+a stick is for waving a <mask> flag of surrender	white
+<mask> is related to angry color	red
+coal is related to <mask>	black
+chicken has <mask> feathers	white
+good is similar to <mask>	white
+an <mask> is a citrus	orange
+celery is a <mask> vegetable that people eat	green
+wool is related to curly <mask>	white
+<mask> is darkness	black
+an apple is <mask>	green
+pigeon is <mask> gray	white
+snow is <mask> falling	white
+petal is related to <mask>	green
+pickle is <mask>	green
+a person doesnt want <mask> balls	blue
+park is municipal <mask>	green
+fox is related to <mask> dog	red
+egg is related to small <mask>	white
+cotton is related to fluffy <mask>	white
+road is related to <mask> surface	black
+a school bus is usually <mask>	yellow
+bread is related to unleavened <mask>	white
+squirrel is related to <mask>	brown
+a blushing face is <mask>	red
+the wall street journal is in black and <mask>	white
+the wall street journal is in <mask> and white	black
+raddishes are usually <mask>	red
+wool is related to <mask> curls	white
+park is <mask>	green
+gras is <mask>	green
+bannas are <mask>	yellow
+shamrocks are <mask> plants	green
+<mask> juice is a good daily souce of vitamin c	orange
+<mask> spruce is a plant	white
+chick is related to <mask> puffball	yellow
+gold is related to <mask> metal	yellow
+the night is <mask>	black
+the color <mask> is a symbol for cowardice	yellow
+grizzly is related to big <mask>	brown
+tin is soft <mask>	white
+<mask> is related to navy	blue
+skunk is black <mask>	white
+skunk is <mask> white	black
+poison is related to snow <mask>	white
+clover is <mask>	green
+salt is related to <mask> granules	white
+a robins eggs are <mask>	blue
+the peel of an <mask> is not good to eat	orange
+canary is <mask> songbird	yellow
+algae has <mask> fungus	green
+amethyst is related to <mask> stone	purple
+sheep is related to <mask> furry	white
+camouflage is related to <mask> brown	green
+camouflage is related to green <mask>	brown
+warning signs are <mask> and black	yellow
+warning signs are yellow and <mask>	black
+<mask> is related to leaf	green
+a person doesnt want to get a <mask> eye	black
+<mask> is ecology color	green
+seaweed is related to <mask>	green
+<mask> is related to fruit color	orange
+mucus is related to sickly <mask>	green
+lemonade is <mask>	yellow
+moth is related to <mask> butterfly	brown
+gray is black <mask>	white
+gray is <mask> white	black
+a <mask> jacket is a wasp	yellow
+plant is related to <mask>	green
+road is related to paved <mask>	black
+<mask> and black are opposite colors	white
+white and <mask> are opposite colors	black
+<mask> is related to florida	orange
+pineapple is related to <mask>	yellow
+page is related to flat <mask>	white
+slime is related to <mask>	green
+lobster is related to <mask>	red
+her car is <mask>	black
+the new jersey state tree is the <mask> violet	purple
+blonde is related to <mask> hair	yellow
+a little quantity of <mask> liquid	red
+an astute reader can rule out the <mask> herrings in the mystery	red
+ocean is related to big <mask>	blue
+<mask> enamel can reflect an image	black
+a lot of plants are <mask>	green
+<mask> can often means stop	red
+plum is <mask>	purple
+stick is related to long <mask>	brown
+<mask> plus yellow makes orange	red
+red plus <mask> makes orange	yellow
+red plus yellow makes <mask>	orange
+<mask> is a kind of sad colour	blue
+pearl is related to <mask>	white
+berry is typically in without <mask>	blue
+chick is related to <mask> fur	yellow
+moselle is a german <mask> wine	white
+bear is brown <mask>	black
+bear is <mask> black	brown
+mark is related to <mask>	red
+cherry is related to <mask>	red
+wearing <mask> increases the probability of injury when walking on a road	black
+oceans are <mask>	blue
+chocolate is related to <mask> candy	brown
+corn is <mask> cereal	yellow
+<mask> is related to peal	orange
+<mask> is tasty	orange
+sky is related to horizon <mask>	blue
+caramel <mask> is similar to chromatic	brown
+colour is used for <mask> brown	purple
+colour is used for purple <mask>	brown
+<mask> is sad	blue
+president has <mask> house	white
+steam is related to <mask>	white
+chalk is related to powdery <mask>	white
+something you might buy at the grocery store is <mask> peppers	green
+<mask> is a kind of colour	blue
+you would stop your car because the light has turned <mask>	red
+blood has <mask> colour	red
+gold is shiny <mask>	yellow
+canary has <mask> feathers	yellow
+<mask> and blue make purple	red
+red and <mask> make purple	blue
+red and blue make <mask>	purple
+peace is related to <mask> dove	white
+the sky is <mask> when the weather is fair	blue
+worm is related to <mask> squiggly	pink
+<mask> is related to secondary color	green
+<mask> is feeling sad	blue
+the french call the <mask> house  maison blanche	white
+steak is <mask>	red
+daiseys have a <mask> center	yellow
+a panda bear is black and <mask>	white
+a panda bear is <mask> and white	black
+a feijoa is a small <mask> fruit	green
+you need to wait for the <mask> light to cross the road	green
+hemoglobin turns <mask> when exposed to oxygen	red
+a first time bride usually wears a <mask> dress	white
+submarine is related to <mask>	yellow
+gray is <mask> black	white
+gray is white <mask>	black
+a <mask> can be held in one hand	orange
+sugar is <mask> brown	white
+sugar is white <mask>	brown
+you are likely to find the <mask> house around in washingtondc	white
+rice is small <mask>	white
+<mask> is the color of night	black
+some people have <mask> eyes	brown
+tang is related to <mask> drink	orange
+rice is related to <mask> small	white
+plants are generally <mask>	green
+they laid shawnas dead body under the cool <mask> grass	green
+cloud has <mask> fluffiness	white
+sugar is <mask> granulated	white
+haddock is related to <mask> fish	white
+a <mask> light would make you want to stop your bicycle	red
+tires are <mask>	black
+candy canes are usually <mask> and white	red
+candy canes are usually red and <mask>	white
+<mask> is pitch dark	black
+a yellow warp plus a <mask> weft gives a green cloth	blue
+a <mask> warp plus a blue weft gives a green cloth	yellow
+a yellow warp plus a blue weft gives a <mask> cloth	green
+cucumber is related to <mask> long	green
+heaven is related to <mask> cloudy	white
+the juice from an <mask> is called <mask> juice	orange
+hospital is related to <mask>	red
+paste is related to <mask> glue	white
+cloud is a kind of <mask> fluffy	white
+carpospore is a part of <mask> algae	red
+sheep is related to animal <mask>	white
+snow is <mask> drifting	white
+sarah saw a bright <mask> fence sarah is sad	orange
+cranberry is <mask>	red
+soot is related to <mask> dust	black
+coal is related to <mask> rock	black
+sapphire is related to <mask> gem	blue
+<mask> has navy	blue
+paste is usually <mask>	white
+cotton is related to <mask> material	white
+cotton is related to <mask> balls	white
+it is <mask>	white
+<mask> crab is a part of <mask> crab	blue
+when you age your hair turns <mask>	white
+<mask> is black and	blue
+blue is <mask> and	black
+a restaurant dining area is for <mask> linen tablecloths and candlelight	white
+a cook can <mask> onions	brown
+or is and <mask>	black
+milk is cold <mask>	white
+peel is related to <mask> skin	orange
+vein is related to <mask> blood	blue
+common hair colors include brown blond grey <mask> black and white	red
+common hair colors include brown blond grey red black and <mask>	white
+common hair colors include brown blond grey red <mask> and white	black
+common hair colors include <mask> blond grey red black and white	brown
+<mask> is related to a tangerine	orange
+oceans can look <mask> from space	blue
+sometimes the sky looks <mask>	red
+cerulean is a kind of <mask>	blue
+till is related to <mask>	black
+you are not likely to find <mask> holes in orbit	black
+<mask> is aqua	blue
+wood is related to <mask> bark	brown
+sapphire is related to <mask> jewel	blue
+crow has <mask> bird	black
+a <mask> light is for slowing down	red
+cotton is related to <mask> textile	white
+sugar is related to sweet <mask>	white
+<mask> is similar to undiluted	black
+moss is related to <mask> fuzz	green
+goof has <mask> ears	black
+sugar is <mask> sweetener	white
+a variety of deer has a <mask> tail	white
+<mask> is used for juice	orange
+grass is <mask> mowed	green
+money is related to <mask> backs	green
+bread has <mask> rye	white
+<mask> is royal	blue
+a fire truck can be <mask>	red
+bone is related to <mask> stick	white
+moss is fuzzy <mask>	green
+river is <mask>	blue
+smoke is related to <mask> billows	black
+<mask> is similar to coloured	black
+<mask> is related to angry	red
+diluted is similar to <mask>	white
+rap is related to <mask> music	black
+board is related to <mask> paper	brown
+rabbit is related to <mask> animal	white
+a <mask> pea is part of a pea	green
+<mask> is a kind of cool color	blue
+<mask> is related to maroon	red
+clown is related to <mask>	red
+some bottles are made of <mask> glass	green
+heaven is related to <mask>	white
+<mask> rug wiltoni juniper is a plant	blue
+record is related to <mask> vinyl	black
+algae is related to <mask>	green
+hood is little <mask>	red
+fire is related to <mask> orange	yellow
+fire is related to yellow <mask>	orange
+violet is <mask> flower	purple
+you would dye your hair because you want <mask>	blue
+<mask> is related to cool	blue
+dollar is related to <mask> bill	green
+<mask> is related to seeds	orange
+it has <mask> pages	yellow
+a panda is a bearlooking black and <mask> mammal	white
+a panda is a bearlooking <mask> and white mammal	black
+<mask> is related to leaves	green
+olive has <mask> pitted	green
+color is related to <mask> purple	blue
+dark has <mask>	black
+the sky can appear <mask>	blue
+cloud is related to <mask> thing	white
+spinach is related to leafy <mask>	green
+aqua is <mask> and green	blue
+aqua is blue and <mask>	green
+<mask> light can has a longer wave length than orange light	yellow
+yellow light can has a longer wave length than <mask> light	orange
+<mask> is clover color	green
+algae is <mask>	green
+getting wet is for ladies in <mask> tshirts	white
+plant is <mask>	green
+a methylene <mask> test uses dye to test for normal kidney function	blue
+somewhere an <mask> tree can be is blooming now	orange
+cloud is <mask> sky	white
+apricot is related to <mask>	orange
+powder is related to <mask> dry	white
+tortoise is related to <mask>	green
+milk is <mask> stuff	white
+lemon is related to <mask> fruit	yellow
+a person can <mask> a pie	brown
+cotton is <mask> puffy	white
+kettle is <mask> pot	black
+cross is related to <mask> shield	blue
+<mask> has bright color	red
+some orchids are grown in <mask> houses	green
+windex is <mask>	blue
+there was a beautiful <mask> octopus and the washington zoo	orange
+<mask> is related to boys	blue
+ground mustard seeds were used to dye cloth <mask>	yellow
+a hunt for <mask> october is a book and a movie	red
+when you mix black paint and <mask> paint you get gray pain	white
+when you mix <mask> paint and white paint you get gray pain	black
+pale has wan <mask>	white
+unripe apples are <mask> in color	green
+snow is flaky <mask>	white
+ruby is related to <mask>	red
+<mask> plants have many diverse forms	green
+heart is related to <mask>	red
+<mask> is typically near sky color	blue
+bee is <mask> insect	yellow
+<mask> juice is a liquid	orange
+shade is related to <mask>	black
+peace is related to <mask>	white
+snow is usually <mask>	white
+a <mask> jay is a beautiful noisy <mask> bird	blue

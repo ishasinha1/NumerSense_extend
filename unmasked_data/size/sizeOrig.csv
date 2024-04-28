@@ -1,0 +1,3129 @@
+,text,key
+0,someone is larger than mouth,larger
+1,friend is larger than head,larger
+2,someone is larger than glass,larger
+3,shoulder is smaller than sea,smaller
+4,parcel is larger than hand,larger
+5,shop is smaller than state,smaller
+6,chair is smaller than floor,smaller
+7,gentleman is larger than breath,larger
+8,step is larger than ear,larger
+9,gentleman is larger than child,larger
+10,house is smaller than sun,smaller
+11,clock is smaller than friend,smaller
+12,body is smaller than camp,smaller
+13,world is larger than continent,larger
+14,brother is larger than violin,larger
+15,world is larger than way,larger
+16,worker is smaller than store,smaller
+17,bag is smaller than floor,smaller
+18,hair is smaller than eye,smaller
+19,father is larger than block,larger
+20,home is larger than boat,larger
+21,house is larger than gate,larger
+22,father is smaller than room,smaller
+23,cup is smaller than wife,smaller
+24,hair is smaller than sink,smaller
+25,car is larger than wife,larger
+26,head is smaller than wind,smaller
+27,gulp is smaller than bottle,smaller
+28,world is larger than head,larger
+29,town is larger than road,larger
+30,piece is smaller than object,smaller
+31,knee is larger than fist,larger
+32,street is larger than light,larger
+33,side is smaller than sea,smaller
+34,person is smaller than tree,smaller
+35,father is larger than ice,larger
+36,eye is smaller than wife,smaller
+37,brother is larger than side,larger
+38,back is larger than hair,larger
+39,sip is smaller than glass,smaller
+40,victim is larger than side,larger
+41,office is larger than room,larger
+42,boy is smaller than train,smaller
+43,lady is larger than body,larger
+44,hair is smaller than door,smaller
+45,wife is larger than throat,larger
+46,foot is larger than hand,larger
+47,stone is smaller than vessel,smaller
+48,person is larger than breath,larger
+49,friend is larger than book,larger
+50,house is larger than abode,larger
+51,state is larger than system,larger
+52,gentleman is smaller than road,smaller
+53,cross is smaller than face,smaller
+54,chair is larger than knee,larger
+55,door is larger than elbow,larger
+56,flood is larger than face,larger
+57,magistrate is larger than basin,larger
+58,door is smaller than flood,smaller
+59,arm is smaller than body,smaller
+60,magistrate is larger than child,larger
+61,sun is larger than hand,larger
+62,gentleman is smaller than bed,smaller
+63,wife is larger than fist,larger
+64,friend is larger than shirt,larger
+65,someone is larger than breath,larger
+66,bench is larger than arm,larger
+67,car is larger than light,larger
+68,messenger is smaller than place,smaller
+69,beard is smaller than head,smaller
+70,stone is larger than lip,larger
+71,hat is smaller than road,smaller
+72,person is larger than stair,larger
+73,daughter is larger than phone,larger
+74,boy is smaller than tree,smaller
+75,state is larger than farm,larger
+76,air is larger than lock,larger
+77,ground is larger than bed,larger
+78,abode is smaller than mountain,smaller
+79,suit is smaller than room,smaller
+80,daughter is smaller than light,smaller
+81,coach is smaller than corner,smaller
+82,person is larger than base,larger
+83,poet is smaller than room,smaller
+84,step is smaller than door,smaller
+85,door is larger than lock,larger
+86,hat is smaller than tree,smaller
+87,lady is larger than seal,larger
+88,lady is larger than light,larger
+89,hair is smaller than sun,smaller
+90,place is larger than ball,larger
+91,shop is larger than place,larger
+92,stone is smaller than ship,smaller
+93,barn is larger than head,larger
+94,foot is smaller than precipice,smaller
+95,place is larger than end,larger
+96,person is larger than coward,larger
+97,arm is smaller than child,smaller
+98,city is larger than hand,larger
+99,place is larger than block,larger
+100,meal is smaller than restaurant,smaller
+101,hair is smaller than dress,smaller
+102,everything is larger than something,larger
+103,city is larger than face,larger
+104,lady is smaller than state,smaller
+105,person is larger than scissors,larger
+106,messenger is smaller than mountain,smaller
+107,father is smaller than boat,smaller
+108,body is larger than picture,larger
+109,nose is smaller than skirt,smaller
+110,glass is smaller than head,smaller
+111,step is smaller than floor,smaller
+112,foot is smaller than back,smaller
+113,everything is larger than farm,larger
+114,door is larger than cross,larger
+115,pocket is smaller than car,smaller
+116,wall is larger than fist,larger
+117,person is larger than arm,larger
+118,eye is smaller than suit,smaller
+119,eye is smaller than tree,smaller
+120,grass is larger than face,larger
+121,head is smaller than king,smaller
+122,person is smaller than river,smaller
+123,clock is smaller than head,smaller
+124,someone is smaller than truck,smaller
+125,father is larger than bow,larger
+126,hill is larger than breath,larger
+127,place is larger than bottle,larger
+128,room is larger than magazine,larger
+129,chest is larger than head,larger
+130,dress is smaller than floor,smaller
+131,body is larger than wife,larger
+132,tree is larger than grass,larger
+133,fox is smaller than ground,smaller
+134,hair is smaller than light,smaller
+135,chair is smaller than room,smaller
+136,father is smaller than street,smaller
+137,father is larger than glass,larger
+138,sun is larger than picture,larger
+139,daughter is smaller than doorway,smaller
+140,boy is smaller than king,smaller
+141,wife is larger than light,larger
+142,cup is smaller than king,smaller
+143,door is larger than head,larger
+144,tree is larger than wife,larger
+145,brother is smaller than place,smaller
+146,sun is larger than scene,larger
+147,tree is larger than object,larger
+148,door is larger than bottle,larger
+149,lady is larger than watch,larger
+150,father is larger than chest,larger
+151,father is smaller than prison,smaller
+152,someone is smaller than car,smaller
+153,place is larger than magazine,larger
+154,horse is larger than wife,larger
+155,flood is larger than picture,larger
+156,cup is larger than pocket,larger
+157,phone is smaller than hand,smaller
+158,river is larger than basin,larger
+159,finger is smaller than knife,smaller
+160,side is larger than door,larger
+161,sea is larger than base,larger
+162,eye is smaller than room,smaller
+163,father is larger than mouth,larger
+164,king is smaller than wind,smaller
+165,clothes is larger than mouth,larger
+166,father is larger than back,larger
+167,teacher is larger than boy,larger
+168,meal is smaller than daughter,smaller
+169,window is larger than face,larger
+170,someone is smaller than tree,smaller
+171,street is larger than book,larger
+172,bag is larger than book,larger
+173,stone is smaller than continent,smaller
+174,lady is larger than dress,larger
+175,head is smaller than newspaper,smaller
+176,foot is smaller than horse,smaller
+177,horse is larger than head,larger
+178,back is smaller than dress,smaller
+179,someone is larger than hair,larger
+180,gentleman is larger than hand,larger
+181,father is smaller than hill,smaller
+182,arm is larger than elbow,larger
+183,door is larger than fist,larger
+184,body is larger than suit,larger
+185,parcel is smaller than room,smaller
+186,finger is smaller than town,smaller
+187,sea is larger than train,larger
+188,food is smaller than door,smaller
+189,friend is larger than picture,larger
+190,place is larger than wife,larger
+191,father is larger than ear,larger
+192,banker is smaller than room,smaller
+193,step is smaller than room,smaller
+194,someone is smaller than restaurant,smaller
+195,father is larger than picture,larger
+196,shoulder is smaller than wall,smaller
+197,person is larger than suit,larger
+198,boy is larger than violin,larger
+199,someone is larger than book,larger
+200,coach is larger than tree,larger
+201,wife is smaller than ship,smaller
+202,camp is larger than road,larger
+203,step is smaller than place,smaller
+204,bag is smaller than clothes,smaller
+205,person is larger than head,larger
+206,head is smaller than road,smaller
+207,father is larger than lamp,larger
+208,person is larger than foot,larger
+209,floor is larger than hand,larger
+210,sun is larger than torrent,larger
+211,abode is larger than side,larger
+212,watch is smaller than room,smaller
+213,breath is smaller than head,smaller
+214,ground is larger than place,larger
+215,someone is larger than king,larger
+216,town is larger than ball,larger
+217,person is larger than sink,larger
+218,boy is smaller than tree,smaller
+219,food is smaller than city,smaller
+220,person is smaller than abode,smaller
+221,lady is smaller than world,smaller
+222,newspaper is smaller than farm,smaller
+223,foot is smaller than base,smaller
+224,chest is smaller than room,smaller
+225,father is larger than lady,larger
+226,city is larger than shore,larger
+227,body is larger than eye,larger
+228,shop is larger than room,larger
+229,lip is smaller than mouth,smaller
+230,person is smaller than store,smaller
+231,house is larger than room,larger
+232,boat is larger than element,larger
+233,air is larger than hand,larger
+234,home is smaller than state,smaller
+235,world is larger than clothes,larger
+236,arm is smaller than place,smaller
+237,world is larger than ear,larger
+238,town is larger than hand,larger
+239,father is larger than gate,larger
+240,person is smaller than shippe,smaller
+241,nose is smaller than glass,smaller
+242,train is larger than wife,larger
+243,suit is larger than head,larger
+244,town is larger than face,larger
+245,person is larger than teacher,larger
+246,clothes is larger than eye,larger
+247,lady is larger than pocket,larger
+248,foot is larger than face,larger
+249,watch is smaller than hand,smaller
+250,king is smaller than gate,smaller
+251,person is larger than window,larger
+252,bank is larger than step,larger
+253,everything is larger than breath,larger
+254,car is larger than piece,larger
+255,ground is larger than river,larger
+256,tree is smaller than store,smaller
+257,friend is smaller than town,smaller
+258,brother is larger than glass,larger
+259,foot is smaller than victim,smaller
+260,friend is larger than end,larger
+261,coast is larger than door,larger
+262,patient is smaller than floor,smaller
+263,horse is smaller than gate,smaller
+264,dinner is larger than hand,larger
+265,arm is smaller than shirt,smaller
+266,throat is larger than mouth,larger
+267,coast is larger than coal,larger
+268,glass is smaller than train,smaller
+269,knife is smaller than face,smaller
+270,boat is larger than tree,larger
+271,chest is larger than end,larger
+272,boat is larger than rain,larger
+273,food is smaller than bag,smaller
+274,suit is smaller than bed,smaller
+275,lady is smaller than tree,smaller
+276,lady is smaller than sun,smaller
+277,body is larger than hand,larger
+278,friend is smaller than road,smaller
+279,breath is smaller than town,smaller
+280,friend is larger than wife,larger
+281,spoon is smaller than continent,smaller
+282,head is larger than hand,larger
+283,father is smaller than city,smaller
+284,person is smaller than train,smaller
+285,cup is larger than eye,larger
+286,back is smaller than bed,smaller
+287,patient is smaller than place,smaller
+288,father is larger than grass,larger
+289,clock is smaller than room,smaller
+290,hat is larger than bow,larger
+291,hair is smaller than head,smaller
+292,gentleman is smaller than restaurant,smaller
+293,bow is smaller than stream,smaller
+294,room is smaller than continent,smaller
+295,tree is smaller than floor,smaller
+296,piece is smaller than hand,smaller
+297,person is smaller than prison,smaller
+298,daughter is smaller than place,smaller
+299,someone is smaller than house,smaller
+300,coach is larger than face,larger
+301,sun is larger than ship,larger
+302,piece is smaller than place,smaller
+303,train is smaller than town,smaller
+304,eye is smaller than glass,smaller
+305,river is larger than face,larger
+306,tree is larger than brick,larger
+307,door is larger than hand,larger
+308,arm is smaller than boy,smaller
+309,person is larger than boy,larger
+310,dinner is smaller than door,smaller
+311,brother is smaller than train,smaller
+312,person is larger than harlot,larger
+313,fox is smaller than messenger,smaller
+314,foot is smaller than anything,smaller
+315,finger is smaller than throat,smaller
+316,king is larger than fool,larger
+317,body is smaller than road,smaller
+318,finger is larger than ash,larger
+319,lady is smaller than sea,smaller
+320,world is larger than glass,larger
+321,town is larger than camp,larger
+322,sea is larger than way,larger
+323,parcel is smaller than home,smaller
+324,friend is larger than child,larger
+325,person is larger than watch,larger
+326,child is larger than bottle,larger
+327,poet is larger than ear,larger
+328,town is larger than king,larger
+329,daughter is larger than hand,larger
+330,lady is larger than phone,larger
+331,parcel is smaller than bed,smaller
+332,patient is larger than mouth,larger
+333,watch is smaller than ice,smaller
+334,child is larger than elbow,larger
+335,daughter is larger than face,larger
+336,boy is smaller than continent,smaller
+337,candidate is larger than head,larger
+338,daughter is smaller than gate,smaller
+339,teacher is larger than piece,larger
+340,teacher is larger than picture,larger
+341,coach is larger than head,larger
+342,house is smaller than shore,smaller
+343,finger is smaller than picture,smaller
+344,wife is larger than dress,larger
+345,hill is larger than eye,larger
+346,cross is larger than head,larger
+347,messenger is smaller than ship,smaller
+348,corner is smaller than place,smaller
+349,stone is smaller than wall,smaller
+350,hat is larger than rain,larger
+351,finger is larger than button,larger
+352,father is larger than knife,larger
+353,child is larger than light,larger
+354,bench is smaller than wall,smaller
+355,bow is larger than lip,larger
+356,shop is smaller than town,smaller
+357,lady is smaller than town,smaller
+358,finger is smaller than book,smaller
+359,house is larger than lamp,larger
+360,child is larger than shirt,larger
+361,world is larger than place,larger
+362,head is smaller than bed,smaller
+363,watch is smaller than sea,smaller
+364,person is larger than rope,larger
+365,finger is smaller than child,smaller
+366,patient is larger than breath,larger
+367,ash is smaller than head,smaller
+368,corner is smaller than street,smaller
+369,friend is larger than ball,larger
+370,person is larger than cup,larger
+371,finger is smaller than anything,smaller
+372,sun is larger than object,larger
+373,city is larger than town,larger
+374,place is larger than worker,larger
+375,wife is larger than lip,larger
+376,spoon is smaller than sink,smaller
+377,patient is smaller than scene,smaller
+378,dinner is smaller than king,smaller
+379,lover is smaller than effect,smaller
+380,boy is smaller than ship,smaller
+381,street is larger than room,larger
+382,king is smaller than floor,smaller
+383,tree is larger than purse,larger
+384,boy is smaller than gate,smaller
+385,father is smaller than floor,smaller
+386,cup is larger than finger,larger
+387,vessel is smaller than city,smaller
+388,person is smaller than ground,smaller
+389,lady is larger than glass,larger
+390,father is smaller than tree,smaller
+391,clothes is smaller than sun,smaller
+392,state is larger than soul,larger
+393,person is larger than volunteer,larger
+394,lady is larger than basin,larger
+395,person is larger than tear,larger
+396,world is larger than state,larger
+397,father is larger than eye,larger
+398,finger is smaller than side,smaller
+399,lady is larger than ear,larger
+400,coach is larger than cross,larger
+401,father is larger than breath,larger
+402,person is larger than seal,larger
+403,knife is smaller than rope,smaller
+404,room is smaller than tree,smaller
+405,body is smaller than boat,smaller
+406,boy is larger than mouth,larger
+407,king is larger than skirt,larger
+408,book is smaller than light,smaller
+409,arm is larger than chin,larger
+410,gentleman is smaller than floor,smaller
+411,coach is larger than patient,larger
+412,arm is larger than head,larger
+413,lady is larger than bow,larger
+414,lady is larger than purse,larger
+415,father is larger than body,larger
+416,cup is smaller than restaurant,smaller
+417,gentleman is larger than king,larger
+418,chair is smaller than street,smaller
+419,car is larger than face,larger
+420,everything is larger than store,larger
+421,vessel is larger than hand,larger
+422,light is larger than road,larger
+423,mountain is larger than mouth,larger
+424,vessel is smaller than beach,smaller
+425,arm is smaller than step,smaller
+426,gentleman is smaller than state,smaller
+427,button is smaller than door,smaller
+428,body is smaller than beach,smaller
+429,bag is smaller than road,smaller
+430,door is larger than phone,larger
+431,shoulder is larger than hand,larger
+432,hat is smaller than state,smaller
+433,teacher is smaller than tree,smaller
+434,victim is larger than hand,larger
+435,lady is larger than daughter,larger
+436,air is larger than shirt,larger
+437,daughter is smaller than door,smaller
+438,elbow is smaller than hand,smaller
+439,everything is larger than picture,larger
+440,dinner is larger than knife,larger
+441,bank is larger than brother,larger
+442,arm is smaller than hill,smaller
+443,world is larger than position,larger
+444,foot is smaller than road,smaller
+445,parent is smaller than place,smaller
+446,step is smaller than camp,smaller
+447,clock is smaller than town,smaller
+448,father is smaller than everything,smaller
+449,hat is smaller than room,smaller
+450,finger is smaller than chin,smaller
+451,arm is smaller than train,smaller
+452,boy is smaller than restaurant,smaller
+453,arm is larger than face,larger
+454,head is smaller than stream,smaller
+455,world is larger than scene,larger
+456,child is larger than cross,larger
+457,lady is smaller than everything,smaller
+458,house is smaller than beach,smaller
+459,boy is larger than glass,larger
+460,house is larger than tree,larger
+461,stream is smaller than beach,smaller
+462,town is larger than mouth,larger
+463,knife is smaller than room,smaller
+464,sun is larger than camp,larger
+465,sun is larger than rope,larger
+466,brother is larger than stone,larger
+467,horse is larger than book,larger
+468,sail is smaller than boat,smaller
+469,knife is smaller than sink,smaller
+470,parcel is larger than pocket,larger
+471,banker is smaller than stream,smaller
+472,body is smaller than continent,smaller
+473,picture is larger than mouth,larger
+474,sun is larger than horse,larger
+475,boy is smaller than room,smaller
+476,system is larger than child,larger
+477,newspaper is smaller than camp,smaller
+478,button is smaller than shirt,smaller
+479,chair is smaller than continent,smaller
+480,body is smaller than place,smaller
+481,ground is larger than mouth,larger
+482,person is larger than pocket,larger
+483,king is larger than lamp,larger
+484,person is smaller than reservation,smaller
+485,city is larger than eye,larger
+486,someone is larger than lock,larger
+487,piece is smaller than head,smaller
+488,finger is smaller than head,smaller
+489,body is larger than block,larger
+490,child is smaller than ship,smaller
+491,person is smaller than horse,smaller
+492,father is larger than head,larger
+493,corner is larger than eye,larger
+494,clothes is smaller than street,smaller
+495,dinner is larger than book,larger
+496,father is smaller than road,smaller
+497,father is larger than daughter,larger
+498,world is larger than poet,larger
+499,chest is larger than stone,larger
+500,food is smaller than floor,smaller
+501,sun is larger than light,larger
+502,lady is larger than lock,larger
+503,eye is smaller than gate,smaller
+504,cup is smaller than bench,smaller
+505,daughter is larger than tree,larger
+506,father is smaller than barn,smaller
+507,body is larger than book,larger
+508,coach is smaller than gate,smaller
+509,boy is larger than piece,larger
+510,sun is larger than ball,larger
+511,phone is larger than ear,larger
+512,shop is larger than office,larger
+513,patient is larger than friend,larger
+514,city is larger than element,larger
+515,victim is larger than head,larger
+516,button is smaller than phone,smaller
+517,person is smaller than car,smaller
+518,arm is smaller than friend,smaller
+519,someone is smaller than boat,smaller
+520,daughter is larger than suit,larger
+521,messenger is larger than eye,larger
+522,chair is smaller than world,smaller
+523,person is larger than exile,larger
+524,child is smaller than tree,smaller
+525,lady is larger than lip,larger
+526,brother is larger than body,larger
+527,lady is smaller than bench,smaller
+528,person is larger than glass,larger
+529,boy is larger than coal,larger
+530,door is smaller than gate,smaller
+531,boy is larger than picture,larger
+532,father is smaller than sea,smaller
+533,foot is smaller than position,smaller
+534,foot is larger than stone,larger
+535,eye is smaller than hand,smaller
+536,father is larger than shoulder,larger
+537,nose is smaller than place,smaller
+538,person is larger than meal,larger
+539,world is larger than direction,larger
+540,wife is larger than pedestal,larger
+541,piece is smaller than room,smaller
+542,parent is larger than head,larger
+543,side is smaller than place,smaller
+544,head is smaller than dress,smaller
+545,gentleman is larger than child,larger
+546,door is larger than child,larger
+547,car is larger than rain,larger
+548,home is larger than room,larger
+549,chair is larger than head,larger
+550,knife is larger than eye,larger
+551,gentleman is larger than meal,larger
+552,boy is larger than suit,larger
+553,victim is larger than purse,larger
+554,exile is smaller than room,smaller
+555,house is larger than purse,larger
+556,tree is larger than friend,larger
+557,finger is smaller than spoon,smaller
+558,anchor is smaller than shore,smaller
+559,person is larger than stone,larger
+560,abode is smaller than bank,smaller
+561,chest is larger than arm,larger
+562,king is larger than bottle,larger
+563,window is larger than lamp,larger
+564,daughter is larger than skirt,larger
+565,train is larger than gate,larger
+566,wife is smaller than gate,smaller
+567,daughter is larger than shirt,larger
+568,purse is smaller than floor,smaller
+569,window is smaller than wall,smaller
+570,person is larger than child,larger
+571,person is larger than goose,larger
+572,watch is smaller than city,smaller
+573,person is larger than side,larger
+574,gentleman is larger than magazine,larger
+575,brother is smaller than home,smaller
+576,food is smaller than room,smaller
+577,worker is larger than hand,larger
+578,arm is smaller than door,smaller
+579,barn is smaller than hill,smaller
+580,person is smaller than anything,smaller
+581,piece is smaller than road,smaller
+582,person is larger than parcel,larger
+583,way is larger than book,larger
+584,hair is smaller than face,smaller
+585,coach is larger than breath,larger
+586,coach is smaller than room,smaller
+587,horse is smaller than road,smaller
+588,corner is larger than mouth,larger
+589,arm is larger than mouth,larger
+590,watch is smaller than head,smaller
+591,window is smaller than everything,smaller
+592,abode is smaller than farm,smaller
+593,temple is smaller than head,smaller
+594,brother is smaller than state,smaller
+595,hat is smaller than house,smaller
+596,person is larger than clock,larger
+597,sun is larger than floor,larger
+598,lady is larger than violin,larger
+599,patient is larger than step,larger
+600,child is smaller than tree,smaller
+601,sea is larger than head,larger
+602,ear is smaller than room,smaller
+603,coach is smaller than town,smaller
+604,friend is larger than purse,larger
+605,stone is smaller than tree,smaller
+606,person is larger than patient,larger
+607,horse is smaller than car,smaller
+608,gulp is smaller than glass,smaller
+609,home is larger than hand,larger
+610,teacher is larger than hand,larger
+611,room is larger than face,larger
+612,sun is larger than glass,larger
+613,father is larger than gentleman,larger
+614,city is larger than ball,larger
+615,coach is larger than hand,larger
+616,boat is smaller than stream,smaller
+617,current is larger than response,larger
+618,bench is smaller than place,smaller
+619,horse is smaller than town,smaller
+620,bag is larger than shirt,larger
+621,eye is smaller than ear,smaller
+622,lady is smaller than house,smaller
+623,hat is smaller than home,smaller
+624,poet is larger than call,larger
+625,boy is larger than child,larger
+626,wall is larger than light,larger
+627,boy is larger than cross,larger
+628,clothes is smaller than cross,smaller
+629,fox is smaller than road,smaller
+630,lady is smaller than door,smaller
+631,child is larger than lamp,larger
+632,fox is larger than food,larger
+633,place is larger than newspaper,larger
+634,clock is smaller than door,smaller
+635,gentleman is smaller than door,smaller
+636,lady is smaller than bower,smaller
+637,stair is smaller than stream,smaller
+638,river is larger than ice,larger
+639,elbow is smaller than floor,smaller
+640,house is larger than head,larger
+641,lady is smaller than temple,smaller
+642,coach is smaller than horse,smaller
+643,picture is larger than hand,larger
+644,prison is smaller than state,smaller
+645,lady is larger than fist,larger
+646,food is smaller than farm,smaller
+647,poet is larger than object,larger
+648,fox is smaller than tree,smaller
+649,boy is larger than chin,larger
+650,hill is larger than place,larger
+651,state is larger than road,larger
+652,hat is smaller than sea,smaller
+653,bag is smaller than doorway,smaller
+654,piece is smaller than skirt,smaller
+655,foot is smaller than body,smaller
+656,king is larger than hand,larger
+657,gentleman is smaller than store,smaller
+658,bank is smaller than river,smaller
+659,king is larger than magazine,larger
+660,hat is smaller than sun,smaller
+661,chest is larger than bottle,larger
+662,gentleman is smaller than doorway,smaller
+663,clothes is smaller than everything,smaller
+664,hat is smaller than floor,smaller
+665,house is larger than step,larger
+666,home is larger than friend,larger
+667,sun is larger than stream,larger
+668,patient is larger than hand,larger
+669,house is smaller than everything,smaller
+670,someone is larger than ear,larger
+671,brother is smaller than cross,smaller
+672,watch is smaller than back,smaller
+673,meal is smaller than father,smaller
+674,place is larger than object,larger
+675,ground is larger than step,larger
+676,horse is larger than eye,larger
+677,river is larger than shore,larger
+678,person is larger than torso,larger
+679,coach is larger than foot,larger
+680,mosquito is smaller than mouth,smaller
+681,sea is larger than boat,larger
+682,rain is larger than face,larger
+683,ground is larger than stone,larger
+684,boy is larger than book,larger
+685,world is smaller than everything,smaller
+686,sea is larger than vessel,larger
+687,person is smaller than truck,smaller
+688,horse is larger than rope,larger
+689,car is larger than floor,larger
+690,person is larger than parent,larger
+691,stream is larger than face,larger
+692,wife is larger than purse,larger
+693,brother is smaller than bed,smaller
+694,lover is smaller than road,smaller
+695,someone is smaller than doorway,smaller
+696,hat is smaller than bed,smaller
+697,button is smaller than mouth,smaller
+698,gentleman is larger than wife,larger
+699,father is smaller than trench,smaller
+700,bag is smaller than place,smaller
+701,watch is smaller than sail,smaller
+702,house is larger than block,larger
+703,boy is smaller than car,smaller
+704,boy is larger than purse,larger
+705,food is smaller than body,smaller
+706,messenger is larger than ear,larger
+707,lady is larger than child,larger
+708,child is smaller than gate,smaller
+709,sun is larger than current,larger
+710,lady is larger than hair,larger
+711,cup is smaller than bottle,smaller
+712,river is larger than glass,larger
+713,call is smaller than ship,smaller
+714,person is larger than candidate,larger
+715,city is larger than middle,larger
+716,cross is larger than knife,larger
+717,knife is smaller than scene,smaller
+718,sun is larger than gate,larger
+719,parent is larger than hand,larger
+720,patient is larger than child,larger
+721,strap is larger than eye,larger
+722,arm is smaller than daughter,smaller
+723,meal is smaller than chair,smaller
+724,door is larger than lamp,larger
+725,eye is smaller than child,smaller
+726,dinner is smaller than home,smaller
+727,soul is larger than continent,larger
+728,candidate is larger than eye,larger
+729,bay is larger than ship,larger
+730,person is smaller than horseback,smaller
+731,bank is smaller than farm,smaller
+732,gentleman is larger than shirt,larger
+733,friend is larger than knee,larger
+734,place is larger than face,larger
+735,home is larger than bottle,larger
+736,corner is smaller than room,smaller
+737,foot is smaller than town,smaller
+738,boy is smaller than road,smaller
+739,lady is larger than sip,larger
+740,boat is smaller than flood,smaller
+741,lady is larger than clothes,larger
+742,boy is smaller than wall,smaller
+743,person is smaller than sail,smaller
+744,hair is smaller than picture,smaller
+745,father is smaller than beach,smaller
+746,food is larger than hand,larger
+747,sea is larger than position,larger
+748,street is larger than dress,larger
+749,wife is smaller than camp,smaller
+750,eye is smaller than face,smaller
+751,grass is smaller than knee,smaller
+752,shoulder is larger than face,larger
+753,person is smaller than trench,smaller
+754,eye is smaller than head,smaller
+755,system is larger than hand,larger
+756,person is smaller than bed,smaller
+757,world is larger than face,larger
+758,lad is larger than light,larger
+759,king is larger than throat,larger
+760,head is smaller than pedestal,smaller
+761,wife is larger than hand,larger
+762,person is larger than fist,larger
+763,sun is larger than farm,larger
+764,everything is larger than floor,larger
+765,foot is larger than eye,larger
+766,coach is larger than ball,larger
+767,clock is larger than eye,larger
+768,arm is larger than breath,larger
+769,chest is larger than hand,larger
+770,body is larger than rain,larger
+771,patient is larger than book,larger
+772,father is larger than messenger,larger
+773,teacher is larger than head,larger
+774,magistrate is larger than clock,larger
+775,bag is larger than hand,larger
+776,air is larger than head,larger
+777,person is larger than eye,larger
+778,bench is smaller than sun,smaller
+779,sun is larger than boat,larger
+780,state is larger than hand,larger
+781,hair is smaller than bed,smaller
+782,foot is smaller than grass,smaller
+783,person is larger than worker,larger
+784,lady is smaller than gentleman,smaller
+785,friend is smaller than store,smaller
+786,hair is smaller than shirt,smaller
+787,eye is smaller than flood,smaller
+788,chair is smaller than house,smaller
+789,sun is larger than beach,larger
+790,eye is smaller than floor,smaller
+791,child is smaller than road,smaller
+792,eye is smaller than shore,smaller
+793,boy is larger than throat,larger
+794,father is larger than brother,larger
+795,daughter is larger than mouth,larger
+796,eye is smaller than coal,smaller
+797,lady is larger than book,larger
+798,parcel is smaller than gentleman,smaller
+799,city is larger than ship,larger
+800,purse is larger than hand,larger
+801,lady is smaller than way,smaller
+802,place is larger than picture,larger
+803,factory is larger than stream,larger
+804,person is smaller than temple,smaller
+805,person is smaller than town,smaller
+806,king is larger than face,larger
+807,house is larger than cross,larger
+808,corner is smaller than sea,smaller
+809,head is smaller than wife,smaller
+810,corner is larger than head,larger
+811,boy is larger than ball,larger
+812,ship is larger than shirt,larger
+813,tree is larger than mouth,larger
+814,boat is smaller than city,smaller
+815,boy is larger than daughter,larger
+816,spoon is smaller than floor,smaller
+817,foot is smaller than river,smaller
+818,everything is larger than room,larger
+819,lady is smaller than prison,smaller
+820,hat is larger than grass,larger
+821,vessel is larger than mouth,larger
+822,button is smaller than wall,smaller
+823,gentleman is larger than friend,larger
+824,daughter is smaller than horse,smaller
+825,gentleman is larger than step,larger
+826,child is larger than knee,larger
+827,candidate is smaller than road,smaller
+828,home is smaller than hill,smaller
+829,person is smaller than city,smaller
+830,bed is larger than picture,larger
+831,place is smaller than system,smaller
+832,lady is smaller than bed,smaller
+833,person is larger than corner,larger
+834,horse is larger than shirt,larger
+835,town is larger than book,larger
+836,factory is larger than glass,larger
+837,foot is smaller than house,smaller
+838,person is smaller than house,smaller
+839,everything is larger than head,larger
+840,office is larger than hand,larger
+841,head is smaller than skirt,smaller
+842,bank is larger than side,larger
+843,child is smaller than town,smaller
+844,ground is larger than fist,larger
+845,person is larger than shirt,larger
+846,bow is larger than eye,larger
+847,boy is smaller than city,smaller
+848,friend is larger than child,larger
+849,fist is smaller than wife,smaller
+850,child is larger than face,larger
+851,poet is larger than friend,larger
+852,father is smaller than house,smaller
+853,clock is smaller than lamp,smaller
+854,lady is smaller than river,smaller
+855,brick is smaller than head,smaller
+856,newspaper is larger than knee,larger
+857,brother is smaller than scene,smaller
+858,child is larger than book,larger
+859,hair is smaller than arm,smaller
+860,phone is smaller than bed,smaller
+861,gentleman is larger than lip,larger
+862,king is larger than purse,larger
+863,arm is larger than fist,larger
+864,someone is larger than body,larger
+865,seal is larger than ice,larger
+866,dinner is smaller than restaurant,smaller
+867,person is smaller than shore,smaller
+868,friend is smaller than gate,smaller
+869,friend is smaller than doorway,smaller
+870,brother is smaller than ship,smaller
+871,foot is smaller than everything,smaller
+872,bayonet is larger than mouth,larger
+873,house is larger than eye,larger
+874,city is larger than king,larger
+875,teacher is smaller than store,smaller
+876,home is larger than daughter,larger
+877,system is larger than seed,larger
+878,stream is larger than mouth,larger
+879,nose is smaller than door,smaller
+880,someone is larger than face,larger
+881,teacher is larger than book,larger
+882,meal is smaller than place,smaller
+883,person is smaller than factory,smaller
+884,person is smaller than beach,smaller
+885,sun is larger than body,larger
+886,city is larger than head,larger
+887,teacher is smaller than room,smaller
+888,lad is larger than mouth,larger
+889,someone is smaller than barn,smaller
+890,king is smaller than road,smaller
+891,wife is smaller than floor,smaller
+892,stone is smaller than road,smaller
+893,victim is larger than step,larger
+894,finger is smaller than place,smaller
+895,book is larger than face,larger
+896,hair is smaller than hand,smaller
+897,boy is larger than fist,larger
+898,person is larger than ash,larger
+899,wife is smaller than flood,smaller
+900,king is smaller than seal,smaller
+901,back is larger than head,larger
+902,gentleman is larger than chin,larger
+903,foot is smaller than city,smaller
+904,magazine is larger than eye,larger
+905,boy is larger than meal,larger
+906,lady is larger than lover,larger
+907,coach is smaller than place,smaller
+908,world is larger than step,larger
+909,teacher is larger than eye,larger
+910,city is larger than child,larger
+911,victim is smaller than door,smaller
+912,hill is larger than rain,larger
+913,eye is smaller than someone,smaller
+914,magistrate is larger than messenger,larger
+915,bag is larger than bottle,larger
+916,friend is larger than hand,larger
+917,chair is smaller than home,smaller
+918,scene is larger than hand,larger
+919,someone is larger than head,larger
+920,person is larger than body,larger
+921,world is larger than wind,larger
+922,father is smaller than sail,smaller
+923,home is larger than soul,larger
+924,foot is larger than mouth,larger
+925,sun is larger than bed,larger
+926,factory is smaller than city,smaller
+927,person is larger than hat,larger
+928,home is larger than piece,larger
+929,dinner is larger than mouth,larger
+930,office is larger than messenger,larger
+931,wife is larger than skirt,larger
+932,child is larger than shirt,larger
+933,sea is larger than anchor,larger
+934,friend is larger than dress,larger
+935,father is larger than tree,larger
+936,foot is smaller than head,smaller
+937,foot is smaller than factory,smaller
+938,wife is smaller than farm,smaller
+939,boat is larger than mouth,larger
+940,hat is larger than mouth,larger
+941,horse is larger than mouth,larger
+942,world is larger than suit,larger
+943,lady is larger than shirt,larger
+944,prison is larger than side,larger
+945,watch is smaller than floor,smaller
+946,door is larger than rope,larger
+947,wife is smaller than shore,smaller
+948,shop is larger than corner,larger
+949,foot is smaller than hill,smaller
+950,gentleman is larger than body,larger
+951,victim is smaller than tree,smaller
+952,book is larger than picture,larger
+953,magistrate is larger than book,larger
+954,finger is larger than eye,larger
+955,tree is smaller than ship,smaller
+956,fox is smaller than city,smaller
+957,watch is smaller than street,smaller
+958,ship is larger than face,larger
+959,air is larger than end,larger
+960,state is larger than eye,larger
+961,lady is larger than ice,larger
+962,office is larger than seal,larger
+963,boy is larger than lock,larger
+964,foot is smaller than ice,smaller
+965,gate is smaller than road,smaller
+966,chin is smaller than hand,smaller
+967,father is larger than dress,larger
+968,messenger is smaller than car,smaller
+969,cup is larger than mouth,larger
+970,train is larger than car,larger
+971,chair is larger than foot,larger
+972,river is larger than stream,larger
+973,banker is larger than hand,larger
+974,victim is smaller than place,smaller
+975,child is larger than violin,larger
+976,person is larger than grass,larger
+977,head is larger than knee,larger
+978,person is smaller than street,smaller
+979,stream is larger than glass,larger
+980,father is larger than book,larger
+981,everything is larger than eye,larger
+982,ground is larger than house,larger
+983,head is larger than soul,larger
+984,eye is smaller than object,smaller
+985,seed is smaller than ship,smaller
+986,hat is smaller than wall,smaller
+987,eye is smaller than picture,smaller
+988,poet is smaller than beach,smaller
+989,person is smaller than farm,smaller
+990,someone is smaller than home,smaller
+991,boy is larger than bottle,larger
+992,abode is larger than house,larger
+993,bank is smaller than town,smaller
+994,side is smaller than state,smaller
+995,father is larger than hand,larger
+996,boy is larger than stone,larger
+997,lady is larger than finger,larger
+998,horse is smaller than shore,smaller
+999,ground is larger than hand,larger
+1000,king is larger than lip,larger
+1001,bow is smaller than place,smaller
+1002,train is larger than throat,larger
+1003,king is smaller than bed,smaller
+1004,daughter is smaller than stream,smaller
+1005,lady is larger than suit,larger
+1006,child is smaller than stream,smaller
+1007,bag is smaller than car,smaller
+1008,patient is larger than bottle,larger
+1009,phone is smaller than store,smaller
+1010,father is larger than goose,larger
+1011,world is larger than body,larger
+1012,bank is smaller than sun,smaller
+1013,magazine is smaller than floor,smaller
+1014,person is smaller than anchor,smaller
+1015,teacher is smaller than door,smaller
+1016,house is smaller than town,smaller
+1017,boat is smaller than train,smaller
+1018,beard is larger than chin,larger
+1019,brother is smaller than road,smaller
+1020,eye is smaller than train,smaller
+1021,person is smaller than office,smaller
+1022,daughter is smaller than city,smaller
+1023,eye is smaller than door,smaller
+1024,body is larger than step,larger
+1025,stone is smaller than mountain,smaller
+1026,train is larger than book,larger
+1027,eye is larger than lip,larger
+1028,messenger is smaller than boat,smaller
+1029,person is larger than lady,larger
+1030,everything is larger than face,larger
+1031,gentleman is larger than gate,larger
+1032,head is smaller than seal,smaller
+1033,book is larger than hand,larger
+1034,ground is smaller than sea,smaller
+1035,train is larger than hand,larger
+1036,river is larger than end,larger
+1037,lady is larger than parcel,larger
+1038,boy is larger than eye,larger
+1039,lover is larger than object,larger
+1040,father is larger than shirt,larger
+1041,chest is larger than breath,larger
+1042,finger is smaller than face,smaller
+1043,cup is smaller than floor,smaller
+1044,boat is larger than breath,larger
+1045,wife is larger than face,larger
+1046,horse is larger than suit,larger
+1047,home is smaller than farm,smaller
+1048,person is smaller than restaurant,smaller
+1049,horse is larger than face,larger
+1050,foot is smaller than stair,smaller
+1051,child is larger than glass,larger
+1052,lung is smaller than continent,smaller
+1053,brother is smaller than sea,smaller
+1054,boat is larger than wind,larger
+1055,father is smaller than ship,smaller
+1056,stone is smaller than stream,smaller
+1057,gentleman is smaller than boat,smaller
+1058,bank is larger than phone,larger
+1059,hat is larger than button,larger
+1060,body is smaller than doorway,smaller
+1061,parcel is smaller than house,smaller
+1062,sun is larger than road,larger
+1063,arm is smaller than road,smaller
+1064,poet is larger than piece,larger
+1065,house is larger than hand,larger
+1066,sea is larger than shore,larger
+1067,dinner is smaller than wife,smaller
+1068,boat is larger than head,larger
+1069,boy is smaller than boat,smaller
+1070,world is larger than magazine,larger
+1071,violin is smaller than floor,smaller
+1072,river is larger than boy,larger
+1073,foot is smaller than teacher,smaller
+1074,everything is larger than child,larger
+1075,father is larger than bench,larger
+1076,clothes is smaller than store,smaller
+1077,person is larger than food,larger
+1078,train is larger than dress,larger
+1079,person is larger than hair,larger
+1080,lamp is larger than light,larger
+1081,foot is smaller than chair,smaller
+1082,hill is larger than hand,larger
+1083,ice is smaller than state,smaller
+1084,house is larger than wife,larger
+1085,daughter is larger than eye,larger
+1086,sun is larger than beard,larger
+1087,bag is larger than eye,larger
+1088,stone is smaller than city,smaller
+1089,pocket is larger than knife,larger
+1090,father is larger than chin,larger
+1091,person is larger than finger,larger
+1092,daughter is larger than head,larger
+1093,phone is smaller than floor,smaller
+1094,cup is smaller than sea,smaller
+1095,lady is larger than friend,larger
+1096,person is smaller than gate,smaller
+1097,world is larger than light,larger
+1098,sun is larger than something,larger
+1099,hill is larger than door,larger
+1100,arm is larger than brick,larger
+1101,father is larger than bottle,larger
+1102,father is larger than hat,larger
+1103,foot is smaller than shoulder,smaller
+1104,car is smaller than truck,smaller
+1105,body is larger than element,larger
+1106,tree is larger than child,larger
+1107,sun is larger than step,larger
+1108,hat is smaller than door,smaller
+1109,person is larger than child,larger
+1110,brother is smaller than horse,smaller
+1111,foot is smaller than camp,smaller
+1112,world is larger than room,larger
+1113,patient is larger than eye,larger
+1114,brick is larger than hand,larger
+1115,person is larger than hand,larger
+1116,temple is smaller than flood,smaller
+1117,home is smaller than town,smaller
+1118,window is smaller than tree,smaller
+1119,door is larger than throat,larger
+1120,sea is larger than bed,larger
+1121,air is larger than face,larger
+1122,office is larger than king,larger
+1123,body is larger than friend,larger
+1124,office is larger than boy,larger
+1125,bayonet is larger than hand,larger
+1126,lover is larger than hand,larger
+1127,world is larger than hand,larger
+1128,river is larger than child,larger
+1129,shop is larger than house,larger
+1130,office is smaller than state,smaller
+1131,office is larger than head,larger
+1132,child is larger than ear,larger
+1133,sea is larger than room,larger
+1134,ship is larger than wife,larger
+1135,lady is larger than child,larger
+1136,foot is smaller than messenger,smaller
+1137,arm is larger than knife,larger
+1138,boat is smaller than store,smaller
+1139,food is smaller than house,smaller
+1140,daughter is smaller than king,smaller
+1141,person is larger than brother,larger
+1142,someone is larger than dress,larger
+1143,sail is larger than hand,larger
+1144,sun is larger than door,larger
+1145,system is larger than room,larger
+1146,office is larger than corner,larger
+1147,father is smaller than store,smaller
+1148,patient is smaller than town,smaller
+1149,tree is smaller than shore,smaller
+1150,dinner is smaller than place,smaller
+1151,person is larger than button,larger
+1152,parcel is smaller than floor,smaller
+1153,ball is smaller than knee,smaller
+1154,someone is smaller than door,smaller
+1155,coach is smaller than city,smaller
+1156,king is smaller than room,smaller
+1157,gentleman is larger than dress,larger
+1158,tree is larger than hand,larger
+1159,head is smaller than tree,smaller
+1160,poet is larger than face,larger
+1161,boat is larger than eye,larger
+1162,daughter is smaller than shore,smaller
+1163,piano is smaller than room,smaller
+1164,river is larger than arm,larger
+1165,boat is larger than anchor,larger
+1166,person is larger than bow,larger
+1167,person is smaller than place,smaller
+1168,foot is smaller than shore,smaller
+1169,piano is smaller than place,smaller
+1170,lady is larger than wife,larger
+1171,nose is larger than hair,larger
+1172,room is larger than floor,larger
+1173,nose is larger than eye,larger
+1174,dinner is larger than bottle,larger
+1175,chair is smaller than door,smaller
+1176,house is larger than daughter,larger
+1177,door is larger than grass,larger
+1178,person is larger than lamp,larger
+1179,gentleman is larger than daughter,larger
+1180,someone is larger than shirt,larger
+1181,stone is smaller than car,smaller
+1182,glass is smaller than continent,smaller
+1183,bed is smaller than continent,smaller
+1184,father is smaller than train,smaller
+1185,current is larger than ash,larger
+1186,body is smaller than cross,smaller
+1187,ship is larger than light,larger
+1188,corner is smaller than scene,smaller
+1189,father is larger than throat,larger
+1190,chair is smaller than bed,smaller
+1191,step is larger than stone,larger
+1192,arm is smaller than town,smaller
+1193,victim is smaller than room,smaller
+1194,step is smaller than car,smaller
+1195,gentleman is larger than glass,larger
+1196,glass is larger than bottle,larger
+1197,daughter is larger than lover,larger
+1198,someone is smaller than room,smaller
+1199,gentleman is larger than tree,larger
+1200,vessel is larger than friend,larger
+1201,father is smaller than bed,smaller
+1202,horse is larger than friend,larger
+1203,sun is larger than middle,larger
+1204,someone is larger than arm,larger
+1205,finger is smaller than shoulder,smaller
+1206,head is smaller than ship,smaller
+1207,person is larger than pedestal,larger
+1208,restaurant is larger than piece,larger
+1209,city is larger than door,larger
+1210,house is larger than home,larger
+1211,tree is larger than someone,larger
+1212,child is larger than lamp,larger
+1213,vessel is smaller than road,smaller
+1214,office is larger than suit,larger
+1215,clothes is larger than head,larger
+1216,finger is smaller than arm,smaller
+1217,messenger is larger than purse,larger
+1218,river is larger than sail,larger
+1219,daughter is larger than knee,larger
+1220,cross is larger than foot,larger
+1221,city is larger than picture,larger
+1222,coach is smaller than office,smaller
+1223,person is smaller than current,smaller
+1224,person is larger than bayonet,larger
+1225,light is smaller than shore,smaller
+1226,step is smaller than friend,smaller
+1227,person is smaller than shop,smaller
+1228,father is smaller than restaurant,smaller
+1229,person is larger than tree,larger
+1230,person is larger than chest,larger
+1231,daughter is larger than breath,larger
+1232,chair is smaller than wall,smaller
+1233,brother is larger than head,larger
+1234,office is larger than tree,larger
+1235,hat is larger than knife,larger
+1236,child is larger than sip,larger
+1237,messenger is larger than child,larger
+1238,shirt is larger than picture,larger
+1239,head is larger than piece,larger
+1240,brother is larger than messenger,larger
+1241,sun is larger than temple,larger
+1242,nose is smaller than light,smaller
+1243,daughter is larger than dress,larger
+1244,everything is larger than mouth,larger
+1245,teacher is larger than block,larger
+1246,person is larger than friend,larger
+1247,body is larger than base,larger
+1248,sun is larger than town,larger
+1249,hair is smaller than throat,smaller
+1250,wife is smaller than store,smaller
+1251,office is larger than watch,larger
+1252,street is larger than ship,larger
+1253,child is larger than throat,larger
+1254,father is smaller than door,smaller
+1255,boat is larger than room,larger
+1256,dinner is smaller than room,smaller
+1257,teacher is larger than face,larger
+1258,tree is larger than bottle,larger
+1259,finger is smaller than object,smaller
+1260,king is larger than book,larger
+1261,father is larger than king,larger
+1262,place is larger than room,larger
+1263,eye is smaller than stream,smaller
+1264,sail is smaller than vessel,smaller
+1265,head is smaller than picture,smaller
+1266,lady is larger than effect,larger
+1267,knife is smaller than end,smaller
+1268,car is smaller than road,smaller
+1269,meal is smaller than house,smaller
+1270,wife is larger than shirt,larger
+1271,knife is smaller than base,smaller
+1272,fox is larger than watch,larger
+1273,ship is larger than picture,larger
+1274,horse is larger than tree,larger
+1275,wife is smaller than road,smaller
+1276,world is larger than street,larger
+1277,meal is smaller than home,smaller
+1278,wall is larger than door,larger
+1279,hair is smaller than mouth,smaller
+1280,office is larger than light,larger
+1281,magistrate is smaller than place,smaller
+1282,friend is smaller than continent,smaller
+1283,hill is smaller than town,smaller
+1284,gentleman is smaller than scene,smaller
+1285,messenger is smaller than vessel,smaller
+1286,foot is larger than strap,larger
+1287,someone is larger than stone,larger
+1288,breath is smaller than throat,smaller
+1289,body is larger than head,larger
+1290,train is larger than head,larger
+1291,place is larger than light,larger
+1292,ice is smaller than basin,smaller
+1293,glass is smaller than face,smaller
+1294,place is larger than boat,larger
+1295,city is larger than direction,larger
+1296,boy is smaller than camp,smaller
+1297,clock is smaller than dinner,smaller
+1298,person is smaller than wall,smaller
+1299,office is larger than call,larger
+1300,nose is smaller than head,smaller
+1301,back is larger than hand,larger
+1302,brother is smaller than river,smaller
+1303,place is larger than gate,larger
+1304,home is larger than car,larger
+1305,bank is larger than road,larger
+1306,state is larger than body,larger
+1307,foot is smaller than door,smaller
+1308,meal is smaller than ship,smaller
+1309,energy is larger than book,larger
+1310,person is larger than coach,larger
+1311,finger is smaller than scene,smaller
+1312,magazine is smaller than wind,smaller
+1313,home is smaller than shore,smaller
+1314,ground is larger than bank,larger
+1315,person is larger than poet,larger
+1316,window is larger than head,larger
+1317,head is smaller than room,smaller
+1318,person is larger than bag,larger
+1319,finger is smaller than front,smaller
+1320,teacher is larger than child,larger
+1321,tree is larger than rope,larger
+1322,beard is larger than picture,larger
+1323,daughter is smaller than boat,smaller
+1324,boy is smaller than wife,smaller
+1325,state is larger than place,larger
+1326,river is larger than bed,larger
+1327,stone is larger than eye,larger
+1328,bag is smaller than arm,smaller
+1329,wall is larger than head,larger
+1330,everything is larger than state,larger
+1331,house is larger than road,larger
+1332,wife is smaller than stream,smaller
+1333,head is larger than phone,larger
+1334,victim is larger than throat,larger
+1335,ice is smaller than town,smaller
+1336,lady is larger than bottle,larger
+1337,eye is smaller than purse,smaller
+1338,everything is larger than town,larger
+1339,sea is larger than place,larger
+1340,back is smaller than car,smaller
+1341,house is larger than door,larger
+1342,shop is larger than floor,larger
+1343,house is larger than seal,larger
+1344,person is larger than hinge,larger
+1345,dinner is smaller than car,smaller
+1346,brother is smaller than farm,smaller
+1347,nose is smaller than face,smaller
+1348,side is smaller than street,smaller
+1349,lady is smaller than doorway,smaller
+1350,body is larger than rope,larger
+1351,person is larger than throat,larger
+1352,horse is larger than door,larger
+1353,body is smaller than horse,smaller
+1354,everything is larger than hand,larger
+1355,someone is smaller than horse,smaller
+1356,elbow is smaller than knee,smaller
+1357,patient is smaller than bed,smaller
+1358,shop is smaller than world,smaller
+1359,daughter is larger than rain,larger
+1360,boat is larger than basin,larger
+1361,lady is smaller than horse,smaller
+1362,magistrate is smaller than town,smaller
+1363,messenger is smaller than town,smaller
+1364,person is larger than knee,larger
+1365,door is larger than child,larger
+1366,magistrate is smaller than city,smaller
+1367,person is larger than messenger,larger
+1368,father is smaller than river,smaller
+1369,hat is smaller than face,smaller
+1370,father is larger than friend,larger
+1371,ball is smaller than glass,smaller
+1372,fox is smaller than wall,smaller
+1373,cross is smaller than door,smaller
+1374,arm is larger than knee,larger
+1375,piece is smaller than face,smaller
+1376,bay is larger than head,larger
+1377,child is smaller than bed,smaller
+1378,sun is larger than effect,larger
+1379,child is smaller than shore,smaller
+1380,arm is smaller than room,smaller
+1381,sun is larger than piece,larger
+1382,element is smaller than picture,smaller
+1383,brother is smaller than floor,smaller
+1384,lady is larger than mouth,larger
+1385,step is larger than hand,larger
+1386,father is larger than phone,larger
+1387,place is larger than cross,larger
+1388,daughter is larger than ear,larger
+1389,brick is larger than piece,larger
+1390,seed is smaller than road,smaller
+1391,cup is smaller than face,smaller
+1392,fox is larger than head,larger
+1393,side is larger than face,larger
+1394,piece is smaller than floor,smaller
+1395,someone is smaller than scene,smaller
+1396,brother is larger than friend,larger
+1397,eye is larger than piece,larger
+1398,hat is smaller than gate,smaller
+1399,person is larger than book,larger
+1400,back is smaller than wall,smaller
+1401,sail is smaller than wind,smaller
+1402,king is smaller than mountain,smaller
+1403,father is larger than fist,larger
+1404,rope is smaller than stream,smaller
+1405,gentleman is smaller than horse,smaller
+1406,shop is larger than friend,larger
+1407,lad is larger than hand,larger
+1408,coast is smaller than sea,smaller
+1409,shop is larger than eye,larger
+1410,poet is larger than mouth,larger
+1411,ground is larger than back,larger
+1412,ear is smaller than shore,smaller
+1413,boy is larger than elbow,larger
+1414,someone is smaller than river,smaller
+1415,person is larger than block,larger
+1416,hat is smaller than bag,smaller
+1417,person is larger than newspaper,larger
+1418,sea is larger than cross,larger
+1419,hat is larger than meal,larger
+1420,window is smaller than room,smaller
+1421,boy is larger than hand,larger
+1422,finger is smaller than piece,smaller
+1423,head is larger than fist,larger
+1424,child is smaller than room,smaller
+1425,banker is smaller than door,smaller
+1426,brother is smaller than continent,smaller
+1427,foot is smaller than continent,smaller
+1428,fist is smaller than book,smaller
+1429,father is smaller than horse,smaller
+1430,gentleman is larger than head,larger
+1431,chair is larger than face,larger
+1432,ice is smaller than body,smaller
+1433,window is smaller than sun,smaller
+1434,person is smaller than coast,smaller
+1435,gentleman is smaller than flood,smaller
+1436,door is smaller than room,smaller
+1437,body is larger than light,larger
+1438,father is larger than something,larger
+1439,tree is larger than gate,larger
+1440,tree is larger than book,larger
+1441,person is smaller than energy,smaller
+1442,town is larger than tree,larger
+1443,hill is larger than face,larger
+1444,system is larger than element,larger
+1445,cup is smaller than head,smaller
+1446,river is larger than vessel,larger
+1447,poet is larger than king,larger
+1448,horse is larger than cross,larger
+1449,daughter is larger than dinner,larger
+1450,someone is smaller than gate,smaller
+1451,house is larger than light,larger
+1452,father is larger than teacher,larger
+1453,tree is smaller than continent,smaller
+1454,teacher is smaller than boat,smaller
+1455,tree is smaller than wind,smaller
+1456,body is smaller than stream,smaller
+1457,father is larger than finger,larger
+1458,king is larger than someone,larger
+1459,chair is smaller than sun,smaller
+1460,someone is smaller than bed,smaller
+1461,lamp is smaller than road,smaller
+1462,chest is larger than foot,larger
+1463,river is larger than ship,larger
+1464,person is smaller than scene,smaller
+1465,body is smaller than tree,smaller
+1466,brother is larger than piece,larger
+1467,father is smaller than car,smaller
+1468,coach is smaller than ship,smaller
+1469,wall is larger than doorway,larger
+1470,sea is larger than body,larger
+1471,sail is larger than mouth,larger
+1472,coach is larger than dinner,larger
+1473,room is larger than head,larger
+1474,chair is smaller than teacher,smaller
+1475,deck is larger than pocket,larger
+1476,fox is larger than bag,larger
+1477,everything is larger than step,larger
+1478,boy is smaller than horse,smaller
+1479,lady is larger than face,larger
+1480,volunteer is smaller than room,smaller
+1481,child is smaller than seal,smaller
+1482,home is larger than boy,larger
+1483,anchor is smaller than stream,smaller
+1484,sun is larger than throat,larger
+1485,sun is larger than meal,larger
+1486,hat is larger than eye,larger
+1487,hat is smaller than town,smaller
+1488,window is smaller than place,smaller
+1489,poet is larger than book,larger
+1490,house is larger than suit,larger
+1491,gentleman is larger than face,larger
+1492,lock is smaller than head,smaller
+1493,messenger is larger than hand,larger
+1494,door is larger than picture,larger
+1495,father is smaller than town,smaller
+1496,sea is larger than floor,larger
+1497,chest is larger than eye,larger
+1498,foot is smaller than floor,smaller
+1499,chest is smaller than sea,smaller
+1500,horse is smaller than train,smaller
+1501,someone is larger than throat,larger
+1502,person is larger than lip,larger
+1503,boy is larger than sip,larger
+1504,side is smaller than city,smaller
+1505,sun is larger than wind,larger
+1506,messenger is smaller than road,smaller
+1507,person is smaller than home,smaller
+1508,car is larger than gate,larger
+1509,lock is smaller than face,smaller
+1510,king is smaller than farm,smaller
+1511,boat is larger than light,larger
+1512,house is larger than knife,larger
+1513,father is larger than foot,larger
+1514,knife is smaller than head,smaller
+1515,someone is larger than knife,larger
+1516,car is larger than head,larger
+1517,watch is smaller than door,smaller
+1518,goose is larger than dinner,larger
+1519,hat is smaller than place,smaller
+1520,place is larger than floor,larger
+1521,person is larger than nose,larger
+1522,child is larger than face,larger
+1523,person is smaller than bench,smaller
+1524,sun is larger than face,larger
+1525,knife is larger than mouth,larger
+1526,ship is smaller than shore,smaller
+1527,person is smaller than continent,smaller
+1528,person is larger than lock,larger
+1529,boy is smaller than floor,smaller
+1530,newspaper is smaller than wind,smaller
+1531,everything is larger than bed,larger
+1532,sun is larger than city,larger
+1533,person is smaller than vessel,smaller
+1534,hill is smaller than scene,smaller
+1535,house is larger than breath,larger
+1536,wall is larger than glass,larger
+1537,arm is larger than ball,larger
+1538,door is larger than face,larger
+1539,boy is smaller than flood,smaller
+1540,gentleman is smaller than car,smaller
+1541,wall is smaller than tree,smaller
+1542,victim is smaller than floor,smaller
+1543,tree is smaller than town,smaller
+1544,someone is smaller than wind,smaller
+1545,sun is larger than rain,larger
+1546,lady is smaller than city,smaller
+1547,bag is smaller than back,smaller
+1548,head is larger than ear,larger
+1549,place is larger than tree,larger
+1550,cross is smaller than floor,smaller
+1551,someone is larger than phone,larger
+1552,person is smaller than doorway,smaller
+1553,brother is larger than dress,larger
+1554,city is larger than breath,larger
+1555,someone is smaller than street,smaller
+1556,brother is larger than king,larger
+1557,person is larger than ear,larger
+1558,current is larger than hand,larger
+1559,back is smaller than tree,smaller
+1560,picture is smaller than light,smaller
+1561,nose is smaller than fist,smaller
+1562,gentleman is larger than knee,larger
+1563,place is larger than grass,larger
+1564,gentleman is larger than dinner,larger
+1565,strap is smaller than head,smaller
+1566,teacher is larger than mouth,larger
+1567,basin is larger than face,larger
+1568,base is larger than place,larger
+1569,candidate is smaller than city,smaller
+1570,person is larger than disciple,larger
+1571,person is smaller than mountain,smaller
+1572,brother is smaller than boat,smaller
+1573,river is larger than rain,larger
+1574,boy is larger than bow,larger
+1575,father is larger than food,larger
+1576,brother is larger than knife,larger
+1577,ice is smaller than place,smaller
+1578,tree is larger than rain,larger
+1579,patient is smaller than flood,smaller
+1580,lover is larger than face,larger
+1581,someone is smaller than place,smaller
+1582,father is larger than watch,larger
+1583,brother is larger than mouth,larger
+1584,ash is smaller than door,smaller
+1585,meal is smaller than room,smaller
+1586,purse is smaller than dress,smaller
+1587,sip is smaller than mouth,smaller
+1588,person is smaller than piano,smaller
+1589,train is larger than coal,larger
+1590,daughter is larger than book,larger
+1591,foot is smaller than sea,smaller
+1592,fox is larger than step,larger
+1593,car is smaller than tree,smaller
+1594,gate is smaller than farm,smaller
+1595,basin is smaller than floor,smaller
+1596,messenger is smaller than room,smaller
+1597,ear is smaller than hand,smaller
+1598,head is larger than mouth,larger
+1599,window is smaller than house,smaller
+1600,house is smaller than way,smaller
+1601,shirt is smaller than floor,smaller
+1602,head is larger than chin,larger
+1603,someone is larger than newspaper,larger
+1604,king is larger than picture,larger
+1605,cup is smaller than step,smaller
+1606,state is larger than picture,larger
+1607,town is larger than store,larger
+1608,patient is larger than stone,larger
+1609,vessel is larger than head,larger
+1610,town is smaller than piece,smaller
+1611,king is larger than head,larger
+1612,grass is smaller than road,smaller
+1613,lad is larger than face,larger
+1614,eye is smaller than rope,smaller
+1615,stone is smaller than beach,smaller
+1616,arm is larger than ear,larger
+1617,lock is smaller than floor,smaller
+1618,food is smaller than home,smaller
+1619,brother is smaller than store,smaller
+1620,piece is smaller than city,smaller
+1621,mountain is larger than shore,larger
+1622,sun is larger than bow,larger
+1623,lady is larger than rain,larger
+1624,house is smaller than city,smaller
+1625,current is larger than bow,larger
+1626,arm is smaller than patient,smaller
+1627,world is larger than bottle,larger
+1628,wall is larger than something,larger
+1629,harlot is larger than hand,larger
+1630,wall is larger than horse,larger
+1631,street is larger than head,larger
+1632,father is larger than child,larger
+1633,lady is smaller than restaurant,smaller
+1634,coach is larger than friend,larger
+1635,shop is smaller than street,smaller
+1636,horse is larger than ball,larger
+1637,body is smaller than bed,smaller
+1638,boy is larger than newspaper,larger
+1639,piece is smaller than horse,smaller
+1640,train is larger than mouth,larger
+1641,teacher is smaller than doorway,smaller
+1642,sun is larger than dinner,larger
+1643,shoulder is smaller than arm,smaller
+1644,state is larger than suit,larger
+1645,goose is smaller than room,smaller
+1646,floor is larger than face,larger
+1647,abode is smaller than hill,smaller
+1648,coach is larger than child,larger
+1649,brother is larger than eye,larger
+1650,father is smaller than state,smaller
+1651,office is smaller than street,smaller
+1652,king is larger than glass,larger
+1653,piece is smaller than wall,smaller
+1654,horse is larger than knee,larger
+1655,phone is smaller than car,smaller
+1656,finger is smaller than basin,smaller
+1657,lady is larger than head,larger
+1658,foot is smaller than world,smaller
+1659,seal is smaller than horse,smaller
+1660,home is larger than body,larger
+1661,lover is smaller than camp,smaller
+1662,foot is smaller than ship,smaller
+1663,sea is larger than breath,larger
+1664,factory is smaller than continent,smaller
+1665,head is smaller than car,smaller
+1666,child is larger than hand,larger
+1667,bag is smaller than room,smaller
+1668,hat is larger than hair,larger
+1669,foot is smaller than vessel,smaller
+1670,person is larger than strap,larger
+1671,foot is smaller than bank,smaller
+1672,clock is smaller than child,smaller
+1673,system is larger than king,larger
+1674,train is larger than piece,larger
+1675,chair is larger than dinner,larger
+1676,wife is smaller than bed,smaller
+1677,food is smaller than mouth,smaller
+1678,finger is smaller than room,smaller
+1679,world is larger than bay,larger
+1680,boy is larger than phone,larger
+1681,sun is larger than grass,larger
+1682,office is larger than step,larger
+1683,fist is larger than knee,larger
+1684,watch is smaller than body,smaller
+1685,messenger is larger than king,larger
+1686,father is larger than meal,larger
+1687,teacher is smaller than place,smaller
+1688,child is smaller than floor,smaller
+1689,office is larger than hat,larger
+1690,child is smaller than bed,smaller
+1691,messenger is larger than head,larger
+1692,poet is larger than hand,larger
+1693,lady is larger than arm,larger
+1694,corner is smaller than block,smaller
+1695,finger is smaller than ball,smaller
+1696,horse is larger than hand,larger
+1697,person is larger than chin,larger
+1698,person is smaller than bank,smaller
+1699,boy is larger than knee,larger
+1700,foot is smaller than chest,smaller
+1701,hand is smaller than face,smaller
+1702,bank is smaller than everything,smaller
+1703,boy is smaller than town,smaller
+1704,dinner is larger than glass,larger
+1705,nose is smaller than hand,smaller
+1706,place is larger than ear,larger
+1707,victim is smaller than town,smaller
+1708,river is smaller than sea,smaller
+1709,river is larger than head,larger
+1710,body is smaller than town,smaller
+1711,stone is smaller than place,smaller
+1712,bed is smaller than ship,smaller
+1713,rope is larger than hand,larger
+1714,friend is smaller than door,smaller
+1715,side is larger than fist,larger
+1716,king is smaller than shore,smaller
+1717,spoon is smaller than mouth,smaller
+1718,stream is smaller than torrent,smaller
+1719,friend is smaller than floor,smaller
+1720,father is smaller than home,smaller
+1721,friend is smaller than farm,smaller
+1722,king is larger than object,larger
+1723,book is smaller than knee,smaller
+1724,brother is larger than step,larger
+1725,father is larger than spoon,larger
+1726,boy is smaller than shore,smaller
+1727,person is larger than mosquito,larger
+1728,lady is larger than magazine,larger
+1729,tree is larger than face,larger
+1730,fist is smaller than face,smaller
+1731,magistrate is smaller than home,smaller
+1732,room is larger than hand,larger
+1733,chair is larger than pocket,larger
+1734,hand is larger than knee,larger
+1735,city is larger than book,larger
+1736,cup is smaller than bag,smaller
+1737,poet is smaller than bed,smaller
+1738,seal is larger than hand,larger
+1739,bed is larger than light,larger
+1740,gentleman is larger than ear,larger
+1741,breath is smaller than room,smaller
+1742,lady is smaller than road,smaller
+1743,boy is smaller than store,smaller
+1744,father is smaller than farm,smaller
+1745,dress is larger than knee,larger
+1746,chair is larger than hand,larger
+1747,book is smaller than road,smaller
+1748,patient is smaller than door,smaller
+1749,coach is smaller than house,smaller
+1750,poet is larger than head,larger
+1751,picture is larger than face,larger
+1752,arm is smaller than wife,smaller
+1753,patient is smaller than city,smaller
+1754,tree is larger than light,larger
+1755,bow is smaller than hand,smaller
+1756,horse is larger than grass,larger
+1757,nose is smaller than book,smaller
+1758,person is larger than king,larger
+1759,someone is larger than violin,larger
+1760,scene is larger than eye,larger
+1761,hat is smaller than store,smaller
+1762,temple is smaller than city,smaller
+1763,eye is smaller than bottle,smaller
+1764,house is larger than sink,larger
+1765,king is larger than shirt,larger
+1766,lady is smaller than place,smaller
+1767,hair is smaller than continent,smaller
+1768,brother is larger than arm,larger
+1769,someone is larger than lamp,larger
+1770,hand is larger than mouth,larger
+1771,everything is larger than camp,larger
+1772,brother is smaller than town,smaller
+1773,father is smaller than bank,smaller
+1774,bay is larger than ear,larger
+1775,wall is smaller than city,smaller
+1776,boy is larger than dinner,larger
+1777,horse is larger than light,larger
+1778,clothes is smaller than tree,smaller
+1779,lady is larger than cross,larger
+1780,tree is larger than lamp,larger
+1781,person is smaller than camp,smaller
+1782,head is smaller than floor,smaller
+1783,place is smaller than continent,smaller
+1784,state is larger than ear,larger
+1785,place is larger than door,larger
+1786,fox is smaller than place,smaller
+1787,person is larger than basin,larger
+1788,person is larger than magistrate,larger
+1789,breath is smaller than wind,smaller
+1790,person is smaller than bower,smaller
+1791,horse is smaller than stream,smaller
+1792,cup is smaller than chest,smaller
+1793,father is smaller than window,smaller
+1794,tree is larger than head,larger
+1795,finger is smaller than hand,smaller
+1796,bag is smaller than bed,smaller
+1797,everything is larger than shore,larger
+1798,brother is smaller than car,smaller
+1799,person is smaller than hill,smaller
+1800,body is smaller than vessel,smaller
+1801,piece is smaller than poet,smaller
+1802,person is larger than picture,larger
+1803,father is smaller than factory,smaller
+1804,patient is larger than picture,larger
+1805,finger is larger than nose,larger
+1806,horse is smaller than camp,smaller
+1807,everything is larger than place,larger
+1808,lady is larger than rope,larger
+1809,teacher is larger than breath,larger
+1810,someone is larger than ball,larger
+1811,head is smaller than shirt,smaller
+1812,seal is larger than head,larger
+1813,food is smaller than bed,smaller
+1814,friend is larger than elbow,larger
+1815,bank is smaller than ship,smaller
+1816,ice is smaller than mountain,smaller
+1817,window is larger than eye,larger
+1818,wife is smaller than exile,smaller
+1819,foot is smaller than hat,smaller
+1820,person is smaller than stream,smaller
+1821,beard is larger than mouth,larger
+1822,child is smaller than gate,smaller
+1823,foot is smaller than mountain,smaller
+1824,abode is larger than foot,larger
+1825,hair is smaller than rope,smaller
+1826,meal is larger than cup,larger
+1827,person is larger than hip,larger
+1828,shoulder is smaller than door,smaller
+1829,sail is smaller than mountain,smaller
+1830,eye is smaller than child,smaller
+1831,food is smaller than sea,smaller
+1832,face is larger than bottle,larger
+1833,coach is smaller than ground,smaller
+1834,ground is larger than tree,larger
+1835,person is larger than coal,larger
+1836,brother is smaller than mountain,smaller
+1837,lady is smaller than street,smaller
+1838,someone is smaller than hill,smaller
+1839,tree is larger than head,larger
+1840,bow is smaller than beach,smaller
+1841,block is larger than mouth,larger
+1842,bed is larger than piece,larger
+1843,lover is smaller than shore,smaller
+1844,seal is smaller than everything,smaller
+1845,patient is larger than face,larger
+1846,lady is smaller than floor,smaller
+1847,place is larger than something,larger
+1848,child is larger than dress,larger
+1849,home is larger than wall,larger
+1850,person is larger than light,larger
+1851,goose is smaller than place,smaller
+1852,side is larger than middle,larger
+1853,knife is smaller than dinner,smaller
+1854,breath is smaller than hand,smaller
+1855,foot is larger than coal,larger
+1856,sea is larger than ship,larger
+1857,bow is smaller than shore,smaller
+1858,foot is smaller than scene,smaller
+1859,cup is larger than elbow,larger
+1860,ice is smaller than boat,smaller
+1861,hand is larger than glass,larger
+1862,house is larger than bottle,larger
+1863,patient is smaller than train,smaller
+1864,patient is smaller than room,smaller
+1865,home is larger than wife,larger
+1866,arm is smaller than bed,smaller
+1867,daughter is smaller than room,smaller
+1868,lady is larger than skirt,larger
+1869,bayonet is larger than head,larger
+1870,eye is smaller than bed,smaller
+1871,ground is larger than foot,larger
+1872,arm is smaller than tree,smaller
+1873,stone is smaller than tree,smaller
+1874,throat is larger than hand,larger
+1875,person is larger than bottle,larger
+1876,king is larger than ball,larger
+1877,block is smaller than tree,smaller
+1878,head is larger than seed,larger
+1879,camp is smaller than shore,smaller
+1880,lady is larger than shoulder,larger
+1881,cup is smaller than sink,smaller
+1882,lamp is larger than hand,larger
+1883,hand is smaller than bottle,smaller
+1884,place is larger than fist,larger
+1885,person is larger than ball,larger
+1886,father is larger than sip,larger
+1887,foot is smaller than room,smaller
+1888,breath is larger than grass,larger
+1889,fox is larger than mouth,larger
+1890,newspaper is larger than hand,larger
+1891,gentleman is larger than fist,larger
+1892,arm is larger than hand,larger
+1893,child is larger than head,larger
+1894,child is smaller than road,smaller
+1895,watch is larger than eye,larger
+1896,tree is smaller than bed,smaller
+1897,boy is smaller than doorway,smaller
+1898,street is smaller than city,smaller
+1899,hair is smaller than place,smaller
+1900,chest is larger than shoulder,larger
+1901,father is smaller than stream,smaller
+1902,lady is smaller than train,smaller
+1903,city is larger than piece,larger
+1904,beach is larger than hand,larger
+1905,dinner is smaller than shore,smaller
+1906,lady is smaller than father,smaller
+1907,chest is smaller than floor,smaller
+1908,father is larger than newspaper,larger
+1909,state is larger than wall,larger
+1910,foot is larger than knee,larger
+1911,finger is smaller than friend,smaller
+1912,bag is larger than meal,larger
+1913,nose is smaller than doorway,smaller
+1914,lady is smaller than shore,smaller
+1915,phone is smaller than purse,smaller
+1916,boy is smaller than abode,smaller
+1917,friend is larger than rope,larger
+1918,finger is smaller than seal,smaller
+1919,foot is smaller than bench,smaller
+1920,house is larger than meal,larger
+1921,body is smaller than door,smaller
+1922,stone is smaller than floor,smaller
+1923,breath is smaller than face,smaller
+1924,daughter is larger than fist,larger
+1925,button is smaller than hand,smaller
+1926,chair is larger than clothes,larger
+1927,body is larger than middle,larger
+1928,city is larger than camp,larger
+1929,fool is larger than head,larger
+1930,lady is smaller than store,smaller
+1931,train is smaller than road,smaller
+1932,head is smaller than door,smaller
+1933,father is larger than violin,larger
+1934,gentleman is larger than mouth,larger
+1935,wife is larger than ball,larger
+1936,father is larger than purse,larger
+1937,person is larger than victim,larger
+1938,sun is larger than mountain,larger
+1939,tree is larger than cross,larger
+1940,office is larger than eye,larger
+1941,system is larger than suit,larger
+1942,knife is smaller than place,smaller
+1943,breath is larger than continent,larger
+1944,sun is larger than stone,larger
+1945,father is larger than ball,larger
+1946,banker is larger than head,larger
+1947,boy is larger than lip,larger
+1948,head is larger than book,larger
+1949,gentleman is smaller than town,smaller
+1950,hair is smaller than chin,smaller
+1951,scene is larger than head,larger
+1952,boy is larger than friend,larger
+1953,father is larger than hair,larger
+1954,newspaper is larger than piece,larger
+1955,ice is smaller than glass,smaller
+1956,state is larger than ship,larger
+1957,everything is larger than continent,larger
+1958,ship is larger than mouth,larger
+1959,state is larger than scene,larger
+1960,person is larger than seed,larger
+1961,shop is larger than door,larger
+1962,coach is larger than gentleman,larger
+1963,brother is larger than picture,larger
+1964,lady is larger than window,larger
+1965,horse is larger than child,larger
+1966,breath is smaller than floor,smaller
+1967,ice is smaller than ship,smaller
+1968,father is larger than suit,larger
+1969,gentleman is larger than boy,larger
+1970,lady is larger than ball,larger
+1971,person is larger than fuel,larger
+1972,street is larger than car,larger
+1973,sun is larger than flood,larger
+1974,body is smaller than shore,smaller
+1975,place is larger than town,larger
+1976,house is larger than king,larger
+1977,person is larger than banker,larger
+1978,coast is larger than friend,larger
+1979,person is larger than magazine,larger
+1980,finger is larger than lip,larger
+1981,person is larger than skirt,larger
+1982,house is larger than body,larger
+1983,clothes is smaller than house,smaller
+1984,finger is smaller than purse,smaller
+1985,magistrate is smaller than room,smaller
+1986,house is larger than book,larger
+1987,dress is larger than hand,larger
+1988,boy is larger than ear,larger
+1989,boy is smaller than door,smaller
+1990,place is larger than tree,larger
+1991,father is smaller than piano,smaller
+1992,hat is smaller than doorway,smaller
+1993,mouth is smaller than glass,smaller
+1994,lamp is larger than face,larger
+1995,friend is smaller than train,smaller
+1996,breath is smaller than stream,smaller
+1997,shop is larger than side,larger
+1998,person is larger than cross,larger
+1999,person is larger than knife,larger
+2000,finger is smaller than continent,smaller
+2001,boy is larger than brick,larger
+2002,fist is smaller than head,smaller
+2003,lady is smaller than gate,smaller
+2004,house is larger than newspaper,larger
+2005,father is larger than dinner,larger
+2006,brother is larger than meal,larger
+2007,daughter is larger than glass,larger
+2008,river is larger than road,larger
+2009,house is larger than piece,larger
+2010,person is larger than face,larger
+2011,brother is larger than boy,larger
+2012,child is larger than mouth,larger
+2013,boy is larger than shirt,larger
+2014,bay is larger than shore,larger
+2015,friend is larger than glass,larger
+2016,lady is larger than dinner,larger
+2017,clock is smaller than face,smaller
+2018,boy is smaller than bed,smaller
+2019,house is smaller than state,smaller
+2020,teacher is larger than daughter,larger
+2021,side is larger than hand,larger
+2022,child is larger than ball,larger
+2023,wife is larger than lover,larger
+2024,body is smaller than city,smaller
+2025,clothes is larger than face,larger
+2026,gentleman is smaller than shore,smaller
+2027,person is larger than step,larger
+2028,body is larger than mouth,larger
+2029,sun is larger than coal,larger
+2030,tree is larger than dress,larger
+2031,ground is larger than body,larger
+2032,ash is smaller than mouth,smaller
+2033,gentleman is larger than knife,larger
+2034,train is larger than face,larger
+2035,friend is larger than mouth,larger
+2036,father is larger than basin,larger
+2037,bag is smaller than gate,smaller
+2038,brother is larger than book,larger
+2039,lady is smaller than car,smaller
+2040,dinner is smaller than daughter,smaller
+2041,person is larger than lad,larger
+2042,fist is smaller than hand,smaller
+2043,child is smaller than doorway,smaller
+2044,victim is larger than face,larger
+2045,horse is larger than coal,larger
+2046,poet is smaller than door,smaller
+2047,brother is larger than ball,larger
+2048,house is smaller than sea,smaller
+2049,coach is larger than arm,larger
+2050,something is larger than hand,larger
+2051,room is larger than wife,larger
+2052,messenger is smaller than camp,smaller
+2053,window is smaller than floor,smaller
+2054,place is larger than hand,larger
+2055,door is smaller than floor,smaller
+2056,bay is larger than boat,larger
+2057,hat is smaller than back,smaller
+2058,someone is larger than dinner,larger
+2059,coach is larger than hat,larger
+2060,stone is smaller than bed,smaller
+2061,person is larger than daughter,larger
+2062,person is smaller than barn,smaller
+2063,sun is larger than tree,larger
+2064,door is larger than light,larger
+2065,child is larger than picture,larger
+2066,brother is larger than hand,larger
+2067,gentleman is larger than ball,larger
+2068,step is smaller than road,smaller
+2069,parent is larger than child,larger
+2070,sun is larger than sail,larger
+2071,river is larger than breath,larger
+2072,vessel is larger than anchor,larger
+2073,friend is larger than newspaper,larger
+2074,everything is larger than tree,larger
+2075,coast is larger than place,larger
+2076,anchor is larger than mouth,larger
+2077,hair is smaller than room,smaller
+2078,sea is larger than sail,larger
+2079,sun is larger than ear,larger
+2080,father is smaller than truck,smaller
+2081,head is larger than ball,larger
+2082,hip is larger than hand,larger
+2083,king is smaller than camp,smaller
+2084,person is larger than wife,larger
+2085,hair is smaller than floor,smaller
+2086,chair is larger than window,larger
+2087,person is larger than fox,larger
+2088,shirt is larger than hand,larger
+2089,person is larger than ice,larger
+2090,step is smaller than flood,smaller
+2091,eye is smaller than fist,smaller
+2092,house is smaller than hill,smaller
+2093,stream is larger than hand,larger
+2094,current is larger than shore,larger
+2095,ship is larger than hand,larger
+2096,child is larger than glass,larger
+2097,lady is larger than eye,larger
+2098,fist is larger than mouth,larger
+2099,door is larger than wife,larger
+2100,river is larger than boat,larger
+2101,brother is larger than coal,larger
+2102,victim is smaller than house,smaller
+2103,brother is larger than clothes,larger
+2104,child is larger than purse,larger
+2105,house is smaller than farm,smaller
+2106,gentleman is larger than book,larger
+2107,ground is larger than king,larger
+2108,father is smaller than world,smaller
+2109,wall is larger than hand,larger
+2110,grass is smaller than hand,smaller
+2111,bank is larger than suit,larger
+2112,patient is larger than glass,larger
+2113,gentleman is smaller than train,smaller
+2114,meal is larger than piece,larger
+2115,sun is larger than breath,larger
+2116,everything is larger than child,larger
+2117,torrent is smaller than mountain,smaller
+2118,boy is smaller than farm,smaller
+2119,office is larger than picture,larger
+2120,gentleman is smaller than stream,smaller
+2121,coach is smaller than bank,smaller
+2122,gentleman is larger than eye,larger
+2123,person is smaller than ship,smaller
+2124,someone is larger than eye,larger
+2125,river is smaller than sun,smaller
+2126,sun is larger than head,larger
+2127,gentleman is smaller than room,smaller
+2128,lady is smaller than stream,smaller
+2129,foot is smaller than wall,smaller
+2130,car is larger than hand,larger
+2131,town is larger than picture,larger
+2132,lady is larger than picture,larger
+2133,window is smaller than continent,smaller
+2134,piano is larger than suit,larger
+2135,father is larger than bag,larger
+2136,house is larger than picture,larger
+2137,office is smaller than continent,smaller
+2138,body is smaller than room,smaller
+2139,someone is larger than child,larger
+2140,lady is larger than hand,larger
+2141,person is larger than elbow,larger
+2142,river is larger than current,larger
+2143,head is smaller than light,smaller
+2144,fox is larger than goose,larger
+2145,person is smaller than deck,smaller
+2146,phone is smaller than room,smaller
+2147,boy is larger than face,larger
+2148,state is larger than step,larger
+2149,house is larger than mouth,larger
+2150,father is smaller than bay,smaller
+2151,finger is larger than grass,larger
+2152,town is larger than newspaper,larger
+2153,side is smaller than everything,smaller
+2154,world is larger than anything,larger
+2155,magistrate is larger than wife,larger
+2156,person is larger than fool,larger
+2157,tree is smaller than road,smaller
+2158,father is smaller than coast,smaller
+2159,sea is larger than city,larger
+2160,boy is larger than lamp,larger
+2161,messenger is larger than boy,larger
+2162,father is larger than step,larger
+2163,meal is smaller than child,smaller
+2164,block is smaller than wall,smaller
+2165,home is smaller than city,smaller
+2166,father is larger than wife,larger
+2167,side is smaller than beach,smaller
+2168,goose is smaller than hill,smaller
+2169,horse is smaller than room,smaller
+2170,person is larger than spoon,larger
+2171,newspaper is smaller than floor,smaller
+2172,child is smaller than room,smaller
+2173,eye is smaller than car,smaller
+2174,base is larger than hand,larger
+2175,father is larger than clothes,larger
+2176,sea is larger than light,larger
+2177,gentleman is smaller than everything,smaller
+2178,clothes is smaller than bed,smaller
+2179,someone is larger than grass,larger
+2180,king is smaller than ship,smaller
+2181,city is larger than dress,larger
+2182,person is smaller than boat,smaller
+2183,dinner is smaller than dress,smaller
+2184,person is smaller than precipice,smaller
+2185,harlot is larger than face,larger
+2186,tree is larger than violin,larger
+2187,person is larger than clothes,larger
+2188,dress is larger than face,larger
+2189,king is larger than knee,larger
+2190,stone is smaller than torrent,smaller
+2191,friend is smaller than bed,smaller
+2192,brother is smaller than doorway,smaller
+2193,cup is smaller than continent,smaller
+2194,state is larger than city,larger
+2195,father is larger than child,larger
+2196,ship is larger than rain,larger
+2197,messenger is smaller than city,smaller
+2198,wife is larger than mouth,larger
+2199,state is larger than piece,larger
+2200,state is larger than book,larger
+2201,person is larger than vial,larger
+2202,someone is larger than step,larger
+2203,brother is larger than face,larger
+2204,gentleman is larger than bottle,larger
+2205,body is larger than breath,larger
+2206,body is larger than tree,larger
+2207,brother is larger than daughter,larger
+2208,eye is smaller than road,smaller
+2209,watch is smaller than house,smaller
+2210,ash is smaller than floor,smaller
+2211,horse is larger than bed,larger
+2212,hair is smaller than body,smaller
+2213,head is smaller than doorway,smaller
+2214,gentleman is larger than purse,larger
+2215,hair is smaller than wind,smaller
+2216,lad is smaller than camp,smaller
+2217,place is larger than ship,larger
+2218,fox is larger than hand,larger
+2219,meal is smaller than ground,smaller
+2220,bank is smaller than hill,smaller
+2221,father is larger than pocket,larger
+2222,food is smaller than car,smaller
+2223,sea is larger than basin,larger
+2224,clothes is smaller than body,smaller
+2225,arm is smaller than king,smaller
+2226,boat is larger than child,larger
+2227,train is larger than child,larger
+2228,sun is larger than eye,larger
+2229,world is larger than eye,larger
+2230,place is larger than store,larger
+2231,brother is larger than back,larger
+2232,coach is larger than wife,larger
+2233,wife is larger than book,larger
+2234,ground is larger than road,larger
+2235,poet is larger than picture,larger
+2236,hat is smaller than arm,smaller
+2237,way is larger than doorway,larger
+2238,child is smaller than floor,smaller
+2239,worker is smaller than wind,smaller
+2240,button is smaller than eye,smaller
+2241,daughter is larger than picture,larger
+2242,knife is smaller than store,smaller
+2243,watch is smaller than face,smaller
+2244,person is larger than dinner,larger
+2245,brother is larger than hair,larger
+2246,teacher is smaller than continent,smaller
+2247,body is larger than face,larger
+2248,daughter is larger than bottle,larger
+2249,bag is larger than mouth,larger
+2250,state is larger than door,larger
+2251,ship is larger than element,larger
+2252,father is larger than strap,larger
+2253,father is larger than coal,larger
+2254,corner is smaller than road,smaller
+2255,brother is smaller than room,smaller
+2256,chair is larger than back,larger
+2257,gentleman is larger than picture,larger
+2258,gulp is smaller than throat,smaller
+2259,messenger is smaller than door,smaller
+2260,parcel is larger than mouth,larger
+2261,air is larger than shore,larger
+2262,magistrate is smaller than door,smaller
+2263,lady is smaller than continent,smaller
+2264,friend is larger than piece,larger
+2265,lady is larger than piece,larger
+2266,beard is smaller than face,smaller
+2267,friend is smaller than shore,smaller
+2268,state is larger than king,larger
+2269,boat is larger than face,larger
+2270,hat is smaller than step,smaller
+2271,child is larger than vial,larger
+2272,father is larger than stone,larger
+2273,boy is smaller than stream,smaller
+2274,brother is smaller than house,smaller
+2275,door is larger than knee,larger
+2276,current is larger than face,larger
+2277,train is smaller than shore,smaller
+2278,end is smaller than road,smaller
+2279,person is smaller than door,smaller
+2280,person is larger than gulp,larger
+2281,friend is smaller than car,smaller
+2282,bank is larger than house,larger
+2283,watch is smaller than camp,smaller
+2284,wife is larger than newspaper,larger
+2285,child is larger than bottle,larger
+2286,daughter is smaller than wife,smaller
+2287,bank is larger than grass,larger
+2288,place is larger than king,larger
+2289,object is larger than mouth,larger
+2290,finger is smaller than pocket,smaller
+2291,soul is smaller than ship,smaller
+2292,truck is larger than road,larger
+2293,patient is larger than head,larger
+2294,boy is larger than grass,larger
+2295,clothes is smaller than floor,smaller
+2296,person is smaller than road,smaller
+2297,boy is larger than head,larger
+2298,lady is larger than boy,larger
+2299,person is larger than everything,larger
+2300,person is smaller than sea,smaller
+2301,deck is smaller than room,smaller
+2302,someone is smaller than store,smaller
+2303,child is larger than dress,larger
+2304,wife is larger than picture,larger
+2305,gentleman is smaller than city,smaller
+2306,hair is smaller than boy,smaller
+2307,vessel is smaller than shore,smaller
+2308,knee is smaller than bed,smaller
+2309,block is smaller than room,smaller
+2310,shop is smaller than factory,smaller
+2311,someone is larger than middle,larger
+2312,fox is smaller than street,smaller
+2313,something is smaller than floor,smaller
+2314,eye is smaller than book,smaller
+2315,bag is larger than knife,larger
+2316,sea is larger than beach,larger
+2317,child is smaller than town,smaller
+2318,lady is smaller than home,smaller
+2319,person is smaller than floor,smaller
+2320,mouth is smaller than face,smaller
+2321,food is smaller than place,smaller
+2322,stair is larger than block,larger
+2323,father is larger than arm,larger
+2324,bed is smaller than floor,smaller
+2325,bed is larger than face,larger
+2326,shirt is larger than skirt,larger
+2327,lady is smaller than boat,smaller
+2328,lady is smaller than scene,smaller
+2329,room is larger than picture,larger
+2330,lady is smaller than room,smaller
+2331,teacher is larger than purse,larger
+2332,stair is smaller than house,smaller
+2333,watch is smaller than pocket,smaller
+2334,friend is smaller than room,smaller
+2335,clothes is larger than hand,larger
+2336,fox is larger than back,larger
+2337,tree is larger than piece,larger
+2338,glass is smaller than floor,smaller
+2339,sun is larger than wall,larger
+2340,river is smaller than city,smaller
+2341,messenger is smaller than farm,smaller
+2342,person is larger than someone,larger
+2343,boy is larger than breath,larger
+2344,body is smaller than floor,smaller
+2345,someone is smaller than floor,smaller
+2346,daughter is larger than bow,larger
+2347,hair is smaller than temple,smaller
+2348,brother is smaller than city,smaller
+2349,seal is smaller than place,smaller
+2350,foot is smaller than street,smaller
+2351,person is larger than gentleman,larger
+2352,tree is larger than ball,larger
+2353,foot is smaller than ground,smaller
+2354,brother is smaller than door,smaller
+2355,house is larger than floor,larger
+2356,clock is smaller than wife,smaller
+2357,stone is smaller than lamp,smaller
+2358,child is smaller than farm,smaller
+2359,button is smaller than side,smaller
+2360,person is smaller than flood,smaller
+2361,chest is larger than fist,larger
+2362,magistrate is larger than seal,larger
+2363,office is larger than position,larger
+2364,beard is smaller than continent,smaller
+2365,block is smaller than road,smaller
+2366,cup is smaller than room,smaller
+2367,meal is larger than hand,larger
+2368,world is larger than something,larger
+2369,head is larger than face,larger
+2370,horse is larger than piece,larger
+2371,sun is larger than room,larger
+2372,horse is larger than picture,larger
+2373,breath is smaller than shore,smaller
+2374,bed is larger than dress,larger
+2375,person is smaller than world,smaller
+2376,magistrate is larger than hand,larger
+2377,lady is larger than stone,larger
+2378,boy is smaller than place,smaller
+2379,head is larger than grass,larger
+2380,person is larger than father,larger
+2381,father is smaller than shore,smaller
+2382,father is smaller than wall,smaller
+2383,foot is smaller than boat,smaller
+2384,car is smaller than camp,smaller
+2385,father is larger than face,larger
+2386,lady is larger than step,larger
+2387,daughter is smaller than floor,smaller
+2388,person is larger than beard,larger
+2389,child is smaller than wife,smaller
+2390,boat is smaller than town,smaller
+2391,lady is larger than elbow,larger
+2392,clock is smaller than bed,smaller
+2393,father is larger than rain,larger
+2394,nose is smaller than everything,smaller
+2395,cross is smaller than side,smaller
+2396,door is smaller than car,smaller
+2397,breath is smaller than door,smaller
+2398,person is smaller than state,smaller
+2399,home is larger than head,larger
+2400,spoon is smaller than hand,smaller
+2401,room is larger than bed,larger
+2402,eye is smaller than tree,smaller
+2403,state is larger than head,larger
+2404,foot is larger than bottle,larger
+2405,friend is larger than face,larger
+2406,father is smaller than wind,smaller
+2407,lady is larger than bag,larger
+2408,person is smaller than room,smaller
+2409,lady is larger than hat,larger
+2410,wife is smaller than continent,smaller
+2411,stream is smaller than flood,smaller
+2412,king is larger than mouth,larger
+2413,boat is smaller than shore,smaller
+2414,head is larger than throat,larger
+2415,father is larger than parcel,larger
+2416,finger is smaller than everything,smaller
+2417,ash is smaller than hand,smaller
+2418,someone is smaller than wall,smaller
+2419,hair is smaller than something,smaller
+2420,arm is larger than strap,larger
+2421,coach is larger than book,larger
+2422,office is larger than piece,larger
+2423,hat is smaller than something,smaller
+2424,foot is smaller than place,smaller
+2425,person is larger than phone,larger
+2426,train is larger than room,larger
+2427,back is smaller than middle,smaller
+2428,king is smaller than abode,smaller
+2429,dress is larger than skirt,larger
+2430,someone is larger than brick,larger
+2431,king is larger than exile,larger
+2432,fist is smaller than mountain,smaller
+2433,messenger is smaller than doorway,smaller
+2434,river is larger than eye,larger
+2435,messenger is smaller than gate,smaller
+2436,poet is larger than glass,larger
+2437,chair is smaller than place,smaller
+2438,place is larger than head,larger
+2439,world is larger than breath,larger
+2440,house is larger than wall,larger
+2441,door is smaller than bed,smaller
+2442,someone is larger than object,larger
+2443,wife is larger than sip,larger
+2444,person is smaller than sun,smaller
+2445,child is larger than hand,larger
+2446,world is smaller than sun,smaller
+2447,finger is smaller than glass,smaller
+2448,place is larger than friend,larger
+2449,tree is smaller than room,smaller
+2450,gentleman is smaller than continent,smaller
+2451,person is larger than mouth,larger
+2452,door is smaller than doorway,smaller
+2453,watch is smaller than ship,smaller
+2454,office is larger than floor,larger
+2455,wife is larger than glass,larger
+2456,king is smaller than continent,smaller
+2457,someone is larger than hand,larger
+2458,person is larger than brick,larger
+2459,someone is larger than bottle,larger
+2460,person is larger than purse,larger
+2461,victim is smaller than scene,smaller
+2462,cup is smaller than front door,smaller
+2463,lady is larger than nose,larger
+2464,boat is larger than lock,larger
+2465,lady is larger than breath,larger
+2466,king is larger than rope,larger
+2467,door is larger than book,larger
+2468,person is larger than lung,larger
+2469,sail is smaller than ship,smaller
+2470,hill is smaller than beach,smaller
+2471,watch is smaller than friend,smaller
+2472,person is smaller than hedge,smaller
+2473,person is smaller than gully,smaller
+2474,hat is larger than hand,larger
+2475,world is larger than mouth,larger
+2476,father is smaller than doorway,smaller
+2477,brother is smaller than vessel,smaller
+2478,knee is larger than hand,larger
+2479,chair is smaller than gate,smaller
+2480,knife is smaller than floor,smaller
+2481,factory is larger than room,larger
+2482,lady is smaller than piano,smaller
+2483,king is smaller than stream,smaller
+2484,coach is smaller than road,smaller
+2485,brother is larger than dinner,larger
+2486,seed is smaller than knee,smaller
+2487,person is larger than violin,larger
+2488,everything is larger than ear,larger
+2489,person is larger than call,larger
+2490,father is smaller than place,smaller
+2491,house is larger than boat,larger
+2492,house is larger than something,larger
+2493,person is larger than rain,larger
+2494,person is larger than back,larger
+2495,victim is larger than meal,larger
+2496,piece is smaller than way,smaller
+2497,boy is larger than rope,larger
+2498,body is smaller than train,smaller
+2499,lady is larger than chin,larger
+2500,body is smaller than grass,smaller
+2501,brother is larger than breath,larger
+2502,child is larger than soul,larger
+2503,foot is smaller than arm,smaller
+2504,daughter is larger than lamp,larger
+2505,father is larger than call,larger
+2506,sea is larger than mouth,larger
+2507,person is smaller than bay,smaller
+2508,child is larger than mouth,larger
+2509,everything is larger than piece,larger
+2510,father is larger than boy,larger
+2511,father is larger than knee,larger
+2512,patient is larger than meal,larger
+2513,king is larger than dress,larger
+2514,sun is larger than train,larger
+2515,house is smaller than street,smaller
+2516,exile is larger than element,larger
+2517,ice is smaller than everything,smaller
+2518,room is larger than gate,larger
+2519,wife is larger than bottle,larger
+2520,beard is larger than lip,larger
+2521,king is larger than wife,larger
+2522,door is smaller than stream,smaller
+2523,daughter is smaller than bed,smaller
+2524,victim is smaller than doorway,smaller
+2525,piece is smaller than tree,smaller
+2526,eye is smaller than ball,smaller
+2527,horse is smaller than continent,smaller
+2528,foot is smaller than bed,smaller
+2529,tree is larger than fist,larger
+2530,hat is smaller than head,smaller
+2531,chin is smaller than face,smaller
+2532,lock is smaller than throat,smaller
+2533,person is larger than lover,larger
+2534,stone is larger than breath,larger
+2535,someone is larger than picture,larger
+2536,house is larger than tree,larger
+2537,fox is larger than stone,larger
+2538,anything is larger than mouth,larger
+2539,rabbit is larger than any insect,larger
+2540,an elephant is larger than most large animals,larger
+2541,towels are larger than washcloths,larger
+2542,lake is usually larger than swimming pool,larger
+2543,five is larger than three,larger
+2544,trucks are larger than cars.,larger
+2545,molecules arelarger than atoms,larger
+2546,brook is larger than stream,larger
+2547,"planet is larger than 1,000 miles",larger
+2548,statue is often larger than the person it depicts,larger
+2549,walk  in closet is larger than reguar closet,larger
+2550,adult dogs are larger than puppies,larger
+2551,human is larger than rabbit,larger
+2552,the pacific ocean is larger than all the continents combined.,larger
+2553,men's feet are larger than women's feet,larger
+2554,polar bears are larger than humans.,larger
+2555,boiling point is larger than human's body heat,larger
+2556,bay windows are larger than regular windows ,larger
+2557,the blue whale is larger than dolphins,larger
+2558,lake is larger than pond.,larger
+2559,rabbits are larger than insects.,larger
+2560,city is larger than strand of hair,larger
+2561,the sun is larger than the moon,larger
+2562,the sun is larger than the earth,larger
+2563,the moon is larger than an insect,larger
+2564,an acoustic guitar is larger than violin,larger
+2565, cigar is larger than cigarette,larger
+2566,pond is larger than pool.,larger
+2567,jupiter is much larger than earth.,larger
+2568,ldesktop is larger than laptop,larger
+2569,condo is larger than an apartment,larger
+2570,tennis ballers are larger than golf balls,larger
+2571,wolves are larger than dogs,larger
+2572,horse is generally larger than person,larger
+2573,garden is larger than breadbox,larger
+2574,tablespoon is larger than teaspoon,larger
+2575,the world is larger than person,larger
+2576,dining table is usually larger than coffee table.,larger
+2577,the universe is larger than human,larger
+2578,horse is larger than person,larger
+2579,horses are larger than people.,larger
+2580,system is larger than column,larger
+2581,cat  is larger than mouse.,larger
+2582,mountains are larger than hills,larger
+2583,tablespoon is larger than teaspoon.,larger
+2584,town is larger than hamlet,larger
+2585,business class continentplane seat is usually larger than coach class continentplane seat,larger
+2586,stream is larger than creek,larger
+2587,mars is larger than mercury.,larger
+2588,son is larger than an atom,larger
+2589,regular pies are larger than personal pies,larger
+2590,the circumference of the average bicycle tire is larger than the circumference of the average automobile tire.,larger
+2591, venus is larger than mars.,larger
+2592,planet is larger than breadbox,larger
+2593,pool is larger than puddle,larger
+2594,adult humans are larger than breadbox,larger
+2595,mirror makes room look larger than it is.,larger
+2596,business class continentplane seat is usually larger than coach class continentplane seat,larger
+2597,jupiter is larger than pluto.,larger
+2598,cribs are larger than babies,larger
+2599,horse is larger than person,larger
+2600, electronic appliances are usually larger than desk trays,larger
+2601,creek is larger than rivulet,larger
+2602,the global market for cell phones is larger than that for pcs.,larger
+2603,truck is larger than car,larger
+2604,queen bee is several times larger than any other bee in hive.,larger
+2605,jim's seat is larger than other passengers.,larger
+2606,the sun is larger than the earth.,larger
+2607,jupiter is larger than earth,larger
+2608,adult humans are larger than golden retriever,larger
+2609,trucks are usually larger than cars,larger
+2610,furniture secretary is larger than teaspoon,larger
+2611,"planet is an object larger than 1,000 miles in diameter that orbits star",larger
+2612,city is larger than town,larger
+2613,objects can appear larger than they seem in rear-view mirror,larger
+2614,big is larger than small,larger
+2615,city is larger than town.,larger
+2616,horse is generally larger than person.,larger
+2617,saxophone is larger than pen,larger
+2618,salad bowl is larger than soup bowl.,larger
+2619,melons are larger than tomatoes,larger
+2620,trucks are larger than humans,larger
+2621,trucks are larger than bikes,larger
+2622,town is larger than hamlet.,larger
+2623,first class continentplane seat is larger than coach continentplane seat,larger
+2624,guitar is larger than hand.,larger
+2625,walk in closet is larger than person.,larger
+2626, mini mall is larger than cash coin,larger
+2627,bjects can appear larger than they seem in rear-view mirror,larger
+2628,cars are larger than motorcycles.,larger
+2629,cars are larger than bicycles,larger
+2630,dog is generally larger than cat,larger
+2631,cello is larger than breadbox and makes music,larger
+2632,the interior space of closet may appear larger than it is if you look at it through rear-view mirror.,larger
+2633,the soviet union was larger than present day russia,larger
+2634,clams are larger than pearls,larger
+2635,legs are larger than arms,larger
+2636, tree is plant that is usually larger than human.,larger
+2637,lion is larger than breadbox,larger
+2638,beach towel is larger than bath towel,larger
+2639,horses are larger than cats.,larger
+2640,laptop is larger than an ipad,larger
+2641,an ipad is larger than phone,larger
+2642,televisions are larger than phones,larger
+2643, well is larger than tin.,larger
+2644,ears are larger than hands,larger
+2645,small elephant is larger than most large animals.,larger
+2646,liter is larger than milliliter,larger
+2647,tractor's rear tires are larger than it.,larger
+2648,the world is larger than person,larger
+2649,men are larger than chairs,larger
+2650,hippos are larger than hampsters,larger
+2651,earth is larger than an asteroid,larger
+2652,an interstate highway is larger than terraced house.,larger
+2653,salad bowl is larger than soup bowl,larger
+2654,many animals are larger than bread basket.,larger
+2655,cities are larger than towns.,larger
+2656,dolphins have brains that are slightly larger than humans per body mass.,larger
+2657,difference between tree bedroom and token slot: ability to contain objects larger than coin or token,larger
+2658,difference between subway map and woodwind family: woodwind is larger than map,larger
+2659,square mile is larger than square yard.,larger
+2660,person is larger than mouse.,larger
+2661,difference between binder and church: church is larger than binder,larger
+2662,horses are larger than humans.,larger
+2663,trucks are larger than cars,larger
+2664,an elephant is larger than breadbox,larger
+2665,tree is often larger than human,larger
+2666,trombone is larger than most other musical instruments.,larger
+2667,desktop is larger than an ipad,larger
+2668,dining tables are larger than chairs,larger
+2669,: valley is much larger than mini mall.,larger
+2670,the sun is millon times larger than the earth,larger
+2671,many breeds of dog are larger than poodles,larger
+2672,kitchenette is much larger than graphite pencil,larger
+2673,the earth's mass is much larger than the apple's mass.,larger
+2674,apples are larger than grapes,larger
+2675,living room is larger than table,larger
+2676,bedroom is larger than bed,larger
+2677,the vallis canyon on mars is much larger than the grand canyon.,larger
+2678,dragons are larger than lizards,larger
+2679,cruse ship is larger than fishing boat,larger
+2680,horse is larger than lamb,larger
+2681, jupiter is larger than neptune,larger
+2682,pillowcase must be larger than the pillow it is designed to cover.,larger
+2683,beach towel is larger than bath towel.,larger
+2684,magnifying glass is lens that makes things look larger than they really are,larger
+2685,violis stringed instrument which is larger than violin,larger
+2686,the casks to store wine can be larger than piano.,larger
+2687,walk-in closet is larger than normal closet.,larger
+2688,the earth is larger than the moon.,larger
+2689,polar bears are larger than humans,larger
+2690,streams are larger than puddles,larger
+2691,ladle is larger than teaspoon,larger
+2692,an continentliner is larger than breadbox,larger
+2693,children's heads are proportionately larger than adults heads,larger
+2694, bleachers are much larger than steel pen,larger
+2695,beach towel is larger than wash cloth.,larger
+2696,an acoustic guitar is larger than violin.,larger
+2697,cats are larger than guinepigs.,larger
+2698,the universe is larger than breadbox,larger
+2699,bed is larger than breadbox,larger
+2700,difference between purse and cello: cello is usaully larger than purse,larger
+2701,the vibrations of bell cannot be larger than the bell itself.,larger
+2702,golden retrievers are larger than poodles,larger
+2703,planets are larger than the united states,larger
+2704,grasshoppers are larger than ants,larger
+2705,crickets are larger than ladybugs,larger
+2706,most trees are larger than people.,larger
+2707,spreadsheet can be much larger than the screen.,larger
+2708,city is larger than breadbox.,larger
+2709,"often, there are numbers larger than hundred, one, two, three, four, five hundred",larger
+2710,the moon is larger than mandarin orange,larger
+2711,walk in closet is larger than cabinet,larger
+2712,jupiter is larger than mars,larger
+2713,the rings around saturn are larger than the moon,larger
+2714, garden is much larger than can of paint.,larger
+2715, passenger terminal is much larger than hairdryer.,larger
+2716, passenger terminal is much larger than chair,larger
+2717,city is larger than breadbox,larger
+2718,brook is body of moving water larger than stream but larger than creek.,larger
+2719,square foot is larger than square inch.,larger
+2720, lightbulb is larger than teaspoon,larger
+2721,cement truck is larger than car,larger
+2722,an continentplane is larger than motorcylce,larger
+2723,"the sun is 330,330 times larger than the earth",larger
+2724,the earth is larger than globe,larger
+2725,the asteroid ceres is larger than many moons.,larger
+2726,"another way to say ""no insect is larger than the moon"" is ""all insects are larger than the moon""",larger
+2727,polar bears are larger than penguins,larger
+2728,giraffes are larger than humans,larger
+2729,truck is larger than wheel,larger
+2730, walk in closet is larger than table,larger
+2731,twenty five is larger than twenty,larger
+2732,tractor's rear tires are larger than it,larger
+2733,no insect is larger than the moon.,larger
+2734,sofas are larger than chairs.,larger
+2735, strip mall is much larger than fitting room,larger
+2736,ten is larger than three,larger
+2737,eighteen is larger than eight,larger
+2738,symphony hall is much larger than chess piece,larger
+2739,penguins are larger than teddy bears,larger
+2740,hundred is larger than thirty two,larger
+2741,cruise ship is larger than tug boat,larger
+2742,submarine is larger than breadbox,larger
+2743,submarine is larger than torpedo,larger
+2744,states are larger than cities,larger
+2745,elephants are larger than cows,larger
+2746,cows are larger than cats,larger
+2747,bed sheets are larger than towels,larger
+2748,the whole pizzis larger than one slice,larger
+2749,most dinosaurs are much larger than children.,larger
+2750,dogs are usually larger than radishes,larger
+2751,elephants are larger than ladybugs,larger
+2752,pitchfork is larger than fork,larger
+2753,large container is larger than small container,larger
+2754,space station is larger than gas station,larger
+2755,dinosaurs are larger thsn frogs,larger
+2756,jets are larger than trucks,larger
+2757,continents are usually larger than countries,larger
+2758,van is larger than car.,larger
+2759,most buildings are much larger than lamps,larger
+2760,traffic artery is much larger than string,larger
+2761,dogs are larger than ants,larger
+2762,lizards are larger than crickets,larger
+2763,some bananas don't grow any larger than your thumb.,larger
+2764,states are much larger than humans.,larger
+2765, mario is larger than mushroom.,larger
+2766,pencil is larger than its led,larger
+2767,tumbler is larger than mug,larger
+2768,elephants are larger than ants.,larger
+2769,dolphins are larger than most fish,larger
+2770,hampsters are larger than gerbils.,larger
+2771,an continentplane propeller is larger than the propeller on beanie,larger
+2772,world is larger than woman,larger
+2773,supermarket is larger than grocer's shop.,larger
+2774, an amusement park is much larger than person,larger
+2775,jupiter is larger than earth,larger
+2776,difference between seand boat: seis larger than boat.,larger
+2777,the earth is larger than the moon.,larger
+2778,oceans are much larger than humans.,larger
+2779,some animals are much larger than fish.,larger
+2780,trucks are larger than cars.,larger
+2781,large things are larger than small things,larger
+2782,soccer ball is larger than golf ball,larger
+2783,pregnant woman is larger than non-pregnant woman,larger
+2784,oceans are larger than seas,larger
+2785,sharks are larger than mugs,larger
+2786,the sun is larger than son,larger
+2787, flight terminal is enormously larger than an egg.,larger
+2788,the earth is larger than an continentport,larger
+2789,men are larger than desks,larger
+2790,an aeroplane is larger than bird,larger
+2791,truck is larger than car.,larger
+2792,tree is larger than leave,larger
+2793,building is larger than person,larger
+2794,continents are much larger than humans.,larger
+2795,the internet is larger than humans can imagine.,larger
+2796,cities are larger than towns,larger
+2797,difference between theater and hair: one is much larger than the other,larger
+2798,the world is larger than mountain,larger
+2799,building is larger than table,larger
+2800,truck is larger than car,larger
+2801,cat is larger than bird,larger
+2802,the sun is larger than grapefruit,larger
+2803,difference between machine and star: stars are larger than any machine,larger
+2804,boat is larger than breadbox,larger
+2805,tennis balls are larger than golf balls but larger than footballs.,larger
+2806,well is larger than bucket,larger
+2807,the earth is larger than the ocean,larger
+2808,the earth is larger than anything on it.,larger
+2809,7 alram fire is larger than 4 alarm fire.,larger
+2810,the earth is larger than desert,larger
+2811,pillowcase is larger than toothbrush head,larger
+2812,sharks are larger than children,larger
+2813,most homes are much larger than humans.,larger
+2814,cities are much larger than humans.,larger
+2815,cat is larger than pear,larger
+2816,the sun is larger than  mountain,larger
+2817,bears are larger than frogs,larger
+2818,small problems look larger than they really are when your tired.,larger
+2819,trucks is larger than cat,larger
+2820,large trucks are larger than breadbox,larger
+2821,mice are larger than flies,larger
+2822,continents are larger than countries.,larger
+2823,mountains are larger than molehills.,larger
+2824,the atlantic ocean is larger than any lake or river.,larger
+2825,an ostrich's eyes are larger than its brain,larger
+2826,continents are larger than countries,larger
+2827,desk is larger than breadbox,larger
+2828,truck is larger than car.,larger
+2829,predators are larger than prey.,larger
+2830,concert piano is larger than regular piano,larger
+2831,liter is larger than cup,larger
+2832,the world is larger than car,larger
+2833,jupiter is larger than all the other planets combined,larger
+2834,an office building is larger than breadbox,larger
+2835,dogs are larger than rats,larger
+2836,sharks are larger than shellfish,larger
+2837,guns can be larger than people.,larger
+2838,stars are larger than planets,larger
+2839,ship is larger than truck.,larger
+2840,large dog is larger than child,larger
+2841,hemispheres are larger than continents,larger
+2842,horses are larger than people.,larger
+2843,cities are larger than towns.,larger
+2844,some stores are larger than others.,larger
+2845, pillowcase is larger than toothbrush head,larger
+2846,gallon is larger than cup,larger
+2847,adults are larger than towels,larger
+2848,jupiter is larger than earth.,larger
+2849,continents are much larger than humans,larger
+2850,couches are larger than chairs,larger
+2851, mammals are much larger than goldfish,larger
+2852,small car is larger than large bicycle.,larger
+2853,tubas are larger than flutes.,larger
+2854,the sun is larger than the biggest goldfish.,larger
+2855,tennis balls are larger than grapes,larger
+2856,the container is larger than the things in it,larger
+2857,the earth is larger than volcano.,larger
+2858,an owl is larger than mouse,larger
+2859,countries are larger than states.,larger
+2860,oceans are much larger than humans,larger
+2861,states are much larger than humans,larger
+2862,babies are larger than phones,larger
+2863,hampsters are larger than gerbils,larger
+2864,building is larger than person.,larger
+2865,dolphins are larger than dogs,larger
+2866,the sun is much larger than the earth,larger
+2867,the milky way is larger than the sun,larger
+2868,the atlantic ocean is larger than any lake or river,larger
+2869,real people are much larger than dolls,larger
+2870,humans are larger than dogs,larger
+2871,boats are larger than shoes,larger
+2872,mountains are larger than molehills,larger
+2873,cinemscreens are larger than tv screens,larger
+2874,elephants are larger than dogs.,larger
+2875,people are larger than chickens,larger
+2876,basketball is larger than baseball,larger
+2877,lunch is larger than breakfast,larger
+2878,rooms are larger than what is inside of them.,larger
+2879, captain is larger than picnic basket,larger
+2880,person wants identification with cause larger than himself,larger
+2881,states are larger than cities,larger
+2882,dolphins are larger than most fish.,larger
+2883,some stores are larger than others,larger
+2884,an aeroplane is larger than bird.,larger
+2885,real cars are much larger than toy cars.,larger
+2886,raindrops are larger than atoms,larger
+2887,ship is larger than truck,larger
+2888,my head is larger than my nose,larger
+2889,tree is larger than branch ,larger
+2890,bagel is smaller than loaf of bread,smaller
+2891,fork is smaller than space station,smaller
+2892,anything on the earth is smaller than the earth.,smaller
+2893,boats are smaller than cruises.,smaller
+2894,all bacteriare smaller than all mammals.,smaller
+2895,cows are smaller than barns,smaller
+2896,butterfly is smaller than bird,smaller
+2897,kitten is smaller than breadbox,smaller
+2898,"at birth, pandis smaller than mouse.",smaller
+2899,children are smaller than cabinets,smaller
+2900,village is smaller than country.,smaller
+2901,condo is smaller than mansion,smaller
+2902, spider is much smaller than human,smaller
+2903,business class continentplane seat is usually smaller than first class continentplane seat,smaller
+2904,electrons are smaller than protons.,smaller
+2905,boat is smaller than ship,smaller
+2906,broken balloon is lot smaller than an unbroken one,smaller
+2907,postage stamp is smaller than breadbox,smaller
+2908,children are smaller than buildings,smaller
+2909,computers are lot smaller than they.,smaller
+2910,fly is smaller than butterfly,smaller
+2911,an index card is smaller than sheet of paper,smaller
+2912,distant objects can seem to be smaller than closer objects,smaller
+2913,hills are smaller than mountains,smaller
+2914,closet is smaller than room.,smaller
+2915,hat cannot be worn if it is smaller than your head.,smaller
+2916,baby is smaller than desk,smaller
+2917,cats are smaller than giraffes,smaller
+2918,creek is smaller than the ocean,smaller
+2919,cans are smaller than barrels.,smaller
+2920,fleis smaller than mouse.,smaller
+2921,mouse is smaller than an owl.,smaller
+2922,the moon is smaller than the earth.,smaller
+2923,wash cloth is smaller than hand towel.,smaller
+2924,pencil is smaller than breadbox,smaller
+2925,pool is smaller than pond,smaller
+2926,babies are smaller than their older siblings,smaller
+2927,picture is often smaller than what it depicts,smaller
+2928,large girl is smaller than building,smaller
+2929, teddy bear is smaller than an actual bear.,smaller
+2930,coffee cup is smaller than breadbox,smaller
+2931,creek is smaller than river.,smaller
+2932,humans are smaller than continentplanes,smaller
+2933,something you find in box is something smaller than the box.,smaller
+2934,credit card is smaller than breadbox,smaller
+2935,washclothes are smaller than hand towels.,smaller
+2936,wash cloths are smaller than bath towels.,smaller
+2937, ticket is smaller than train.,smaller
+2938,rat is smaller than cat,smaller
+2939, an apartment is much smaller than television studio.,smaller
+2940,river is smaller than sea,smaller
+2941,there are things smaller than the naked eye can see.,smaller
+2942,mini mall is smaller than large mall,smaller
+2943,motorcycle is smaller than car,smaller
+2944,shells are smaller than dolphins,smaller
+2945,many lizards are smaller than professional basketball player's foot.,smaller
+2946,women are usually smaller than men,smaller
+2947,animals hearts are smaller than the animal,smaller
+2948,rhode island is smaller than new jersey.,smaller
+2949, worms are much smaller than birds,smaller
+2950,strip mall is smaller than shopping center,smaller
+2951, goat is smaller than horse.,smaller
+2952,eggs are smaller than chickens,smaller
+2953,chair is smaller than house,smaller
+2954,cup is smaller than house,smaller
+2955,snowflake is much smaller than display cabinet,smaller
+2956,lolipops are smaller than mouths,smaller
+2957,humans are smaller than mountains,smaller
+2958,offspring can must be smaller than their mother,smaller
+2959,pill is smaller than breadbox,smaller
+2960,dog food is smaller than dogs,smaller
+2961, bones are almost always smaller than dogs.,smaller
+2962,horseshoes are smaller than horses,smaller
+2963,cats are smaller than hippos,smaller
+2964, grocery stores are usually lot smaller than shopping centers,smaller
+2965,houses are smaller than tidal waves.,smaller
+2966,some devices to help people hear are smaller than tube of lipstick.,smaller
+2967,cigarette pack is much smaller than football field,smaller
+2968,town is smaller than city.,smaller
+2969,phone is smaller than laptop,smaller
+2970,man is smaller than baby,smaller
+2971,sock is smaller than breadbox,smaller
+2972,vegetable garden is smaller than field.,smaller
+2973,lakes are smaller than seas,smaller
+2974,cpu chip is smaller than breadbox,smaller
+2975,beetles are smaller than babies,smaller
+2976,children begin life smaller than they will grow to be,smaller
+2977,lake is smaller than sea,smaller
+2978,rugs are smaller than carpets,smaller
+2979,earth is smaller than the sun.,smaller
+2980,books are smaller than people.,smaller
+2981,apartments are usually smaller than houses,smaller
+2982, guitar is smaller than harp,smaller
+2983,"another way to say ""building is smaller than person"" is ""person is smaller than building.""",smaller
+2984,slightly smaller than dreadnought is folk guitar,smaller
+2985,kitchenette is smaller than proper kitchen,smaller
+2986,planets are smaller than stars.,smaller
+2987,an upright piano is smaller than baby grand piano.,smaller
+2988,the atlantic ocean is smaller than the pacific ocean.,smaller
+2989,liquor glass is usually smaller than normal glass,smaller
+2990,smaller than regular notebook,smaller
+2991, book is smaller than car.,smaller
+2992,hand towels are smaller than bath towels.,smaller
+2993,baseball is smaller than basketball.,smaller
+2994,tennis balls are smaller than soccer balls.,smaller
+2995,distant objects appear smaller than nearer objects of the same size,smaller
+2996,everything on the earth is smaller than the earth,smaller
+2997,the earth is smaller than star,smaller
+2998,the baby is smaller than bear,smaller
+2999,most shellfish are smaller than dolphins,smaller
+3000,an index card is smaller than sheet of paper.,smaller
+3001,"if you cut something in half, each half is smaller than the whole piece was.",smaller
+3002,young children are smaller than adults.,smaller
+3003,seas are smaller than oceans,smaller
+3004,distant objects appear smaller than their real size to humans,smaller
+3005,planets are smaller than stars,smaller
+3006,something you find in container is something smaller than the container.,smaller
+3007,creek is smaller than stream,smaller
+3008,children are smaller than grown-ups.,smaller
+3009,eggs are smaller than the animals that lay them.,smaller
+3010,pond is smaller than lake,smaller
+3011,creek is smaller than stream,smaller
+3012,the baby is smaller than grandma,smaller
+3013,neighborhood is smaller than town.,smaller
+3014,mini mall is smaller than regular mall.,smaller
+3015,pools are smaller than oceans,smaller
+3016,cats are smaller than people.,smaller
+3017,difference between tub and farmland: tub is generally smaller than farmland,smaller
+3018,babies are smaller than grown-ups,smaller
+3019,dnis smaller than breadbox,smaller
+3020,the average helicopter is smaller than the average passenger jet.,smaller
+3021,something in box has to be smaller than the box itself.,smaller
+3022,difference between thumb tack and doormat: thumb tack is much smaller than doormat,smaller
+3023,pygmies are smaller than other human races,smaller
+3024,people are smaller than elephants,smaller
+3025,toys are generally smaller than the things they resemble.,smaller
+3026,"electrons, protons and neutrons are smaller than atoms.",smaller
+3027,spider is smaller than humans,smaller
+3028,an orange is smaller than football,smaller
+3029,clothing closet is smaller than the room it is attached to,smaller
+3030,babies are smaller than grown-ups.,smaller
+3031,glove is smaller than breadbox,smaller
+3032,babies are smaller than their mothers,smaller
+3033,ll of the other planets in the solar system are smaller than jupiter,smaller
+3034,cars are smaller than trucks.,smaller
+3035,children are smaller than adults.,smaller
+3036,room is smaller than building.,smaller
+3037, cow is much smaller than moon.,smaller
+3038,most birds are smaller than eagles,smaller
+3039,wedge has one end smaller than the other.,smaller
+3040,pills are smaller than potatoes.,smaller
+3041,most fish are smaller than dolphin,smaller
+3042,planets are smaller than stars,smaller
+3043,stepladder is smaller than regular ladder,smaller
+3044,mouse is smaller than cat,smaller
+3045,violin is smaller than viola,smaller
+3046,something you find in container is something smaller than the container.,smaller
+3047,mouse is smaller than breadbox,smaller
+3048,the moon is smaller than the sun,smaller
+3049,boy is usually smaller than full grown man,smaller
+3050,ants are smaller than birds.,smaller
+3051,flies are little smaller than pea,smaller
+3052,humans are smaller than polar bears,smaller
+3053,creek is smaller than stream,smaller
+3054,moon is smaller than its planets,smaller
+3055,babies are smaller than their mothers,smaller
+3056,dolphins are smaller than whales,smaller
+3057,person is smaller than boat,smaller
+3058,offspring must be smaller than their mother,smaller
+3059, cats are smaller than dogs.,smaller
+3060,mice are smaller than cats,smaller
+3061,coach class continentplane seat is usually smaller than business class continentplane seat,smaller
+3062,distant objects appear smaller than nearer objects of the same size.,smaller
+3063,dime is smaller than quarter,smaller
+3064,dime is smaller than nickel,smaller
+3065,cats are generally smaller than dogs.,smaller
+3066,tennis balls are smaller than footballs,smaller
+3067,child is smaller than an adult,smaller
+3068,child is smaller than teenager.,smaller
+3069,mice are smaller than rabbits,smaller
+3070,all insects are smaller than rabbit,smaller
+3071,books are smaller than people,smaller
+3072,worms are smaller than birds,smaller
+3073,rabbit is smaller than human,smaller
+3074,teaspoon is smaller than tablespoon.,smaller
+3075,things that are far away look smaller than things that are close,smaller
+3076,uranus is smaller than saturn.,smaller
+3077,town is smaller than country.,smaller
+3078,an ant is smaller than cat.,smaller
+3079, butterfly is smaller than an animal,smaller
+3080,an atom is smaller than molecule,smaller
+3081,kittens are smaller than windows,smaller
+3082,stools are smaller than tables,smaller
+3083,an upright piano is smaller than grand piano,smaller
+3084,cars are smaller than trucks,smaller
+3085,shoe is smaller than boat,smaller
+3086,creek is smaller than stream,smaller
+3087,borough is smaller than city,smaller
+3088,teaspoon is smaller than tablespoon,smaller
+3089,toy car is generally smaller than real car.,smaller
+3090,spiders are smaller than humans.,smaller
+3091,brook is smaller than creak,smaller
+3092,toy cars are smaller than real cars.,smaller
+3093,babies are smaller than their mothers.,smaller
+3094, people are smaller than cars.,smaller
+3095,boxes are smaller than vending stands,smaller
+3096,mice are smaller than people.,smaller
+3097,the average girl is smaller than the average building.,smaller
+3098,rugs are smaller than carpets.,smaller
+3099,the earth is smaller than the universe,smaller
+3100,dogs are always smaller than elephants.,smaller
+3101,all insects are smaller than the moon,smaller
+3102,pebble is smaller than boulder,smaller
+3103,pizzslices are usually smaller than one fourth of the pizza,smaller
+3104,mouse is smaller than cat.,smaller
+3105,baseball is smaller than basketball,smaller
+3106,stool is smaller than chair,smaller
+3107,mini mall is smaller than large mall.,smaller
+3108,creek is smaller than river.,smaller
+3109,lunch is smaller than dinner,smaller
+3110,creek is smaller than stream.,smaller
+3111,the pill is smaller than person's mouth.,smaller
+3112,teaspoon is smaller than tablespoon.,smaller
+3113, all planets in the earth's solar system are smaller than jupiter,smaller
+3114,butterfly is smaller than bird.,smaller
+3115,cigarette pack is much smaller than football field.,smaller
+3116,earth is smaller than jupiter,smaller
+3117,local is smaller than national.,smaller
+3118,toy cars are smaller than real cars.,smaller
+3119, cities are smaller than states,smaller
+3120,coin is smaller than the palm of an adult's hand.,smaller
+3121,earths polar diameter is smaller than the equatorial diameter.,smaller
+3122,non-military submarines are usually much smaller than military submarines,smaller
+3123,town is smaller than city,smaller
+3124,village is smaller than city.,smaller
+3125,molecules are smaller than grizzly bears.,smaller
+3126,condo is smaller than house,smaller
+3127,car is smaller than garage,smaller
