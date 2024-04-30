@@ -40,6 +40,6 @@ This is the line of code you would need to run:
 
 The results of the evaluation can be found in the 'images' directory, that shows our terminal outputs for each of these cases. In this directory, you can also find the graphs of the results of the color and size datasets.
 
-The required tables (for location) and graphs are generated in the following file: https://colab.research.google.com/drive/1rGcm5zgCSXH718qhRY7btMHn2HZacpxr?usp=sharing
+The required tables (for location) and graphs are generated in the following file. This file is included in 'results-484': https://colab.research.google.com/drive/1rGcm5zgCSXH718qhRY7btMHn2HZacpxr?usp=sharing
 
 Finally, we evaluate the content of the CC-News dataset (https://paperswithcode.com/dataset/cc-news). This code is also included in 'results-484': https://colab.research.google.com/drive/1f_zG1549bAQI-og-27jThyE0pXM0Jce4?usp=sharing
