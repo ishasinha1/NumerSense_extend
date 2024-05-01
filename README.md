@@ -16,7 +16,7 @@ Extracting examples from ConceptNet and OMCS: https://colab.research.google.com/
 
 Cleaning the data and selecting 3,000 examples: https://colab.research.google.com/drive/1LRRhXx2n8_FdmCAWo-3W7J6yeLgVCgjG?usp=sharing
 
-_Size:_
+_Size:_ https://colab.research.google.com/drive/1sB5pb8_og-LJFJeUmI4cVyBQmRb1Fa3-?usp=sharing
 
 _Location:_
 
