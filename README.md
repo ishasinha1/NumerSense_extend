@@ -18,7 +18,7 @@ Cleaning the data and selecting 3,000 examples: https://colab.research.google.co
 
 _Size:_ https://colab.research.google.com/drive/1sB5pb8_og-LJFJeUmI4cVyBQmRb1Fa3-?usp=sharing
 
-_Location:_
+_Location:_ https://colab.research.google.com/drive/1UiDvNkBnXRPLOxxjMKFobjvSYku5pDxy?usp=sharing
 
 _Masking:_ 
 Code for masking colors and places dataset: https://colab.research.google.com/drive/1jh9l8yMKBatjH5JkZ8TB_3XIN6rNGmNT?usp=sharing
