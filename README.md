@@ -1,4 +1,4 @@
-# COS484: Final Project
+# Empirical Analysis of commonsense knowledge of PTLMs (Color, Size, Location)
 
 This reproduction expands on the _NumerSense_ paper (https://arxiv.org/abs/2005.00683) to attempt to induce commonsense knowledge of pre-trained language models like BERT-Base and RoBERTa-Base in the domains of color, size and location.
 
